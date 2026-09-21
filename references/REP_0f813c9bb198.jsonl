@@ -1,0 +1,365 @@
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "Allocation and impact report", "field": "report_name", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "2026", "field": "year", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "ISS ESG", "field": "third_party_assurance", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "7R Green Finance Framework", "field": "framework_name", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "80.5010000000", "field": "total_allocation", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "EUR", "field": "currency", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "2026-02-28", "field": "date_of_allocation", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "80.5010000000", "field": "total_portfolio_allocation", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "80.5010000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_0f813c9bb198", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "PL7RSA000019", "field": "isin", "row_key": "bond:1:PL7RSA000019", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green bond", "field": "programme", "row_key": "bond:1:PL7RSA000019", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "22.881", "field": "bond_size", "row_key": "bond:1:PL7RSA000019", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:PL7RSA000019", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "22.881", "field": "allocated_amount", "row_key": "bond:1:PL7RSA000019", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "PLO273400021", "field": "isin", "row_key": "bond:2:PLO273400021", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green bond", "field": "programme", "row_key": "bond:2:PLO273400021", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "150", "field": "bond_size", "row_key": "bond:2:PLO273400021", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "PLN", "field": "currency", "row_key": "bond:2:PLO273400021", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "150", "field": "allocated_amount", "row_key": "bond:2:PLO273400021", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "PLO273400039", "field": "isin", "row_key": "bond:3:PLO273400039", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green bond", "field": "programme", "row_key": "bond:3:PLO273400039", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "2.5", "field": "bond_size", "row_key": "bond:3:PLO273400039", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "bond:3:PLO273400039", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "2.5", "field": "allocated_amount", "row_key": "bond:3:PLO273400039", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "PL7RSA000027", "field": "isin", "row_key": "bond:4:PL7RSA000027", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green bond", "field": "programme", "row_key": "bond:4:PL7RSA000027", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "83.9", "field": "bond_size", "row_key": "bond:4:PL7RSA000027", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "PLN", "field": "currency", "row_key": "bond:4:PL7RSA000027", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "83.9", "field": "allocated_amount", "row_key": "bond:4:PL7RSA000027", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green Buildings", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "80.501", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "7R Park Gda\u0144sk IV", "field": "name", "row_key": "PROJ_4fca0781c47c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "1", "field": "number", "row_key": "PROJ_4fca0781c47c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_4fca0781c47c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_4fca0781c47c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_4fca0781c47c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "8.811", "field": "amount", "row_key": "PROJ_4fca0781c47c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_4fca0781c47c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_4fca0781c47c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Poland", "field": "country", "row_key": "PROJ_4fca0781c47c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "7R Park Gda\u0144sk V", "field": "name", "row_key": "PROJ_e7d7f1055b2e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "2", "field": "number", "row_key": "PROJ_e7d7f1055b2e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_e7d7f1055b2e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_e7d7f1055b2e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_e7d7f1055b2e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "4", "field": "amount", "row_key": "PROJ_e7d7f1055b2e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_e7d7f1055b2e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_e7d7f1055b2e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Poland", "field": "country", "row_key": "PROJ_e7d7f1055b2e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "7R Park Krak\u00f3w 3", "field": "name", "row_key": "PROJ_b661e1273c4c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "3", "field": "number", "row_key": "PROJ_b661e1273c4c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_b661e1273c4c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_b661e1273c4c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_b661e1273c4c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "27.518", "field": "amount", "row_key": "PROJ_b661e1273c4c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_b661e1273c4c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_b661e1273c4c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Poland", "field": "country", "row_key": "PROJ_b661e1273c4c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "7R Park Pozna\u0144 East", "field": "name", "row_key": "PROJ_ea43308a5fd5", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "4", "field": "number", "row_key": "PROJ_ea43308a5fd5", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_ea43308a5fd5", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_ea43308a5fd5", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_ea43308a5fd5", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "3.691", "field": "amount", "row_key": "PROJ_ea43308a5fd5", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_ea43308a5fd5", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_ea43308a5fd5", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Poland", "field": "country", "row_key": "PROJ_ea43308a5fd5", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "7R Park Warsaw 10", "field": "name", "row_key": "PROJ_69607cff8422", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "5", "field": "number", "row_key": "PROJ_69607cff8422", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_69607cff8422", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_69607cff8422", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_69607cff8422", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "14.332", "field": "amount", "row_key": "PROJ_69607cff8422", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_69607cff8422", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_69607cff8422", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Poland", "field": "country", "row_key": "PROJ_69607cff8422", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "7R Park Zabrze I", "field": "name", "row_key": "PROJ_8a3bdcf114a9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "6", "field": "number", "row_key": "PROJ_8a3bdcf114a9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_8a3bdcf114a9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_8a3bdcf114a9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_8a3bdcf114a9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "5.809", "field": "amount", "row_key": "PROJ_8a3bdcf114a9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_8a3bdcf114a9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_8a3bdcf114a9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Poland", "field": "country", "row_key": "PROJ_8a3bdcf114a9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "7R Warsaw South I", "field": "name", "row_key": "PROJ_81a5a7328c6f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "7", "field": "number", "row_key": "PROJ_81a5a7328c6f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_81a5a7328c6f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_81a5a7328c6f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_81a5a7328c6f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "12.843", "field": "amount", "row_key": "PROJ_81a5a7328c6f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_81a5a7328c6f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_81a5a7328c6f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Poland", "field": "country", "row_key": "PROJ_81a5a7328c6f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential phase 1", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "1303.9000000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential phase 1", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "14533725.5800000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential phase 1 (embodied))", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "651.4100000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential phase 1 (operational)", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "13.0500000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential phase 2", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "1116.1300000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential phase 2", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "33985589.8700000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential phase 2 (embodied))", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "319.9500000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential phase 2 (operational)", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "15.8700000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green building certification phase 1", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "88.8000000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Percent", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green building certification phase 2", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "90.2000000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:10", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Percent", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:10", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Gross leasable area", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "42000.0000000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:11", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "sq.m", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:11", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Primary energy demand phase 1", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "47.5000000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:12", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "KWh/m2/year", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:12", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Primary energy demand phase 2", "field": "name", "row_key": "kpi:PROJ_4fca0781c47c:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "67.9000000000", "field": "value", "row_key": "kpi:PROJ_4fca0781c47c:13", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4fca0781c47c:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "KWh/m2/year", "field": "unit", "row_key": "kpi:PROJ_4fca0781c47c:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4fca0781c47c:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4fca0781c47c:13", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4fca0781c47c:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential", "field": "name", "row_key": "kpi:PROJ_e7d7f1055b2e:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "1754.0200000000", "field": "value", "row_key": "kpi:PROJ_e7d7f1055b2e:14", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e7d7f1055b2e:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_e7d7f1055b2e:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e7d7f1055b2e:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e7d7f1055b2e:14", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e7d7f1055b2e:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential", "field": "name", "row_key": "kpi:PROJ_e7d7f1055b2e:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "89123489.9600000000", "field": "value", "row_key": "kpi:PROJ_e7d7f1055b2e:15", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e7d7f1055b2e:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_e7d7f1055b2e:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e7d7f1055b2e:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e7d7f1055b2e:15", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e7d7f1055b2e:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential(embodied)", "field": "name", "row_key": "kpi:PROJ_e7d7f1055b2e:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "307.1300000000", "field": "value", "row_key": "kpi:PROJ_e7d7f1055b2e:16", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e7d7f1055b2e:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_e7d7f1055b2e:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e7d7f1055b2e:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e7d7f1055b2e:16", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e7d7f1055b2e:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential(operational)", "field": "name", "row_key": "kpi:PROJ_e7d7f1055b2e:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "25.7600000000", "field": "value", "row_key": "kpi:PROJ_e7d7f1055b2e:17", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e7d7f1055b2e:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_e7d7f1055b2e:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e7d7f1055b2e:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e7d7f1055b2e:17", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e7d7f1055b2e:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green building certification", "field": "name", "row_key": "kpi:PROJ_e7d7f1055b2e:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "73.1000000000", "field": "value", "row_key": "kpi:PROJ_e7d7f1055b2e:18", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e7d7f1055b2e:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Percent", "field": "unit", "row_key": "kpi:PROJ_e7d7f1055b2e:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e7d7f1055b2e:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e7d7f1055b2e:18", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e7d7f1055b2e:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Gross leasable area", "field": "name", "row_key": "kpi:PROJ_e7d7f1055b2e:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "50876.0000000000", "field": "value", "row_key": "kpi:PROJ_e7d7f1055b2e:19", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e7d7f1055b2e:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "sq.m", "field": "unit", "row_key": "kpi:PROJ_e7d7f1055b2e:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e7d7f1055b2e:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e7d7f1055b2e:19", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e7d7f1055b2e:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Primary Energy Use", "field": "name", "row_key": "kpi:PROJ_e7d7f1055b2e:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "827.0000000000", "field": "value", "row_key": "kpi:PROJ_e7d7f1055b2e:20", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e7d7f1055b2e:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kWh/m2", "field": "unit", "row_key": "kpi:PROJ_e7d7f1055b2e:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e7d7f1055b2e:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e7d7f1055b2e:20", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e7d7f1055b2e:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential", "field": "name", "row_key": "kpi:PROJ_b661e1273c4c:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "1905.5200000000", "field": "value", "row_key": "kpi:PROJ_b661e1273c4c:21", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b661e1273c4c:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_b661e1273c4c:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b661e1273c4c:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b661e1273c4c:21", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b661e1273c4c:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential", "field": "name", "row_key": "kpi:PROJ_b661e1273c4c:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "84956584.7800000000", "field": "value", "row_key": "kpi:PROJ_b661e1273c4c:22", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b661e1273c4c:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_b661e1273c4c:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b661e1273c4c:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b661e1273c4c:22", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b661e1273c4c:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential(embodied)", "field": "name", "row_key": "kpi:PROJ_b661e1273c4c:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "582.7900000000", "field": "value", "row_key": "kpi:PROJ_b661e1273c4c:23", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b661e1273c4c:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_b661e1273c4c:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b661e1273c4c:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b661e1273c4c:23", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b661e1273c4c:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential(operational)", "field": "name", "row_key": "kpi:PROJ_b661e1273c4c:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "22.9100000000", "field": "value", "row_key": "kpi:PROJ_b661e1273c4c:24", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b661e1273c4c:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_b661e1273c4c:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b661e1273c4c:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b661e1273c4c:24", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b661e1273c4c:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green building certification", "field": "name", "row_key": "kpi:PROJ_b661e1273c4c:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "74.7000000000", "field": "value", "row_key": "kpi:PROJ_b661e1273c4c:25", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b661e1273c4c:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Percent", "field": "unit", "row_key": "kpi:PROJ_b661e1273c4c:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b661e1273c4c:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b661e1273c4c:25", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b661e1273c4c:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Gross leasable area next phases", "field": "name", "row_key": "kpi:PROJ_b661e1273c4c:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "190000.0000000000", "field": "value", "row_key": "kpi:PROJ_b661e1273c4c:26", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b661e1273c4c:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "sq.m", "field": "unit", "row_key": "kpi:PROJ_b661e1273c4c:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b661e1273c4c:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b661e1273c4c:26", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b661e1273c4c:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Gross leasable area phase 1", "field": "name", "row_key": "kpi:PROJ_b661e1273c4c:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "43500.0000000000", "field": "value", "row_key": "kpi:PROJ_b661e1273c4c:27", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b661e1273c4c:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "sq.m", "field": "unit", "row_key": "kpi:PROJ_b661e1273c4c:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b661e1273c4c:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b661e1273c4c:27", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b661e1273c4c:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Primary Energy Use", "field": "name", "row_key": "kpi:PROJ_b661e1273c4c:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "106.6000000000", "field": "value", "row_key": "kpi:PROJ_b661e1273c4c:28", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b661e1273c4c:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kWh/m2", "field": "unit", "row_key": "kpi:PROJ_b661e1273c4c:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b661e1273c4c:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b661e1273c4c:28", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b661e1273c4c:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Gross leasable area", "field": "name", "row_key": "kpi:PROJ_ea43308a5fd5:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "22500.0000000000", "field": "value", "row_key": "kpi:PROJ_ea43308a5fd5:29", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ea43308a5fd5:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "sq.m", "field": "unit", "row_key": "kpi:PROJ_ea43308a5fd5:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ea43308a5fd5:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ea43308a5fd5:29", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ea43308a5fd5:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Gross leasable area", "field": "name", "row_key": "kpi:PROJ_69607cff8422:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "65000.0000000000", "field": "value", "row_key": "kpi:PROJ_69607cff8422:30", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_69607cff8422:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "sq.m", "field": "unit", "row_key": "kpi:PROJ_69607cff8422:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_69607cff8422:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_69607cff8422:30", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_69607cff8422:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential", "field": "name", "row_key": "kpi:PROJ_8a3bdcf114a9:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "1399.8600000000", "field": "value", "row_key": "kpi:PROJ_8a3bdcf114a9:31", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8a3bdcf114a9:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_8a3bdcf114a9:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8a3bdcf114a9:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8a3bdcf114a9:31", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_8a3bdcf114a9:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential", "field": "name", "row_key": "kpi:PROJ_8a3bdcf114a9:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "13349112.4600000000", "field": "value", "row_key": "kpi:PROJ_8a3bdcf114a9:32", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8a3bdcf114a9:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_8a3bdcf114a9:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8a3bdcf114a9:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8a3bdcf114a9:32", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_8a3bdcf114a9:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential (embodied)", "field": "name", "row_key": "kpi:PROJ_8a3bdcf114a9:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "810.7700000000", "field": "value", "row_key": "kpi:PROJ_8a3bdcf114a9:33", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8a3bdcf114a9:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_8a3bdcf114a9:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8a3bdcf114a9:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8a3bdcf114a9:33", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_8a3bdcf114a9:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Global warming potential (operational)", "field": "name", "row_key": "kpi:PROJ_8a3bdcf114a9:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "11.7800000000", "field": "value", "row_key": "kpi:PROJ_8a3bdcf114a9:34", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8a3bdcf114a9:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kgCO2e/m2", "field": "unit", "row_key": "kpi:PROJ_8a3bdcf114a9:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8a3bdcf114a9:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8a3bdcf114a9:34", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_8a3bdcf114a9:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Green building certification", "field": "name", "row_key": "kpi:PROJ_8a3bdcf114a9:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "73.1000000000", "field": "value", "row_key": "kpi:PROJ_8a3bdcf114a9:35", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8a3bdcf114a9:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Percent", "field": "unit", "row_key": "kpi:PROJ_8a3bdcf114a9:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8a3bdcf114a9:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8a3bdcf114a9:35", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_8a3bdcf114a9:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Gross leasable area", "field": "name", "row_key": "kpi:PROJ_8a3bdcf114a9:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "9617.0000000000", "field": "value", "row_key": "kpi:PROJ_8a3bdcf114a9:36", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8a3bdcf114a9:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "sq.m", "field": "unit", "row_key": "kpi:PROJ_8a3bdcf114a9:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8a3bdcf114a9:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8a3bdcf114a9:36", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_8a3bdcf114a9:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Primary Energy Use", "field": "name", "row_key": "kpi:PROJ_8a3bdcf114a9:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "49.1000000000", "field": "value", "row_key": "kpi:PROJ_8a3bdcf114a9:37", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8a3bdcf114a9:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "kWh/m2", "field": "unit", "row_key": "kpi:PROJ_8a3bdcf114a9:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8a3bdcf114a9:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8a3bdcf114a9:37", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_8a3bdcf114a9:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Gross leasable area", "field": "name", "row_key": "kpi:PROJ_81a5a7328c6f:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "120000.0000000000", "field": "value", "row_key": "kpi:PROJ_81a5a7328c6f:38", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_81a5a7328c6f:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "sq.m", "field": "unit", "row_key": "kpi:PROJ_81a5a7328c6f:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_81a5a7328c6f:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_81a5a7328c6f:38", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_81a5a7328c6f:38", "table": "kpis"}

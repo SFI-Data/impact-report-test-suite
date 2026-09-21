@@ -1,0 +1,184 @@
+{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "Green Financing Report 2025", "field": "report_name", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "2025", "field": "year", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "Cicero Shades of Green", "field": "third_party_assurance", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "\u00c5 Energi Green Financing Framework", "field": "framework_name", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "5550.0000000000", "field": "total_allocation", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "NOK", "field": "currency", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "2025-12-31", "field": "date_of_allocation", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": null, "evidence": null, "expected": null, "field": "total_portfolio_allocation", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": null, "evidence": null, "expected": null, "field": "portfolio_allocation_from_bonds", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "NOK", "field": "portfolio_currency", "row_key": "REP_a76bd861447a", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NO0013651448", "field": "isin", "row_key": "bond:1:NO0013651448", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green bond", "field": "programme", "row_key": "bond:1:NO0013651448", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "600", "field": "bond_size", "row_key": "bond:1:NO0013651448", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NOK", "field": "currency", "row_key": "bond:1:NO0013651448", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "600", "field": "allocated_amount", "row_key": "bond:1:NO0013651448", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NO0013651489", "field": "isin", "row_key": "bond:2:NO0013651489", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green bond", "field": "programme", "row_key": "bond:2:NO0013651489", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "1,200", "field": "bond_size", "row_key": "bond:2:NO0013651489", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NOK", "field": "currency", "row_key": "bond:2:NO0013651489", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "1,200", "field": "allocated_amount", "row_key": "bond:2:NO0013651489", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NO0013530543", "field": "isin", "row_key": "bond:3:NO0013530543", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green bond", "field": "programme", "row_key": "bond:3:NO0013530543", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "bond_size", "row_key": "bond:3:NO0013530543", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NOK", "field": "currency", "row_key": "bond:3:NO0013530543", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:3:NO0013530543", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NO0013530550", "field": "isin", "row_key": "bond:4:NO0013530550", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green bond", "field": "programme", "row_key": "bond:4:NO0013530550", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "600", "field": "bond_size", "row_key": "bond:4:NO0013530550", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NOK", "field": "currency", "row_key": "bond:4:NO0013530550", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "600", "field": "allocated_amount", "row_key": "bond:4:NO0013530550", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NO0013530535", "field": "isin", "row_key": "bond:5:NO0013530535", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green bond", "field": "programme", "row_key": "bond:5:NO0013530535", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "650", "field": "bond_size", "row_key": "bond:5:NO0013530535", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NOK", "field": "currency", "row_key": "bond:5:NO0013530535", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "650", "field": "allocated_amount", "row_key": "bond:5:NO0013530535", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NO0013507111", "field": "isin", "row_key": "bond:6:NO0013507111", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green bond", "field": "programme", "row_key": "bond:6:NO0013507111", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "750", "field": "bond_size", "row_key": "bond:6:NO0013507111", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NOK", "field": "currency", "row_key": "bond:6:NO0013507111", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:6:NO0013507111", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NO0013507103", "field": "isin", "row_key": "bond:7:NO0013507103", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green bond", "field": "programme", "row_key": "bond:7:NO0013507103", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "750", "field": "bond_size", "row_key": "bond:7:NO0013507103", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NOK", "field": "currency", "row_key": "bond:7:NO0013507103", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:7:NO0013507103", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NO0013554881", "field": "isin", "row_key": "bond:8:NO0013554881", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green bond", "field": "programme", "row_key": "bond:8:NO0013554881", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "bond_size", "row_key": "bond:8:NO0013554881", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "NOK", "field": "currency", "row_key": "bond:8:NO0013554881", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:8:NO0013554881", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013651489", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "762", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013507111", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "477", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013507103", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "477", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013651489", "field": "isin", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "438", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013530535", "field": "isin", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "413", "field": "amount", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013530550", "field": "isin", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "381", "field": "amount", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013651448", "field": "isin", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "381", "field": "amount", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013530543", "field": "isin", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "317", "field": "amount", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013554881", "field": "isin", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "317", "field": "amount", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013507111", "field": "isin", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "274", "field": "amount", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013507103", "field": "isin", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "274", "field": "amount", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013530535", "field": "isin", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "237", "field": "amount", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:13", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013530550", "field": "isin", "row_key": "alloc:13", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:13", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "219", "field": "amount", "row_key": "alloc:13", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:13", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:14", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013651448", "field": "isin", "row_key": "alloc:14", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:14", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "219", "field": "amount", "row_key": "alloc:14", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:14", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:15", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013530543", "field": "isin", "row_key": "alloc:15", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:15", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "182", "field": "amount", "row_key": "alloc:15", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:15", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:16", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NO0013554881", "field": "isin", "row_key": "alloc:16", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:16", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "182", "field": "amount", "row_key": "alloc:16", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "alloc:16", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Fr\u00f8ytlandsfoss hydro power plant", "field": "name", "row_key": "PROJ_0877071fc343", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Project 2", "field": "number", "row_key": "PROJ_0877071fc343", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_0877071fc343", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_0877071fc343", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Renewable Energy", "field": "category", "row_key": "PROJ_0877071fc343", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "amount", "row_key": "PROJ_0877071fc343", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "currency", "row_key": "PROJ_0877071fc343", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Hydropower", "field": "project_type", "row_key": "PROJ_0877071fc343", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_0877071fc343", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Project 1", "field": "name", "row_key": "PROJ_4dff0075b368", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Project 1", "field": "number", "row_key": "PROJ_4dff0075b368", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_4dff0075b368", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_4dff0075b368", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_4dff0075b368", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "2,425", "field": "amount", "row_key": "PROJ_4dff0075b368", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "NOK", "field": "currency", "row_key": "PROJ_4dff0075b368", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_4dff0075b368", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_4dff0075b368", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual Production", "field": "name", "row_key": "kpi:PROJ_0877071fc343:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "10.0000000000", "field": "value", "row_key": "kpi:PROJ_0877071fc343:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_0877071fc343:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "GWh", "field": "unit", "row_key": "kpi:PROJ_0877071fc343:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_0877071fc343:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_0877071fc343:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_0877071fc343:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Reduced co2 equivalents", "field": "name", "row_key": "kpi:PROJ_0877071fc343:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "1732.7233500000", "field": "value", "row_key": "kpi:PROJ_0877071fc343:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_0877071fc343:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "tonnes", "field": "unit", "row_key": "kpi:PROJ_0877071fc343:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_0877071fc343:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_0877071fc343:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_0877071fc343:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Number of customers", "field": "name", "row_key": "kpi:PROJ_4dff0075b368:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "426527.0000000000", "field": "value", "row_key": "kpi:PROJ_4dff0075b368:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4dff0075b368:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "household and business", "field": "unit", "row_key": "kpi:PROJ_4dff0075b368:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4dff0075b368:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4dff0075b368:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4dff0075b368:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Saidi (system average interrup tion duration index", "field": "name", "row_key": "kpi:PROJ_4dff0075b368:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "214.8100000000", "field": "value", "row_key": "kpi:PROJ_4dff0075b368:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4dff0075b368:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "minutes", "field": "unit", "row_key": "kpi:PROJ_4dff0075b368:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4dff0075b368:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4dff0075b368:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4dff0075b368:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Total power delivered", "field": "name", "row_key": "kpi:PROJ_4dff0075b368:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "9754653.0000000000", "field": "value", "row_key": "kpi:PROJ_4dff0075b368:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4dff0075b368:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_4dff0075b368:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4dff0075b368:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4dff0075b368:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4dff0075b368:5", "table": "kpis"}

@@ -1,0 +1,162 @@
+{"applicability": "present", "evidence": {"pages": [1, 2]}, "expected": "Investor Report Green Bonds 2026", "field": "report_name", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 2]}, "expected": "2026", "field": "year", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 2]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 2]}, "expected": "Not reported", "field": "third_party_assurance", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 2]}, "expected": "Ziklo Bank\u2019s green bond framework", "field": "framework_name", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 2]}, "expected": "17986.0000000000", "field": "total_allocation", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 2]}, "expected": "SEK", "field": "currency", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 2]}, "expected": "2026-03-31", "field": "date_of_allocation", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": null, "evidence": null, "expected": null, "field": "total_portfolio_allocation", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": null, "evidence": null, "expected": null, "field": "portfolio_allocation_from_bonds", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 2]}, "expected": "SEK", "field": "portfolio_currency", "row_key": "REP_c951842212cd", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013107323", "field": "isin", "row_key": "bond:1:SE0013107323", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:1:SE0013107323", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "700", "field": "bond_size", "row_key": "bond:1:SE0013107323", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:1:SE0013107323", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "700", "field": "allocated_amount", "row_key": "bond:1:SE0013107323", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0026853004", "field": "isin", "row_key": "bond:2:SE0026853004", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:2:SE0026853004", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "750", "field": "bond_size", "row_key": "bond:2:SE0026853004", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:2:SE0026853004", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:2:SE0026853004", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0026852980", "field": "isin", "row_key": "bond:3:SE0026852980", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:3:SE0026852980", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "300", "field": "bond_size", "row_key": "bond:3:SE0026852980", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:3:SE0026852980", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "300", "field": "allocated_amount", "row_key": "bond:3:SE0026852980", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0026852998", "field": "isin", "row_key": "bond:4:SE0026852998", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:4:SE0026852998", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "400", "field": "bond_size", "row_key": "bond:4:SE0026852998", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:4:SE0026852998", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "400", "field": "allocated_amount", "row_key": "bond:4:SE0026852998", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013362415", "field": "isin", "row_key": "bond:5:SE0013362415", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:5:SE0013362415", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "650", "field": "bond_size", "row_key": "bond:5:SE0013362415", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:5:SE0013362415", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "650", "field": "allocated_amount", "row_key": "bond:5:SE0013362415", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013106770", "field": "isin", "row_key": "bond:6:SE0013106770", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:6:SE0013106770", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "750", "field": "bond_size", "row_key": "bond:6:SE0013106770", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:6:SE0013106770", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:6:SE0013106770", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013106762", "field": "isin", "row_key": "bond:7:SE0013106762", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:7:SE0013106762", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "750", "field": "bond_size", "row_key": "bond:7:SE0013106762", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:7:SE0013106762", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:7:SE0013106762", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013362191", "field": "isin", "row_key": "bond:8:SE0013362191", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:8:SE0013362191", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "500", "field": "bond_size", "row_key": "bond:8:SE0013362191", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:8:SE0013362191", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:8:SE0013362191", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013362183", "field": "isin", "row_key": "bond:9:SE0013362183", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:9:SE0013362183", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "500", "field": "bond_size", "row_key": "bond:9:SE0013362183", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:9:SE0013362183", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:9:SE0013362183", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0022420055", "field": "isin", "row_key": "bond:10:SE0022420055", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:10:SE0022420055", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "500", "field": "bond_size", "row_key": "bond:10:SE0022420055", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:10:SE0022420055", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:10:SE0022420055", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0022420048", "field": "isin", "row_key": "bond:11:SE0022420048", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:11:SE0022420048", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "1,050", "field": "bond_size", "row_key": "bond:11:SE0022420048", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:11:SE0022420048", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "1,050", "field": "allocated_amount", "row_key": "bond:11:SE0022420048", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013106077", "field": "isin", "row_key": "bond:12:SE0013106077", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:12:SE0013106077", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "350", "field": "bond_size", "row_key": "bond:12:SE0013106077", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:12:SE0013106077", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "350", "field": "allocated_amount", "row_key": "bond:12:SE0013106077", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013106069", "field": "isin", "row_key": "bond:13:SE0013106069", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:13:SE0013106069", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "800", "field": "bond_size", "row_key": "bond:13:SE0013106069", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:13:SE0013106069", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "800", "field": "allocated_amount", "row_key": "bond:13:SE0013106069", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013106085", "field": "isin", "row_key": "bond:14:SE0013106085", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:14:SE0013106085", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "350", "field": "bond_size", "row_key": "bond:14:SE0013106085", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:14:SE0013106085", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "350", "field": "allocated_amount", "row_key": "bond:14:SE0013106085", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013105723", "field": "isin", "row_key": "bond:15:SE0013105723", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:15:SE0013105723", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "150", "field": "bond_size", "row_key": "bond:15:SE0013105723", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:15:SE0013105723", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "150", "field": "allocated_amount", "row_key": "bond:15:SE0013105723", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013105715", "field": "isin", "row_key": "bond:16:SE0013105715", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:16:SE0013105715", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "300", "field": "bond_size", "row_key": "bond:16:SE0013105715", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:16:SE0013105715", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "300", "field": "allocated_amount", "row_key": "bond:16:SE0013105715", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013105707", "field": "isin", "row_key": "bond:17:SE0013105707", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:17:SE0013105707", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "800", "field": "bond_size", "row_key": "bond:17:SE0013105707", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:17:SE0013105707", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "800", "field": "allocated_amount", "row_key": "bond:17:SE0013105707", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013884087", "field": "isin", "row_key": "bond:18:SE0013884087", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:18:SE0013884087", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "400", "field": "bond_size", "row_key": "bond:18:SE0013884087", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:18:SE0013884087", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "400", "field": "allocated_amount", "row_key": "bond:18:SE0013884087", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013884079", "field": "isin", "row_key": "bond:19:SE0013884079", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:19:SE0013884079", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "600", "field": "bond_size", "row_key": "bond:19:SE0013884079", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:19:SE0013884079", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "600", "field": "allocated_amount", "row_key": "bond:19:SE0013884079", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Clean Transportation", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "17,986", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": null, "evidence": null, "expected": null, "field": "name", "row_key": "PROJ_ef674df01ec6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Project 1", "field": "number", "row_key": "PROJ_ef674df01ec6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green Bonds", "field": "programme", "row_key": "PROJ_ef674df01ec6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_ef674df01ec6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_ef674df01ec6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "17,986", "field": "amount", "row_key": "PROJ_ef674df01ec6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "SEK", "field": "currency", "row_key": "PROJ_ef674df01ec6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Road Transport", "field": "project_type", "row_key": "PROJ_ef674df01ec6", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_ef674df01ec6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Co\u2082 reduction green bonds(co\u2082 emissions<br> tonnes/year )", "field": "name", "row_key": "kpi:PROJ_ef674df01ec6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "27880.0000000000", "field": "value", "row_key": "kpi:PROJ_ef674df01ec6:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ef674df01ec6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_ef674df01ec6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ef674df01ec6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ef674df01ec6:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ef674df01ec6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Total co\u2082 reduction green loan portfolio(co\u2082 emissions<br> tonnes/year )", "field": "name", "row_key": "kpi:PROJ_ef674df01ec6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "47308.0000000000", "field": "value", "row_key": "kpi:PROJ_ef674df01ec6:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ef674df01ec6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_ef674df01ec6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ef674df01ec6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ef674df01ec6:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ef674df01ec6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Total co\u2082reduction green loan portfolio(gram co\u2082 per km<br> for cars)", "field": "name", "row_key": "kpi:PROJ_ef674df01ec6:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "54.0000000000", "field": "value", "row_key": "kpi:PROJ_ef674df01ec6:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ef674df01ec6:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "gCO2e/km", "field": "unit", "row_key": "kpi:PROJ_ef674df01ec6:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Share", "field": "measurement_type", "row_key": "kpi:PROJ_ef674df01ec6:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ef674df01ec6:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ef674df01ec6:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Total co\u2082 reduction green loan portfolio(grams co2<br> per km for trucks)", "field": "name", "row_key": "kpi:PROJ_ef674df01ec6:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "920.0000000000", "field": "value", "row_key": "kpi:PROJ_ef674df01ec6:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ef674df01ec6:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "gCO2e/km", "field": "unit", "row_key": "kpi:PROJ_ef674df01ec6:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Share", "field": "measurement_type", "row_key": "kpi:PROJ_ef674df01ec6:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ef674df01ec6:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ef674df01ec6:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Total co\u2082 reduction green loan portfolio(grams co2 per km for light commercial vehicles)", "field": "name", "row_key": "kpi:PROJ_ef674df01ec6:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "131.0000000000", "field": "value", "row_key": "kpi:PROJ_ef674df01ec6:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ef674df01ec6:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "gCO2e/km", "field": "unit", "row_key": "kpi:PROJ_ef674df01ec6:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Share", "field": "measurement_type", "row_key": "kpi:PROJ_ef674df01ec6:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ef674df01ec6:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ef674df01ec6:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Total co\u2082 reduction green loan portfolio(vehicles (number))", "field": "name", "row_key": "kpi:PROJ_ef674df01ec6:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "53842.0000000000", "field": "value", "row_key": "kpi:PROJ_ef674df01ec6:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ef674df01ec6:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "vehicles", "field": "unit", "row_key": "kpi:PROJ_ef674df01ec6:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ef674df01ec6:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ef674df01ec6:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ef674df01ec6:6", "table": "kpis"}

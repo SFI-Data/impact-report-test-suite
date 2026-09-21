@@ -1,0 +1,574 @@
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "2025 Sustainability Bonds Newsletter - Newsletter no. 16", "field": "report_name", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "2025", "field": "year", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "EY", "field": "third_party_assurance", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "FMO Sustainability Bonds Framework", "field": "framework_name", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "4301.0000000000", "field": "total_allocation", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "USD", "field": "currency", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "2024-12-31", "field": "date_of_allocation", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "4301.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "4301.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [8]}, "expected": "USD", "field": "portfolio_currency", "row_key": "REP_aca83f517042", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2915525369", "field": "isin", "row_key": "bond:1:XS2915525369", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "FMO Green Bonds", "field": "programme", "row_key": "bond:1:XS2915525369", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "bond_size", "row_key": "bond:1:XS2915525369", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "bond:1:XS2915525369", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:1:XS2915525369", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2838900152", "field": "isin", "row_key": "bond:2:XS2838900152", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "FMO Green Bonds", "field": "programme", "row_key": "bond:2:XS2838900152", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "bond_size", "row_key": "bond:2:XS2838900152", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "bond:2:XS2838900152", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:2:XS2838900152", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2718201275", "field": "isin", "row_key": "bond:3:XS2718201275", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "FMO Green Bonds", "field": "programme", "row_key": "bond:3:XS2718201275", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "bond_size", "row_key": "bond:3:XS2718201275", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "bond:3:XS2718201275", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:3:XS2718201275", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "GREENSUSTAIN", "field": "isin", "row_key": "bond:4:GREENSUSTAIN", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "bond:4:GREENSUSTAIN", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "0", "field": "bond_size", "row_key": "bond:4:GREENSUSTAIN", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "bond:4:GREENSUSTAIN", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "0", "field": "allocated_amount", "row_key": "bond:4:GREENSUSTAIN", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2639075154", "field": "isin", "row_key": "bond:5:XS2639075154", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "FMO Green Bonds", "field": "programme", "row_key": "bond:5:XS2639075154", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "1,500", "field": "bond_size", "row_key": "bond:5:XS2639075154", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "SEK", "field": "currency", "row_key": "bond:5:XS2639075154", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "1,500", "field": "allocated_amount", "row_key": "bond:5:XS2639075154", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2548490734", "field": "isin", "row_key": "bond:6:XS2548490734", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "bond:6:XS2548490734", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "bond_size", "row_key": "bond:6:XS2548490734", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "bond:6:XS2548490734", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:6:XS2548490734", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2150158405", "field": "isin", "row_key": "bond:7:XS2150158405", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "bond:7:XS2150158405", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "bond_size", "row_key": "bond:7:XS2150158405", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "bond:7:XS2150158405", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:7:XS2150158405", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2146570077", "field": "isin", "row_key": "bond:8:XS2146570077", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "FMO Green Bonds", "field": "programme", "row_key": "bond:8:XS2146570077", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "1,500", "field": "bond_size", "row_key": "bond:8:XS2146570077", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "SEK", "field": "currency", "row_key": "bond:8:XS2146570077", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "1,500", "field": "allocated_amount", "row_key": "bond:8:XS2146570077", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "Climate Change Mitigation", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "2,890", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "USD", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "Other Footprint", "field": "category", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "1,292", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "USD", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "Other Footprint", "field": "category", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "90", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "USD", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "Climate Change Adaptation", "field": "category", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "29", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "USD", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Activities adressing climate vulnerability", "field": "name", "row_key": "PROJ_a265fdad3c27", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "1", "field": "number", "row_key": "PROJ_a265fdad3c27", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "PROJ_a265fdad3c27", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_a265fdad3c27", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Climate Change Adaptation", "field": "category", "row_key": "PROJ_a265fdad3c27", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "29", "field": "amount", "row_key": "PROJ_a265fdad3c27", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_a265fdad3c27", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Climate Change Adaptation", "field": "project_type", "row_key": "PROJ_a265fdad3c27", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_a265fdad3c27", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Agricultural SME lending", "field": "name", "row_key": "PROJ_cd4b560629f4", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2", "field": "number", "row_key": "PROJ_cd4b560629f4", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "PROJ_cd4b560629f4", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_cd4b560629f4", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_cd4b560629f4", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "233", "field": "amount", "row_key": "PROJ_cd4b560629f4", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_cd4b560629f4", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "MSME Support", "field": "project_type", "row_key": "PROJ_cd4b560629f4", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_cd4b560629f4", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Agriculture, forestry and landuse", "field": "name", "row_key": "PROJ_ecb0b2845167", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "3", "field": "number", "row_key": "PROJ_ecb0b2845167", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "PROJ_ecb0b2845167", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_ecb0b2845167", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Climate Change Mitigation", "field": "category", "row_key": "PROJ_ecb0b2845167", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "229", "field": "amount", "row_key": "PROJ_ecb0b2845167", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_ecb0b2845167", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Land Management", "field": "project_type", "row_key": "PROJ_ecb0b2845167", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_ecb0b2845167", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Biodiversity", "field": "name", "row_key": "PROJ_c2a405fc1438", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "4", "field": "number", "row_key": "PROJ_c2a405fc1438", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "PROJ_c2a405fc1438", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_c2a405fc1438", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_c2a405fc1438", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "40", "field": "amount", "row_key": "PROJ_c2a405fc1438", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_c2a405fc1438", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Biodiversity Conservation", "field": "project_type", "row_key": "PROJ_c2a405fc1438", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_c2a405fc1438", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Conservation of natural resources", "field": "name", "row_key": "PROJ_c7af70a0b4de", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "5", "field": "number", "row_key": "PROJ_c7af70a0b4de", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "PROJ_c7af70a0b4de", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_c7af70a0b4de", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_c7af70a0b4de", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "1", "field": "amount", "row_key": "PROJ_c7af70a0b4de", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_c7af70a0b4de", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Biodiversity Conservation", "field": "project_type", "row_key": "PROJ_c7af70a0b4de", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_c7af70a0b4de", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Energy efficiency", "field": "name", "row_key": "PROJ_b06ea1a07d5f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "6", "field": "number", "row_key": "PROJ_b06ea1a07d5f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "PROJ_b06ea1a07d5f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_b06ea1a07d5f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Climate Change Mitigation", "field": "category", "row_key": "PROJ_b06ea1a07d5f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "94", "field": "amount", "row_key": "PROJ_b06ea1a07d5f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_b06ea1a07d5f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Mixed Energy Efficiency", "field": "project_type", "row_key": "PROJ_b06ea1a07d5f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_b06ea1a07d5f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Gender: Women-owned SME", "field": "name", "row_key": "PROJ_e5e824aa09f6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "7", "field": "number", "row_key": "PROJ_e5e824aa09f6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "PROJ_e5e824aa09f6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_e5e824aa09f6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_e5e824aa09f6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "182", "field": "amount", "row_key": "PROJ_e5e824aa09f6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_e5e824aa09f6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "MSME Support", "field": "project_type", "row_key": "PROJ_e5e824aa09f6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_e5e824aa09f6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Green loans & Green Funds", "field": "name", "row_key": "PROJ_72fc6fefcfe6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "8", "field": "number", "row_key": "PROJ_72fc6fefcfe6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "PROJ_72fc6fefcfe6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_72fc6fefcfe6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Climate Change Mitigation", "field": "category", "row_key": "PROJ_72fc6fefcfe6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "1,126", "field": "amount", "row_key": "PROJ_72fc6fefcfe6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_72fc6fefcfe6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Financing Structure", "field": "project_type", "row_key": "PROJ_72fc6fefcfe6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_72fc6fefcfe6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Innovative solutions for the BOP", "field": "name", "row_key": "PROJ_45691cf16e28", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "9", "field": "number", "row_key": "PROJ_45691cf16e28", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "PROJ_45691cf16e28", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_45691cf16e28", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_45691cf16e28", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "22", "field": "amount", "row_key": "PROJ_45691cf16e28", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_45691cf16e28", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Financial Inclusion", "field": "project_type", "row_key": "PROJ_45691cf16e28", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_45691cf16e28", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Least Developed Countries", "field": "name", "row_key": "PROJ_ef7316abf93a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "10", "field": "number", "row_key": "PROJ_ef7316abf93a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "PROJ_ef7316abf93a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_ef7316abf93a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_ef7316abf93a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "234", "field": "amount", "row_key": "PROJ_ef7316abf93a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_ef7316abf93a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Financial Inclusion", "field": "project_type", "row_key": "PROJ_ef7316abf93a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_ef7316abf93a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Lower-carbon and efficient energy generation", "field": "name", "row_key": "PROJ_86b4ae23d187", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "11", "field": "number", "row_key": "PROJ_86b4ae23d187", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "PROJ_86b4ae23d187", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_86b4ae23d187", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Climate Change Mitigation", "field": "category", "row_key": "PROJ_86b4ae23d187", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "8", "field": "amount", "row_key": "PROJ_86b4ae23d187", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_86b4ae23d187", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Mixed Energy Efficiency", "field": "project_type", "row_key": "PROJ_86b4ae23d187", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_86b4ae23d187", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Microfinance", "field": "name", "row_key": "PROJ_dcb3a5e7c107", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "12", "field": "number", "row_key": "PROJ_dcb3a5e7c107", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "PROJ_dcb3a5e7c107", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_dcb3a5e7c107", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_dcb3a5e7c107", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "338", "field": "amount", "row_key": "PROJ_dcb3a5e7c107", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_dcb3a5e7c107", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Financial Inclusion", "field": "project_type", "row_key": "PROJ_dcb3a5e7c107", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_dcb3a5e7c107", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Pollution mitigation", "field": "name", "row_key": "PROJ_e97a8549534c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "13", "field": "number", "row_key": "PROJ_e97a8549534c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "PROJ_e97a8549534c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_e97a8549534c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_e97a8549534c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "49", "field": "amount", "row_key": "PROJ_e97a8549534c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_e97a8549534c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Pollution Control", "field": "project_type", "row_key": "PROJ_e97a8549534c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_e97a8549534c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Renewable Energy", "field": "name", "row_key": "PROJ_1fae01aa827a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "14", "field": "number", "row_key": "PROJ_1fae01aa827a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Green Bonds + Sustainability Bonds", "field": "programme", "row_key": "PROJ_1fae01aa827a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_1fae01aa827a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Climate Change Mitigation", "field": "category", "row_key": "PROJ_1fae01aa827a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "1,432", "field": "amount", "row_key": "PROJ_1fae01aa827a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_1fae01aa827a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Mixed Renewable Energy", "field": "project_type", "row_key": "PROJ_1fae01aa827a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_1fae01aa827a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Smallholder Finance", "field": "name", "row_key": "PROJ_969a60004897", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "15", "field": "number", "row_key": "PROJ_969a60004897", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "PROJ_969a60004897", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_969a60004897", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_969a60004897", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "13", "field": "amount", "row_key": "PROJ_969a60004897", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_969a60004897", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Financing Structure", "field": "project_type", "row_key": "PROJ_969a60004897", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_969a60004897", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Social FI loans (mixed)", "field": "name", "row_key": "PROJ_0d6d3d3fe75b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "16", "field": "number", "row_key": "PROJ_0d6d3d3fe75b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "PROJ_0d6d3d3fe75b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_0d6d3d3fe75b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_0d6d3d3fe75b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "250", "field": "amount", "row_key": "PROJ_0d6d3d3fe75b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_0d6d3d3fe75b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Financial Inclusion", "field": "project_type", "row_key": "PROJ_0d6d3d3fe75b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_0d6d3d3fe75b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Youth finance", "field": "name", "row_key": "PROJ_14d9588ef866", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "17", "field": "number", "row_key": "PROJ_14d9588ef866", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "FMO Sustainability Bonds", "field": "programme", "row_key": "PROJ_14d9588ef866", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_14d9588ef866", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Other Footprint", "field": "category", "row_key": "PROJ_14d9588ef866", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "20", "field": "amount", "row_key": "PROJ_14d9588ef866", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "USD", "field": "currency", "row_key": "PROJ_14d9588ef866", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Financing Structure", "field": "project_type", "row_key": "PROJ_14d9588ef866", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Global", "field": "country", "row_key": "PROJ_14d9588ef866", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_a265fdad3c27:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "62.0000000000", "field": "value", "row_key": "kpi:PROJ_a265fdad3c27:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_a265fdad3c27:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_a265fdad3c27:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_a265fdad3c27:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_a265fdad3c27:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_a265fdad3c27:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_a265fdad3c27:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "177.0000000000", "field": "value", "row_key": "kpi:PROJ_a265fdad3c27:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_a265fdad3c27:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_a265fdad3c27:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_a265fdad3c27:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_a265fdad3c27:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_a265fdad3c27:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_a265fdad3c27:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "315.0000000000", "field": "value", "row_key": "kpi:PROJ_a265fdad3c27:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_a265fdad3c27:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_a265fdad3c27:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_a265fdad3c27:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_a265fdad3c27:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_a265fdad3c27:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_cd4b560629f4:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_cd4b560629f4:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_cd4b560629f4:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_cd4b560629f4:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_cd4b560629f4:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_cd4b560629f4:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_cd4b560629f4:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_cd4b560629f4:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "482.0000000000", "field": "value", "row_key": "kpi:PROJ_cd4b560629f4:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_cd4b560629f4:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_cd4b560629f4:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_cd4b560629f4:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_cd4b560629f4:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_cd4b560629f4:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_cd4b560629f4:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "13132.0000000000", "field": "value", "row_key": "kpi:PROJ_cd4b560629f4:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_cd4b560629f4:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_cd4b560629f4:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_cd4b560629f4:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_cd4b560629f4:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_cd4b560629f4:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_ecb0b2845167:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "70072.0000000000", "field": "value", "row_key": "kpi:PROJ_ecb0b2845167:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ecb0b2845167:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_ecb0b2845167:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ecb0b2845167:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ecb0b2845167:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_ecb0b2845167:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_ecb0b2845167:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2631.0000000000", "field": "value", "row_key": "kpi:PROJ_ecb0b2845167:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ecb0b2845167:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_ecb0b2845167:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ecb0b2845167:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ecb0b2845167:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ecb0b2845167:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_ecb0b2845167:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "4402.0000000000", "field": "value", "row_key": "kpi:PROJ_ecb0b2845167:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ecb0b2845167:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_ecb0b2845167:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ecb0b2845167:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ecb0b2845167:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ecb0b2845167:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_c2a405fc1438:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_c2a405fc1438:10", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c2a405fc1438:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_c2a405fc1438:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c2a405fc1438:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c2a405fc1438:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_c2a405fc1438:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_c2a405fc1438:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "868.0000000000", "field": "value", "row_key": "kpi:PROJ_c2a405fc1438:11", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c2a405fc1438:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_c2a405fc1438:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c2a405fc1438:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c2a405fc1438:11", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_c2a405fc1438:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_c2a405fc1438:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "891.0000000000", "field": "value", "row_key": "kpi:PROJ_c2a405fc1438:12", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c2a405fc1438:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_c2a405fc1438:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c2a405fc1438:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c2a405fc1438:12", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_c2a405fc1438:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_c7af70a0b4de:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_c7af70a0b4de:13", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c7af70a0b4de:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_c7af70a0b4de:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c7af70a0b4de:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c7af70a0b4de:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_c7af70a0b4de:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_c7af70a0b4de:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_c7af70a0b4de:14", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c7af70a0b4de:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_c7af70a0b4de:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c7af70a0b4de:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c7af70a0b4de:14", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_c7af70a0b4de:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_b06ea1a07d5f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "7233.0000000000", "field": "value", "row_key": "kpi:PROJ_b06ea1a07d5f:15", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b06ea1a07d5f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_b06ea1a07d5f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b06ea1a07d5f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b06ea1a07d5f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_b06ea1a07d5f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_b06ea1a07d5f:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "396.0000000000", "field": "value", "row_key": "kpi:PROJ_b06ea1a07d5f:16", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b06ea1a07d5f:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_b06ea1a07d5f:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b06ea1a07d5f:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b06ea1a07d5f:16", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b06ea1a07d5f:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_b06ea1a07d5f:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "6887.0000000000", "field": "value", "row_key": "kpi:PROJ_b06ea1a07d5f:17", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b06ea1a07d5f:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_b06ea1a07d5f:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b06ea1a07d5f:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b06ea1a07d5f:17", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b06ea1a07d5f:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_e5e824aa09f6:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_e5e824aa09f6:18", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e5e824aa09f6:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_e5e824aa09f6:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e5e824aa09f6:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e5e824aa09f6:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_e5e824aa09f6:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_e5e824aa09f6:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "244.0000000000", "field": "value", "row_key": "kpi:PROJ_e5e824aa09f6:19", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e5e824aa09f6:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_e5e824aa09f6:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e5e824aa09f6:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e5e824aa09f6:19", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e5e824aa09f6:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_e5e824aa09f6:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "10012.0000000000", "field": "value", "row_key": "kpi:PROJ_e5e824aa09f6:20", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e5e824aa09f6:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_e5e824aa09f6:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e5e824aa09f6:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e5e824aa09f6:20", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e5e824aa09f6:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_72fc6fefcfe6:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_72fc6fefcfe6:21", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_72fc6fefcfe6:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_72fc6fefcfe6:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_72fc6fefcfe6:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_72fc6fefcfe6:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_72fc6fefcfe6:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_72fc6fefcfe6:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "3407.0000000000", "field": "value", "row_key": "kpi:PROJ_72fc6fefcfe6:22", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_72fc6fefcfe6:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_72fc6fefcfe6:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_72fc6fefcfe6:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_72fc6fefcfe6:22", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_72fc6fefcfe6:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_72fc6fefcfe6:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "44495.0000000000", "field": "value", "row_key": "kpi:PROJ_72fc6fefcfe6:23", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_72fc6fefcfe6:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_72fc6fefcfe6:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_72fc6fefcfe6:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_72fc6fefcfe6:23", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_72fc6fefcfe6:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_45691cf16e28:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_45691cf16e28:24", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_45691cf16e28:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_45691cf16e28:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_45691cf16e28:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_45691cf16e28:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_45691cf16e28:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_45691cf16e28:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "181.0000000000", "field": "value", "row_key": "kpi:PROJ_45691cf16e28:25", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_45691cf16e28:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_45691cf16e28:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_45691cf16e28:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_45691cf16e28:25", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_45691cf16e28:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_45691cf16e28:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "187.0000000000", "field": "value", "row_key": "kpi:PROJ_45691cf16e28:26", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_45691cf16e28:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_45691cf16e28:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_45691cf16e28:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_45691cf16e28:26", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_45691cf16e28:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_ef7316abf93a:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_ef7316abf93a:27", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ef7316abf93a:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_ef7316abf93a:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ef7316abf93a:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ef7316abf93a:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_ef7316abf93a:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_ef7316abf93a:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "1189.0000000000", "field": "value", "row_key": "kpi:PROJ_ef7316abf93a:28", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ef7316abf93a:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_ef7316abf93a:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ef7316abf93a:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ef7316abf93a:28", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ef7316abf93a:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_ef7316abf93a:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "25598.0000000000", "field": "value", "row_key": "kpi:PROJ_ef7316abf93a:29", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ef7316abf93a:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_ef7316abf93a:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ef7316abf93a:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ef7316abf93a:29", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ef7316abf93a:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_86b4ae23d187:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "62.0000000000", "field": "value", "row_key": "kpi:PROJ_86b4ae23d187:30", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_86b4ae23d187:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_86b4ae23d187:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_86b4ae23d187:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_86b4ae23d187:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_86b4ae23d187:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_86b4ae23d187:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "59.0000000000", "field": "value", "row_key": "kpi:PROJ_86b4ae23d187:31", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_86b4ae23d187:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_86b4ae23d187:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_86b4ae23d187:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_86b4ae23d187:31", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_86b4ae23d187:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_86b4ae23d187:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "315.0000000000", "field": "value", "row_key": "kpi:PROJ_86b4ae23d187:32", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_86b4ae23d187:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_86b4ae23d187:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_86b4ae23d187:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_86b4ae23d187:32", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_86b4ae23d187:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_dcb3a5e7c107:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_dcb3a5e7c107:33", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_dcb3a5e7c107:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_dcb3a5e7c107:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_dcb3a5e7c107:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_dcb3a5e7c107:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_dcb3a5e7c107:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_dcb3a5e7c107:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "1562.0000000000", "field": "value", "row_key": "kpi:PROJ_dcb3a5e7c107:34", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_dcb3a5e7c107:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_dcb3a5e7c107:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_dcb3a5e7c107:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_dcb3a5e7c107:34", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_dcb3a5e7c107:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_dcb3a5e7c107:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "37546.0000000000", "field": "value", "row_key": "kpi:PROJ_dcb3a5e7c107:35", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_dcb3a5e7c107:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_dcb3a5e7c107:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_dcb3a5e7c107:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_dcb3a5e7c107:35", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_dcb3a5e7c107:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_e97a8549534c:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_e97a8549534c:36", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e97a8549534c:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_e97a8549534c:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e97a8549534c:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e97a8549534c:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_e97a8549534c:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_e97a8549534c:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "521.0000000000", "field": "value", "row_key": "kpi:PROJ_e97a8549534c:37", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e97a8549534c:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_e97a8549534c:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e97a8549534c:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e97a8549534c:37", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e97a8549534c:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_e97a8549534c:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "22334.0000000000", "field": "value", "row_key": "kpi:PROJ_e97a8549534c:38", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e97a8549534c:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_e97a8549534c:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e97a8549534c:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e97a8549534c:38", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e97a8549534c:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_1fae01aa827a:39", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "858206.0000000000", "field": "value", "row_key": "kpi:PROJ_1fae01aa827a:39", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_1fae01aa827a:39", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_1fae01aa827a:39", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_1fae01aa827a:39", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_1fae01aa827a:39", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_1fae01aa827a:39", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_1fae01aa827a:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2032.0000000000", "field": "value", "row_key": "kpi:PROJ_1fae01aa827a:40", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_1fae01aa827a:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_1fae01aa827a:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_1fae01aa827a:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_1fae01aa827a:40", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_1fae01aa827a:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_1fae01aa827a:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "29250.0000000000", "field": "value", "row_key": "kpi:PROJ_1fae01aa827a:41", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_1fae01aa827a:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_1fae01aa827a:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_1fae01aa827a:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_1fae01aa827a:41", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_1fae01aa827a:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_969a60004897:42", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_969a60004897:42", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_969a60004897:42", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_969a60004897:42", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_969a60004897:42", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_969a60004897:42", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_969a60004897:42", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_969a60004897:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "780.0000000000", "field": "value", "row_key": "kpi:PROJ_969a60004897:43", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_969a60004897:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_969a60004897:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_969a60004897:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_969a60004897:43", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_969a60004897:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_969a60004897:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "570.0000000000", "field": "value", "row_key": "kpi:PROJ_969a60004897:44", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_969a60004897:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_969a60004897:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_969a60004897:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_969a60004897:44", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_969a60004897:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_0d6d3d3fe75b:45", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_0d6d3d3fe75b:45", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_0d6d3d3fe75b:45", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_0d6d3d3fe75b:45", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_0d6d3d3fe75b:45", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_0d6d3d3fe75b:45", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_0d6d3d3fe75b:45", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_0d6d3d3fe75b:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "1790.0000000000", "field": "value", "row_key": "kpi:PROJ_0d6d3d3fe75b:46", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_0d6d3d3fe75b:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_0d6d3d3fe75b:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_0d6d3d3fe75b:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_0d6d3d3fe75b:46", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_0d6d3d3fe75b:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_0d6d3d3fe75b:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "14377.0000000000", "field": "value", "row_key": "kpi:PROJ_0d6d3d3fe75b:47", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_0d6d3d3fe75b:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_0d6d3d3fe75b:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_0d6d3d3fe75b:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_0d6d3d3fe75b:47", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_0d6d3d3fe75b:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_14d9588ef866:48", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_14d9588ef866:48", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_14d9588ef866:48", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_14d9588ef866:48", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_14d9588ef866:48", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_14d9588ef866:48", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_14d9588ef866:48", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Direct jobs supported", "field": "name", "row_key": "kpi:PROJ_14d9588ef866:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "14.0000000000", "field": "value", "row_key": "kpi:PROJ_14d9588ef866:49", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_14d9588ef866:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_14d9588ef866:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_14d9588ef866:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_14d9588ef866:49", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_14d9588ef866:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Indirect jobs supported", "field": "name", "row_key": "kpi:PROJ_14d9588ef866:50", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "516.0000000000", "field": "value", "row_key": "kpi:PROJ_14d9588ef866:50", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_14d9588ef866:50", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "jobs", "field": "unit", "row_key": "kpi:PROJ_14d9588ef866:50", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_14d9588ef866:50", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_14d9588ef866:50", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_14d9588ef866:50", "table": "kpis"}

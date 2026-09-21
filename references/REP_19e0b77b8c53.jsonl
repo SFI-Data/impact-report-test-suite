@@ -1,0 +1,117 @@
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "Green bond and allocation report", "field": "report_name", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "2026", "field": "year", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "Not reported", "field": "third_party_assurance", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "Green Financing Framework", "field": "framework_name", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "15764.7000000000", "field": "total_allocation", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "EUR", "field": "currency", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "2025-12-31", "field": "date_of_allocation", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "2500.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "2500.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "XS2498554992", "field": "isin", "row_key": "bond:1:XS2498554992", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Bond", "field": "programme", "row_key": "bond:1:XS2498554992", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "500", "field": "bond_size", "row_key": "bond:1:XS2498554992", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS2498554992", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:1:XS2498554992", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "XS2384269101", "field": "isin", "row_key": "bond:2:XS2384269101", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Bond", "field": "programme", "row_key": "bond:2:XS2384269101", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:2:XS2384269101", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS2384269101", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:2:XS2384269101", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "XS2305244241", "field": "isin", "row_key": "bond:3:XS2305244241", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Bond", "field": "programme", "row_key": "bond:3:XS2305244241", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:3:XS2305244241", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "bond:3:XS2305244241", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:3:XS2305244241", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Clean Transportation", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "15,764.7", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "Ayvens Plugin electric vehicles", "field": "name", "row_key": "PROJ_99096119266a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "1", "field": "number", "row_key": "PROJ_99096119266a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "Green Bond", "field": "programme", "row_key": "PROJ_99096119266a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_99096119266a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_99096119266a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "15,764.7", "field": "amount", "row_key": "PROJ_99096119266a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_99096119266a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9]}, "expected": "Road Transport", "field": "project_type", "row_key": "PROJ_99096119266a", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_99096119266a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Avoided emmisions in percentage", "field": "name", "row_key": "kpi:PROJ_99096119266a:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "82.0000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "%", "field": "unit", "row_key": "kpi:PROJ_99096119266a:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Share", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Capital goods bev", "field": "name", "row_key": "kpi:PROJ_99096119266a:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "17.9000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "t CO\u2082e/vehicle", "field": "unit", "row_key": "kpi:PROJ_99096119266a:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Capital goods \u2014 ice", "field": "name", "row_key": "kpi:PROJ_99096119266a:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "11.6000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "t CO\u2082e/vehicle", "field": "unit", "row_key": "kpi:PROJ_99096119266a:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Carbon intensity", "field": "name", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "140.5000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "CO2/km", "field": "unit", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Direct co2 emmissions", "field": "name", "row_key": "kpi:PROJ_99096119266a:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "1864041.0000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "t CO2 eq", "field": "unit", "row_key": "kpi:PROJ_99096119266a:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Distance driven by avyen bev fleet", "field": "name", "row_key": "kpi:PROJ_99096119266a:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "10103750733.0000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "km", "field": "unit", "row_key": "kpi:PROJ_99096119266a:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Downstream leased assets \u2014 bev", "field": "name", "row_key": "kpi:PROJ_99096119266a:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value", "row_key": "kpi:PROJ_99096119266a:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "0.8/year", "field": "value_text", "row_key": "kpi:PROJ_99096119266a:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "t CO\u2082e/vehicle/year", "field": "unit", "row_key": "kpi:PROJ_99096119266a:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Downstream leased assets \u2014 ice", "field": "name", "row_key": "kpi:PROJ_99096119266a:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value", "row_key": "kpi:PROJ_99096119266a:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "4.3/year", "field": "value_text", "row_key": "kpi:PROJ_99096119266a:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "t CO\u2082e/vehicle/year", "field": "unit", "row_key": "kpi:PROJ_99096119266a:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Estimated emmissions avoided", "field": "name", "row_key": "kpi:PROJ_99096119266a:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "1535179.8000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_99096119266a:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Use of sold products \u2014 bev", "field": "name", "row_key": "kpi:PROJ_99096119266a:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "6.6000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:10", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "t CO\u2082e/vehicle", "field": "unit", "row_key": "kpi:PROJ_99096119266a:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:10", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Use of sold products) \u2014 ice", "field": "name", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "25.0000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "t CO\u2082e/vehicle", "field": "unit", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}

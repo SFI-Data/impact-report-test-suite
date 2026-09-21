@@ -1,0 +1,49 @@
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "2025 Husqvarna Group  allocation and impact report", "field": "report_name", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "2025", "field": "year", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "Morningstar Sustainalytics", "field": "third_party_assurance", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "Green Finance Framework", "field": "framework_name", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "2750.0000000000", "field": "total_allocation", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "SEK", "field": "currency", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "2025-12-31", "field": "date_of_allocation", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "2750.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "2750.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 3]}, "expected": "SEK", "field": "portfolio_currency", "row_key": "REP_956a666be370", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0013106424", "field": "isin", "row_key": "bond:1:SE0013106424", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green bond", "field": "programme", "row_key": "bond:1:SE0013106424", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:1:SE0013106424", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:1:SE0013106424", "table": "bonds"}
+{"applicability": null, "evidence": null, "expected": null, "field": "allocated_amount", "row_key": "bond:1:SE0013106424", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SE0019177114", "field": "isin", "row_key": "bond:2:SE0019177114", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green bond", "field": "programme", "row_key": "bond:2:SE0019177114", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "1,750", "field": "bond_size", "row_key": "bond:2:SE0019177114", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "SEK", "field": "currency", "row_key": "bond:2:SE0019177114", "table": "bonds"}
+{"applicability": null, "evidence": null, "expected": null, "field": "allocated_amount", "row_key": "bond:2:SE0019177114", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Circular economy, Pollution prevention and control", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "2,750", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "SEK", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Low-Carbon Products and Solutions", "field": "name", "row_key": "PROJ_b9d824d88a0b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "1", "field": "number", "row_key": "PROJ_b9d824d88a0b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_b9d824d88a0b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_b9d824d88a0b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Circular economy, Pollution prevention and control", "field": "category", "row_key": "PROJ_b9d824d88a0b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "2,750", "field": "amount", "row_key": "PROJ_b9d824d88a0b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "SEK", "field": "currency", "row_key": "PROJ_b9d824d88a0b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Circular Products", "field": "project_type", "row_key": "PROJ_b9d824d88a0b", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_b9d824d88a0b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Estimated avoided co2 emissions attributable to green bonds proceeds", "field": "name", "row_key": "kpi:PROJ_b9d824d88a0b:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "6774.2000000000", "field": "value", "row_key": "kpi:PROJ_b9d824d88a0b:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b9d824d88a0b:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_b9d824d88a0b:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b9d824d88a0b:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b9d824d88a0b:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b9d824d88a0b:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Quantity of low-carbon products sold", "field": "name", "row_key": "kpi:PROJ_b9d824d88a0b:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "66728.0000000000", "field": "value", "row_key": "kpi:PROJ_b9d824d88a0b:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b9d824d88a0b:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Units", "field": "unit", "row_key": "kpi:PROJ_b9d824d88a0b:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b9d824d88a0b:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b9d824d88a0b:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b9d824d88a0b:2", "table": "kpis"}

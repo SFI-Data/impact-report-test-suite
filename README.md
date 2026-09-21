@@ -23,6 +23,36 @@ Each report has its own folder named after the issuer, containing:
   `Post-Issuance Report`, `Allocation`, `Projects`, `KPIs`, `Bond Attribution`. The `Page number`
   column on every sheet is the human-added provenance.
 
+## Manifest and reference rows (generated)
+
+```
+manifest.json          the loader's manifest: split, hashes, tags, reviewers per report
+references/<id>.jsonl  one line per (table, row, field): expected value, pages, quote, applicability
+heldout_runs.jsonl     append-only log of held-out runs (written by the runner, never by hand)
+```
+
+Both are produced from `manifest.csv` and the workbooks by the platform:
+
+```
+manage.py agentic_extraction_corpus --corpus <this checkout> bootstrap --reviewer <name>
+manage.py agentic_extraction_corpus --corpus <this checkout> check
+```
+
+Rerunning `bootstrap` never overwrites a row a reviewer has edited. `check` says what still
+blocks the corpus from gating a release.
+
+### What a reviewer fills in
+
+- **`quote`** on every `present` row whose field is critical (ISIN, amounts, currency, KPI value/unit):
+  the sentence or cell text in the PDF the value came from.
+- **`applicability`** on every blank row: `not_in_report` (the PDF does not carry it) or
+  `not_applicable` (the field has no meaning for this row). A blank the analyst simply missed gets
+  its value, `present`, pages and a quote instead.
+- **`external`** rows (CPP Investments' bond sizes, from Cbonds) are already marked and need nothing.
+- **`adjudication`** when two reviewers disagree: both values, who decided, and why.
+- **Tags** in `manifest.json` that only a person can set: `scanned` and `multi_period`. The manifest
+  refuses to load until at least one report carries each.
+
 ## How to read the reference values
 
 The export is **post-cleaning**, so not every column is something the PDF says. Compare an

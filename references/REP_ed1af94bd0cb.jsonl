@@ -1,0 +1,136 @@
+{"applicability": "present", "evidence": {"pages": [1, 4, 7]}, "expected": "UPM Green Finance Report 2025", "field": "report_name", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 4, 7]}, "expected": "2025", "field": "year", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 4, 7]}, "expected": "Bond", "field": "reporting_type", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 4, 7]}, "expected": "EY", "field": "third_party_assurance", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 4, 7]}, "expected": "Green Finance Framework", "field": "framework_name", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 4, 7]}, "expected": "2350.0000000000", "field": "total_allocation", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 4, 7]}, "expected": "EUR", "field": "currency", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 4, 7]}, "expected": "2025-12-31", "field": "date_of_allocation", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": null, "evidence": null, "expected": null, "field": "total_portfolio_allocation", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": null, "evidence": null, "expected": null, "field": "portfolio_allocation_from_bonds", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1, 4, 7]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_ed1af94bd0cb", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2886143770", "field": "isin", "row_key": "bond:1:XS2886143770", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green Bond", "field": "programme", "row_key": "bond:1:XS2886143770", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "600", "field": "bond_size", "row_key": "bond:1:XS2886143770", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS2886143770", "table": "bonds"}
+{"applicability": null, "evidence": null, "expected": null, "field": "allocated_amount", "row_key": "bond:1:XS2886143770", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2478685931", "field": "isin", "row_key": "bond:2:XS2478685931", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green Bond", "field": "programme", "row_key": "bond:2:XS2478685931", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "bond_size", "row_key": "bond:2:XS2478685931", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS2478685931", "table": "bonds"}
+{"applicability": null, "evidence": null, "expected": null, "field": "allocated_amount", "row_key": "bond:2:XS2478685931", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2320453884", "field": "isin", "row_key": "bond:3:XS2320453884", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green Bond", "field": "programme", "row_key": "bond:3:XS2320453884", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "500", "field": "bond_size", "row_key": "bond:3:XS2320453884", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "bond:3:XS2320453884", "table": "bonds"}
+{"applicability": null, "evidence": null, "expected": null, "field": "allocated_amount", "row_key": "bond:3:XS2320453884", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "XS2257961818", "field": "isin", "row_key": "bond:4:XS2257961818", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green Bond", "field": "programme", "row_key": "bond:4:XS2257961818", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "750", "field": "bond_size", "row_key": "bond:4:XS2257961818", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "bond:4:XS2257961818", "table": "bonds"}
+{"applicability": null, "evidence": null, "expected": null, "field": "allocated_amount", "row_key": "bond:4:XS2257961818", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green Bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Climate Positive and Circular Bioeconomy Adapted Products and Solutions", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "1,227", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green Bond", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Sustainable Forest and Plantation Management", "field": "category", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "1,085", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green Bond", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Renewable or CO2-Free Energy", "field": "category", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "38", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": null, "evidence": null, "expected": null, "field": "name", "row_key": "PROJ_be2005e05238", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Project 2", "field": "number", "row_key": "PROJ_be2005e05238", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green Bond", "field": "programme", "row_key": "PROJ_be2005e05238", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_be2005e05238", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Climate Positive and Circular Bioeconomy Adapted Products and Solutions", "field": "category", "row_key": "PROJ_be2005e05238", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "1,227", "field": "amount", "row_key": "PROJ_be2005e05238", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_be2005e05238", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Circular Products", "field": "project_type", "row_key": "PROJ_be2005e05238", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_be2005e05238", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "name", "row_key": "PROJ_6b3189cc9011", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Project 3", "field": "number", "row_key": "PROJ_6b3189cc9011", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green Bond", "field": "programme", "row_key": "PROJ_6b3189cc9011", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_6b3189cc9011", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Climate Positive and Circular Bioeconomy Adapted Products and Solutions", "field": "category", "row_key": "PROJ_6b3189cc9011", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "38", "field": "amount", "row_key": "PROJ_6b3189cc9011", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_6b3189cc9011", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Mixed Renewable Energy", "field": "project_type", "row_key": "PROJ_6b3189cc9011", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_6b3189cc9011", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "name", "row_key": "PROJ_ba1bd8989140", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Project 1", "field": "number", "row_key": "PROJ_ba1bd8989140", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green Bond", "field": "programme", "row_key": "PROJ_ba1bd8989140", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_ba1bd8989140", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Sustainable Forest and Plantation Management", "field": "category", "row_key": "PROJ_ba1bd8989140", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "1,085", "field": "amount", "row_key": "PROJ_ba1bd8989140", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_ba1bd8989140", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Forestry", "field": "project_type", "row_key": "PROJ_ba1bd8989140", "table": "projects"}
+{"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_ba1bd8989140", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Carbon sink of upm\u2019s own and leased certified forests", "field": "name", "row_key": "kpi:PROJ_ba1bd8989140:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "1.9000000000", "field": "value", "row_key": "kpi:PROJ_ba1bd8989140:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ba1bd8989140:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "million tCo2e", "field": "unit", "row_key": "kpi:PROJ_ba1bd8989140:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ba1bd8989140:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ba1bd8989140:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ba1bd8989140:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Hectares of certified forest", "field": "name", "row_key": "kpi:PROJ_ba1bd8989140:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "830000.0000000000", "field": "value", "row_key": "kpi:PROJ_ba1bd8989140:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ba1bd8989140:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "ha", "field": "unit", "row_key": "kpi:PROJ_ba1bd8989140:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ba1bd8989140:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ba1bd8989140:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ba1bd8989140:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Number of patents in biochemicals and biofuels businesses at the end of 2023", "field": "name", "row_key": "kpi:PROJ_be2005e05238:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "1132.0000000000", "field": "value", "row_key": "kpi:PROJ_be2005e05238:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_be2005e05238:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "patents", "field": "unit", "row_key": "kpi:PROJ_be2005e05238:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_be2005e05238:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_be2005e05238:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_be2005e05238:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Number of trademarks in biochemicals and biofuels businesses at the end of 2023", "field": "name", "row_key": "kpi:PROJ_be2005e05238:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "96.0000000000", "field": "value", "row_key": "kpi:PROJ_be2005e05238:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_be2005e05238:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "trademarks", "field": "unit", "row_key": "kpi:PROJ_be2005e05238:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_be2005e05238:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_be2005e05238:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_be2005e05238:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Renewable energy generated from hydropower", "field": "name", "row_key": "kpi:PROJ_6b3189cc9011:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "776.0000000000", "field": "value", "row_key": "kpi:PROJ_6b3189cc9011:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_6b3189cc9011:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "GWh", "field": "unit", "row_key": "kpi:PROJ_6b3189cc9011:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_6b3189cc9011:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_6b3189cc9011:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_6b3189cc9011:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Saved emissions from biofuels production for the period of 2022\u20132025", "field": "name", "row_key": "kpi:PROJ_be2005e05238:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "1689985.0000000000", "field": "value", "row_key": "kpi:PROJ_be2005e05238:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_be2005e05238:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "tCO2e", "field": "unit", "row_key": "kpi:PROJ_be2005e05238:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_be2005e05238:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_be2005e05238:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "2025.0", "field": "year", "row_key": "kpi:PROJ_be2005e05238:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "SDGs", "field": "name", "row_key": "kpi:PROJ_be2005e05238:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_be2005e05238:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_be2005e05238:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_be2005e05238:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_be2005e05238:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_be2005e05238:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_be2005e05238:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "SDGs", "field": "name", "row_key": "kpi:PROJ_6b3189cc9011:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "713.0000000000", "field": "value", "row_key": "kpi:PROJ_6b3189cc9011:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_6b3189cc9011:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_6b3189cc9011:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_6b3189cc9011:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_6b3189cc9011:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_6b3189cc9011:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "SDGs", "field": "name", "row_key": "kpi:PROJ_ba1bd8989140:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "1315.0000000000", "field": "value", "row_key": "kpi:PROJ_ba1bd8989140:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ba1bd8989140:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_ba1bd8989140:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ba1bd8989140:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ba1bd8989140:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ba1bd8989140:9", "table": "kpis"}

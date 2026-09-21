@@ -1,0 +1,291 @@
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2025 ESG Bond Allocation & Impact Report", "field": "report_name", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2025", "field": "year", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNV", "field": "third_party_assurance", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2023 KEB Hana Bank Sustainability Financing Framework", "field": "framework_name", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "600.0000000000", "field": "total_allocation", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "USD", "field": "currency", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2024-12-31", "field": "date_of_allocation", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "600.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "600.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [2]}, "expected": "USD", "field": "portfolio_currency", "row_key": "REP_cb3a106edef0", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "US48723TAG67", "field": "isin", "row_key": "bond:1:US48723TAG67", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "bond:1:US48723TAG67", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "300", "field": "bond_size", "row_key": "bond:1:US48723TAG67", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "USD", "field": "currency", "row_key": "bond:1:US48723TAG67", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "300", "field": "allocated_amount", "row_key": "bond:1:US48723TAG67", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "US48723TAE10", "field": "isin", "row_key": "bond:2:US48723TAE10", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "bond:2:US48723TAE10", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "300", "field": "bond_size", "row_key": "bond:2:US48723TAE10", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "USD", "field": "currency", "row_key": "bond:2:US48723TAE10", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [3]}, "expected": "300", "field": "allocated_amount", "row_key": "bond:2:US48723TAE10", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "US48723TAE10", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Employment generation through the potential effect of SME financing / access to essential services: financing and financial services", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "172.87", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "US48723TAG67", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Employment generation through the potential effect of SME financing / access to essential services: financing and financial services", "field": "category", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "171.68", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "US48723TAG67", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "SME financing in underdeveloped regions", "field": "category", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "107.29", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "US48723TAE10", "field": "isin", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "SME financing in underdeveloped regions", "field": "category", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "107.27", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "US48723TAG67", "field": "isin", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Clean Transportation", "field": "category", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "12.63", "field": "amount", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "US48723TAE10", "field": "isin", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Clean Transportation", "field": "category", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "12.6", "field": "amount", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "US48723TAG67", "field": "isin", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Quality, security and resilience of electricity transportation infrastructure", "field": "category", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "8.4", "field": "amount", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "US48723TAE10", "field": "isin", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Quality, security and resilience of electricity transportation infrastructure", "field": "category", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "7.25", "field": "amount", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [4]}, "expected": "USD", "field": "currency", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EV Auto Loan", "field": "name", "row_key": "PROJ_da16b3313b8c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "1", "field": "number", "row_key": "PROJ_da16b3313b8c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "PROJ_da16b3313b8c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "US48723TAE10", "field": "isin", "row_key": "PROJ_da16b3313b8c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_da16b3313b8c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "12.6", "field": "amount", "row_key": "PROJ_da16b3313b8c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "currency", "row_key": "PROJ_da16b3313b8c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Road Transport", "field": "project_type", "row_key": "PROJ_da16b3313b8c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Korea", "field": "country", "row_key": "PROJ_da16b3313b8c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EV Auto Loan", "field": "name", "row_key": "PROJ_ee6851e6fb45", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "2", "field": "number", "row_key": "PROJ_ee6851e6fb45", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "PROJ_ee6851e6fb45", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "US48723TAG67", "field": "isin", "row_key": "PROJ_ee6851e6fb45", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_ee6851e6fb45", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "12.63", "field": "amount", "row_key": "PROJ_ee6851e6fb45", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "currency", "row_key": "PROJ_ee6851e6fb45", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Road Transport", "field": "project_type", "row_key": "PROJ_ee6851e6fb45", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Korea", "field": "country", "row_key": "PROJ_ee6851e6fb45", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "New Growth Employment Support Loans", "field": "name", "row_key": "PROJ_c549d59059bf", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "3", "field": "number", "row_key": "PROJ_c549d59059bf", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "PROJ_c549d59059bf", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "US48723TAG67", "field": "isin", "row_key": "PROJ_c549d59059bf", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Employment generation through the potential effect of SME financing / access to essential services: financing and financial services", "field": "category", "row_key": "PROJ_c549d59059bf", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "171.68", "field": "amount", "row_key": "PROJ_c549d59059bf", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "currency", "row_key": "PROJ_c549d59059bf", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Workforce Development", "field": "project_type", "row_key": "PROJ_c549d59059bf", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Korea", "field": "country", "row_key": "PROJ_c549d59059bf", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "New Growth Employment Support Loans", "field": "name", "row_key": "PROJ_9cd9951b94ab", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "4", "field": "number", "row_key": "PROJ_9cd9951b94ab", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "PROJ_9cd9951b94ab", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "US48723TAE10", "field": "isin", "row_key": "PROJ_9cd9951b94ab", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Employment generation through the potential effect of SME financing / access to essential services: financing and financial services", "field": "category", "row_key": "PROJ_9cd9951b94ab", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "172.87", "field": "amount", "row_key": "PROJ_9cd9951b94ab", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "currency", "row_key": "PROJ_9cd9951b94ab", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Workforce Development", "field": "project_type", "row_key": "PROJ_9cd9951b94ab", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Korea", "field": "country", "row_key": "PROJ_9cd9951b94ab", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "New Hope Spore Loans", "field": "name", "row_key": "PROJ_aba20b4e4046", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "6", "field": "number", "row_key": "PROJ_aba20b4e4046", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "PROJ_aba20b4e4046", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "US48723TAE10", "field": "isin", "row_key": "PROJ_aba20b4e4046", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "SME financing in underdeveloped regions", "field": "category", "row_key": "PROJ_aba20b4e4046", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "105.36", "field": "amount", "row_key": "PROJ_aba20b4e4046", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "currency", "row_key": "PROJ_aba20b4e4046", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Financing Structure", "field": "project_type", "row_key": "PROJ_aba20b4e4046", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Korea", "field": "country", "row_key": "PROJ_aba20b4e4046", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "New Hope Spore Loans", "field": "name", "row_key": "PROJ_907cdd2fcc97", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "5", "field": "number", "row_key": "PROJ_907cdd2fcc97", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "PROJ_907cdd2fcc97", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "US48723TAG67", "field": "isin", "row_key": "PROJ_907cdd2fcc97", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "SME financing in underdeveloped regions", "field": "category", "row_key": "PROJ_907cdd2fcc97", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "105.37", "field": "amount", "row_key": "PROJ_907cdd2fcc97", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "currency", "row_key": "PROJ_907cdd2fcc97", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Financing Structure", "field": "project_type", "row_key": "PROJ_907cdd2fcc97", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Korea", "field": "country", "row_key": "PROJ_907cdd2fcc97", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Solar Power Project", "field": "name", "row_key": "PROJ_01e22ef6b29f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "8", "field": "number", "row_key": "PROJ_01e22ef6b29f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "PROJ_01e22ef6b29f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "US48723TAG67", "field": "isin", "row_key": "PROJ_01e22ef6b29f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Quality, security and resilience of electricity transportation infrastructure", "field": "category", "row_key": "PROJ_01e22ef6b29f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "8.4", "field": "amount", "row_key": "PROJ_01e22ef6b29f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "currency", "row_key": "PROJ_01e22ef6b29f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Solar", "field": "project_type", "row_key": "PROJ_01e22ef6b29f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Korea", "field": "country", "row_key": "PROJ_01e22ef6b29f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Solar Power Project", "field": "name", "row_key": "PROJ_475634f896ba", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "7", "field": "number", "row_key": "PROJ_475634f896ba", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "PROJ_475634f896ba", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "US48723TAE10", "field": "isin", "row_key": "PROJ_475634f896ba", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Quality, security and resilience of electricity transportation infrastructure", "field": "category", "row_key": "PROJ_475634f896ba", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "7.25", "field": "amount", "row_key": "PROJ_475634f896ba", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "currency", "row_key": "PROJ_475634f896ba", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Solar", "field": "project_type", "row_key": "PROJ_475634f896ba", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Korea", "field": "country", "row_key": "PROJ_475634f896ba", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Sunshine Loan", "field": "name", "row_key": "PROJ_c80e855fac84", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "9", "field": "number", "row_key": "PROJ_c80e855fac84", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "PROJ_c80e855fac84", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "US48723TAE10", "field": "isin", "row_key": "PROJ_c80e855fac84", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "SME financing in underdeveloped regions", "field": "category", "row_key": "PROJ_c80e855fac84", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "1.91", "field": "amount", "row_key": "PROJ_c80e855fac84", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "currency", "row_key": "PROJ_c80e855fac84", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Financing Structure", "field": "project_type", "row_key": "PROJ_c80e855fac84", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Korea", "field": "country", "row_key": "PROJ_c80e855fac84", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Sunshine Loan", "field": "name", "row_key": "PROJ_042468813e77", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "10", "field": "number", "row_key": "PROJ_042468813e77", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "KEB Hana Sustainability Bonds", "field": "programme", "row_key": "PROJ_042468813e77", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "US48723TAG67", "field": "isin", "row_key": "PROJ_042468813e77", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "SME financing in underdeveloped regions", "field": "category", "row_key": "PROJ_042468813e77", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "1.92", "field": "amount", "row_key": "PROJ_042468813e77", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "currency", "row_key": "PROJ_042468813e77", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Financing Structure", "field": "project_type", "row_key": "PROJ_042468813e77", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Korea", "field": "country", "row_key": "PROJ_042468813e77", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_ee6851e6fb45:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "845.2500000000", "field": "value", "row_key": "kpi:PROJ_ee6851e6fb45:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ee6851e6fb45:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "tCO2/year", "field": "unit", "row_key": "kpi:PROJ_ee6851e6fb45:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ee6851e6fb45:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ee6851e6fb45:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_ee6851e6fb45:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_da16b3313b8c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "843.3900000000", "field": "value", "row_key": "kpi:PROJ_da16b3313b8c:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_da16b3313b8c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "tCO2/year", "field": "unit", "row_key": "kpi:PROJ_da16b3313b8c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_da16b3313b8c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_da16b3313b8c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_da16b3313b8c:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "No. of ev supported", "field": "name", "row_key": "kpi:PROJ_ee6851e6fb45:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "293.0000000000", "field": "value", "row_key": "kpi:PROJ_ee6851e6fb45:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_ee6851e6fb45:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EVs", "field": "unit", "row_key": "kpi:PROJ_ee6851e6fb45:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_ee6851e6fb45:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_ee6851e6fb45:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_ee6851e6fb45:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "No. of ev supported", "field": "name", "row_key": "kpi:PROJ_da16b3313b8c:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "293.0000000000", "field": "value", "row_key": "kpi:PROJ_da16b3313b8c:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_da16b3313b8c:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EVs", "field": "unit", "row_key": "kpi:PROJ_da16b3313b8c:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_da16b3313b8c:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_da16b3313b8c:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_da16b3313b8c:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Average amount of social loans", "field": "name", "row_key": "kpi:PROJ_9cd9951b94ab:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "255726.0000000000", "field": "value", "row_key": "kpi:PROJ_9cd9951b94ab:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_9cd9951b94ab:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "unit", "row_key": "kpi:PROJ_9cd9951b94ab:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_9cd9951b94ab:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_9cd9951b94ab:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_9cd9951b94ab:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Average amount of social loans", "field": "name", "row_key": "kpi:PROJ_c549d59059bf:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "272507.0000000000", "field": "value", "row_key": "kpi:PROJ_c549d59059bf:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c549d59059bf:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "unit", "row_key": "kpi:PROJ_c549d59059bf:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c549d59059bf:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c549d59059bf:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_c549d59059bf:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "No. of social loans", "field": "name", "row_key": "kpi:PROJ_9cd9951b94ab:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "676.0000000000", "field": "value", "row_key": "kpi:PROJ_9cd9951b94ab:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_9cd9951b94ab:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "social loans", "field": "unit", "row_key": "kpi:PROJ_9cd9951b94ab:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_9cd9951b94ab:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_9cd9951b94ab:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_9cd9951b94ab:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "No. of social loans", "field": "name", "row_key": "kpi:PROJ_c549d59059bf:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "630.0000000000", "field": "value", "row_key": "kpi:PROJ_c549d59059bf:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c549d59059bf:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "social loans", "field": "unit", "row_key": "kpi:PROJ_c549d59059bf:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c549d59059bf:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c549d59059bf:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_c549d59059bf:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Average amount of social loans", "field": "name", "row_key": "kpi:PROJ_aba20b4e4046:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "10778.0000000000", "field": "value", "row_key": "kpi:PROJ_aba20b4e4046:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_aba20b4e4046:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "unit", "row_key": "kpi:PROJ_aba20b4e4046:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_aba20b4e4046:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_aba20b4e4046:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_aba20b4e4046:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Average amount of social loans", "field": "name", "row_key": "kpi:PROJ_907cdd2fcc97:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "10605.0000000000", "field": "value", "row_key": "kpi:PROJ_907cdd2fcc97:10", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_907cdd2fcc97:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "unit", "row_key": "kpi:PROJ_907cdd2fcc97:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_907cdd2fcc97:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_907cdd2fcc97:10", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_907cdd2fcc97:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "No. of social loans", "field": "name", "row_key": "kpi:PROJ_aba20b4e4046:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "9776.0000000000", "field": "value", "row_key": "kpi:PROJ_aba20b4e4046:11", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_aba20b4e4046:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "social loans", "field": "unit", "row_key": "kpi:PROJ_aba20b4e4046:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_aba20b4e4046:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_aba20b4e4046:11", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_aba20b4e4046:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "No. of social loans", "field": "name", "row_key": "kpi:PROJ_907cdd2fcc97:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "9936.0000000000", "field": "value", "row_key": "kpi:PROJ_907cdd2fcc97:12", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_907cdd2fcc97:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "social loans", "field": "unit", "row_key": "kpi:PROJ_907cdd2fcc97:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_907cdd2fcc97:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_907cdd2fcc97:12", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_907cdd2fcc97:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Additional capacity of renewable energy plant(s) constructed or rehabilitated", "field": "name", "row_key": "kpi:PROJ_475634f896ba:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "40.0000000000", "field": "value", "row_key": "kpi:PROJ_475634f896ba:13", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_475634f896ba:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "MW", "field": "unit", "row_key": "kpi:PROJ_475634f896ba:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_475634f896ba:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_475634f896ba:13", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_475634f896ba:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Additional capacity of renewable energy plant(s) constructed or rehabilitated", "field": "name", "row_key": "kpi:PROJ_01e22ef6b29f:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "40.0000000000", "field": "value", "row_key": "kpi:PROJ_01e22ef6b29f:14", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_01e22ef6b29f:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "MW", "field": "unit", "row_key": "kpi:PROJ_01e22ef6b29f:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_01e22ef6b29f:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_01e22ef6b29f:14", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_01e22ef6b29f:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_01e22ef6b29f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "3746.6900000000", "field": "value", "row_key": "kpi:PROJ_01e22ef6b29f:15", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_01e22ef6b29f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "tCO2/year", "field": "unit", "row_key": "kpi:PROJ_01e22ef6b29f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_01e22ef6b29f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_01e22ef6b29f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_01e22ef6b29f:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual GHG emissions reduced/avoided", "field": "name", "row_key": "kpi:PROJ_475634f896ba:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "3233.1300000000", "field": "value", "row_key": "kpi:PROJ_475634f896ba:16", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_475634f896ba:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "tCO2/year", "field": "unit", "row_key": "kpi:PROJ_475634f896ba:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_475634f896ba:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_475634f896ba:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_475634f896ba:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Average amount of social loans", "field": "name", "row_key": "kpi:PROJ_042468813e77:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "6640.0000000000", "field": "value", "row_key": "kpi:PROJ_042468813e77:17", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_042468813e77:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "unit", "row_key": "kpi:PROJ_042468813e77:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_042468813e77:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_042468813e77:17", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_042468813e77:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Average amount of social loans", "field": "name", "row_key": "kpi:PROJ_c80e855fac84:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "5910.0000000000", "field": "value", "row_key": "kpi:PROJ_c80e855fac84:18", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c80e855fac84:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "USD", "field": "unit", "row_key": "kpi:PROJ_c80e855fac84:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c80e855fac84:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c80e855fac84:18", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_c80e855fac84:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "No. of social loans", "field": "name", "row_key": "kpi:PROJ_c80e855fac84:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "324.0000000000", "field": "value", "row_key": "kpi:PROJ_c80e855fac84:19", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c80e855fac84:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "social loans", "field": "unit", "row_key": "kpi:PROJ_c80e855fac84:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c80e855fac84:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c80e855fac84:19", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_c80e855fac84:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "No. of social loans", "field": "name", "row_key": "kpi:PROJ_042468813e77:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "289.0000000000", "field": "value", "row_key": "kpi:PROJ_042468813e77:20", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_042468813e77:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "social loans", "field": "unit", "row_key": "kpi:PROJ_042468813e77:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_042468813e77:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_042468813e77:20", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_042468813e77:20", "table": "kpis"}

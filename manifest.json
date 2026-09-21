@@ -1,0 +1,530 @@
+{
+ "version": 1,
+ "reports": [
+  {
+   "report_id": "REP_0f813c9bb198",
+   "report_guid": "f1766f08-214f-4d09-9069-6665724bcd32",
+   "split": "development",
+   "source_sha256": "f7e878c0b13cfc25ab390a471930cc6692f10654d6fe73958aa740913de8f420",
+   "issuer": "7R park",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_0f813c9bb198.jsonl",
+   "source_locator": "f1766f08-214f-4d09-9069-6665724bcd32/7R 2026.pdf"
+  },
+  {
+   "report_id": "REP_a76bd861447a",
+   "report_guid": "90895145-e4fb-4bf3-95bc-94fdc010e249",
+   "split": "heldout",
+   "source_sha256": "5c79b0c4344015a8afaf472193976e3b5d8614e948009b159c1bfeeeb1cd2b7e",
+   "issuer": "Agder Energi AS",
+   "year": "2025",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_a76bd861447a.jsonl",
+   "source_locator": "90895145-e4fb-4bf3-95bc-94fdc010e249/A Energi 2025.pdf"
+  },
+  {
+   "report_id": "REP_6d04bdf85cbd",
+   "report_guid": "bbe4cd06-1856-4141-bbd9-fcfd5188b312",
+   "split": "heldout",
+   "source_sha256": "4693ce025b2645318966b0a942f4648db5997e1e72cd64b65e8a8270c7e7c4b4",
+   "issuer": "Ahold Delhaize",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "missing_identifier",
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_6d04bdf85cbd.jsonl",
+   "source_locator": "bbe4cd06-1856-4141-bbd9-fcfd5188b312/Ahold 2025.pdf"
+  },
+  {
+   "report_id": "REP_bbfb42c36fba",
+   "report_guid": "5f6c2304-968a-4130-a14e-3d07f9499f9a",
+   "split": "development",
+   "source_sha256": "868fecee45940849fd732ad72013380c8aed36cd13bb134cf5e050bfcb3c655f",
+   "issuer": "Akademiska Hus",
+   "year": "2025",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "missing_identifier",
+    "portfolio",
+    "table_heavy",
+    "text_kpi"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_bbfb42c36fba.jsonl",
+   "source_locator": "5f6c2304-968a-4130-a14e-3d07f9499f9a/Akademiska Hus 2026.pdf"
+  },
+  {
+   "report_id": "REP_d31151a93c8c",
+   "report_guid": "d0fdb2ff-b30d-4774-a78b-a26bce9e5955",
+   "split": "heldout",
+   "source_sha256": "d5dc29fab007dbd9b08d37152f5e1d462ec4f0ce78a84cabb4ecedc9cc9de19f",
+   "issuer": "Al Rajhi Bank",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_d31151a93c8c.jsonl",
+   "source_locator": "d0fdb2ff-b30d-4774-a78b-a26bce9e5955/AlRajhi Bank 2026.pdf"
+  },
+  {
+   "report_id": "REP_dfb399bc6965",
+   "report_guid": "db63ede4-7787-437d-8fe1-e2f1c886e3ee",
+   "split": "heldout",
+   "source_sha256": "fb8231c4f5f0e588007ca9adb0ff5e0777ccf089bdc94944d573f6a0d417d66d",
+   "issuer": "Arion Bank",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio",
+    "text_kpi"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_dfb399bc6965.jsonl",
+   "source_locator": "db63ede4-7787-437d-8fe1-e2f1c886e3ee/Arion 2025.pdf"
+  },
+  {
+   "report_id": "REP_d6ffbf3c6cff",
+   "report_guid": "f62467c4-7456-4931-8735-47b22aa4a969",
+   "split": "development",
+   "source_sha256": "e1dda234a48507f5b9ddf36049ead3a0ebe0d06bfb7f80cae742bcf95a1a1e17",
+   "issuer": "AUGA",
+   "year": "2025",
+   "reporting_type": "Bond",
+   "tags": [
+    "bond"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_d6ffbf3c6cff.jsonl",
+   "source_locator": "f62467c4-7456-4931-8735-47b22aa4a969/Auga 2025.pdf"
+  },
+  {
+   "report_id": "REP_048cae24040e",
+   "report_guid": "c1b0554a-5bbd-4f5c-8e94-432b245e1205",
+   "split": "heldout",
+   "source_sha256": "f062fb51a9bfaabfed8f703141c14ecbeba1419f58e0b9c700dde6aa9bb8ffd5",
+   "issuer": "Australian Office of Financial Management",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio",
+    "text_kpi"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_048cae24040e.jsonl",
+   "source_locator": "c1b0554a-5bbd-4f5c-8e94-432b245e1205/Australia 2026.pdf"
+  },
+  {
+   "report_id": "REP_19e0b77b8c53",
+   "report_guid": "1a806470-fa4e-4308-b4f5-975d060b65e7",
+   "split": "development",
+   "source_sha256": "431a81110b3c72bf695a003646befc80eb4e3edecc844425fe07bcacb5a0ad7a",
+   "issuer": "AYVENS S.A.",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio",
+    "text_kpi"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_19e0b77b8c53.jsonl",
+   "source_locator": "1a806470-fa4e-4308-b4f5-975d060b65e7/Ayvens 2026.pdf"
+  },
+  {
+   "report_id": "REP_6d56b809e84b",
+   "report_guid": "5c09d725-282b-4df8-bf0b-5355d999e7f3",
+   "split": "heldout",
+   "source_sha256": "55c8f9e5b598cfdd3f579adedc3a1eb9ee62cbd40909fe607b7db63fadba0d3c",
+   "issuer": "Bank of Cyprus",
+   "year": "2025",
+   "reporting_type": "Bond",
+   "tags": [
+    "bond"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_6d56b809e84b.jsonl",
+   "source_locator": "5c09d725-282b-4df8-bf0b-5355d999e7f3/Bank of Cyprus 2025.pdf"
+  },
+  {
+   "report_id": "REP_1972f7328d1c",
+   "report_guid": "b2ec614b-03a6-4215-8430-116fc895203c",
+   "split": "development",
+   "source_sha256": "553dac57d40dfb71cd48e773b7156b93400074c02771ce5436c4f109f88c960a",
+   "issuer": "Belfius Bank SA/NV",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio",
+    "table_heavy"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_1972f7328d1c.jsonl",
+   "source_locator": "b2ec614b-03a6-4215-8430-116fc895203c/Belfius 2026-Green bond report.pdf"
+  },
+  {
+   "report_id": "REP_3930bb5488d2",
+   "report_guid": "a70ebe67-a353-4c5b-88e1-2225d2527fd9",
+   "split": "heldout",
+   "source_sha256": "2f8a62bd1136497a87567f76f146732f54a20266c50906f0fdfa1234da33c513",
+   "issuer": "Cassa Depositi e Prestiti (CDP)",
+   "year": "2026",
+   "reporting_type": "Bond",
+   "tags": [
+    "bond"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_3930bb5488d2.jsonl",
+   "source_locator": "a70ebe67-a353-4c5b-88e1-2225d2527fd9/CDP 2026.pdf"
+  },
+  {
+   "report_id": "REP_19774683602e",
+   "report_guid": "9835880d-ae74-43c5-a96e-ea357dd0ac51",
+   "split": "development",
+   "source_sha256": "cc43c6dd20bb18df936012d544f963d5f6e4215be18d5209ca46f597dcad804f",
+   "issuer": "CPP Investments",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio",
+    "table_heavy",
+    "text_kpi"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_19774683602e.jsonl",
+   "source_locator": "9835880d-ae74-43c5-a96e-ea357dd0ac51/CPP 2026.pdf"
+  },
+  {
+   "report_id": "REP_ea44be441f42",
+   "report_guid": "ea08c89a-11bb-43a0-9943-8253d6cf00b3",
+   "split": "development",
+   "source_sha256": "7db1250e0d6ec7c57d924c4e59946c058faa167c0e37ade26a0a4025052643a6",
+   "issuer": "DNB Bank ASA",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio",
+    "table_heavy"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_ea44be441f42.jsonl",
+   "source_locator": "ea08c89a-11bb-43a0-9943-8253d6cf00b3/DNB June 2026.pdf"
+  },
+  {
+   "report_id": "REP_3e69ab2d7c29",
+   "report_guid": "24f541f3-0a1e-4524-97f9-89570187e2c3",
+   "split": "heldout",
+   "source_sha256": "d1d22ee0a2e21ce0b1856b4b1b32ef2ee5090bd2732e37fff2ba5854a1a7ced7",
+   "issuer": "Eidsiva Energi AS",
+   "year": "2025",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_3e69ab2d7c29.jsonl",
+   "source_locator": "24f541f3-0a1e-4524-97f9-89570187e2c3/Eidsiva 2025.pdf"
+  },
+  {
+   "report_id": "REP_1cd34491de65",
+   "report_guid": "08cc2e27-57b6-4386-9cb1-15581a97633b",
+   "split": "heldout",
+   "source_sha256": "9dca19ac318a140f11c87bc54366129f71de93a954ca4058f435f2a42a172d16",
+   "issuer": "EP Infrastructure",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_1cd34491de65.jsonl",
+   "source_locator": "08cc2e27-57b6-4386-9cb1-15581a97633b/EPIF 2026.pdf"
+  },
+  {
+   "report_id": "REP_a286e2cb31cc",
+   "report_guid": "08a2c68e-9853-4ae8-b75f-16479a4cc21c",
+   "split": "development",
+   "source_sha256": "9cddf9afa590e3567fa76a5341fb770efbf11e7778c88aca2f01b927af9fd8e5",
+   "issuer": "Federal State of Hesse",
+   "year": "2025",
+   "reporting_type": "Bond",
+   "tags": [
+    "bond",
+    "table_heavy"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_a286e2cb31cc.jsonl",
+   "source_locator": "08a2c68e-9853-4ae8-b75f-16479a4cc21c/Hessen 2025.pdf"
+  },
+  {
+   "report_id": "REP_58a7159d0a6a",
+   "report_guid": "609657c7-9abd-409e-a14d-61c9b569db3a",
+   "split": "heldout",
+   "source_sha256": "ae2179b179c1085b7139e450155c1a7d702c9174ac7bf48cd1d22609aa9b2215",
+   "issuer": "Fingrid OYJ",
+   "year": "2025",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_58a7159d0a6a.jsonl",
+   "source_locator": "609657c7-9abd-409e-a14d-61c9b569db3a/Fingrid Finance 2025.pdf"
+  },
+  {
+   "report_id": "REP_aca83f517042",
+   "report_guid": "e05326b6-858e-4642-8b4a-7ddc38eb32b7",
+   "split": "heldout",
+   "source_sha256": "9a233c49ead7c3632264cb3159d2248269cd7c3804831c601ca64908dae96e6c",
+   "issuer": "FMO",
+   "year": "2025",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_aca83f517042.jsonl",
+   "source_locator": "e05326b6-858e-4642-8b4a-7ddc38eb32b7/FMO 2025.pdf"
+  },
+  {
+   "report_id": "REP_956a666be370",
+   "report_guid": "bceef3bf-0de1-4acc-aa2b-a5b88c09f51b",
+   "split": "heldout",
+   "source_sha256": "c674a01a26eef14c04a2fb96bc382644443f9940833b29a9f63e7b52bf1eff38",
+   "issuer": "Husqvarna AB",
+   "year": "2025",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_956a666be370.jsonl",
+   "source_locator": "bceef3bf-0de1-4acc-aa2b-a5b88c09f51b/Husqvarna 2025.pdf"
+  },
+  {
+   "report_id": "REP_cb3a106edef0",
+   "report_guid": "b1e82854-af79-4621-a8c9-0865bcaed78b",
+   "split": "heldout",
+   "source_sha256": "34bf6df568b24d03a9775f64d18489d86e362aa37846e4c7352b693d4aeb5196",
+   "issuer": "KEB Hana Bank",
+   "year": "2025",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_cb3a106edef0.jsonl",
+   "source_locator": "b1e82854-af79-4621-a8c9-0865bcaed78b/Hana 2025.pdf"
+  },
+  {
+   "report_id": "REP_0f1b22ce35d2",
+   "report_guid": "78a70e32-b4fd-473e-9df6-9f9fc47cc40b",
+   "split": "development",
+   "source_sha256": "58e62f272b10dbf0f1884ae7b253d09e5a9d04dd6943e18fd0434f539a609994",
+   "issuer": "Latvenergo",
+   "year": "2025",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_0f1b22ce35d2.jsonl",
+   "source_locator": "78a70e32-b4fd-473e-9df6-9f9fc47cc40b/Latvenergo 2025.pdf"
+  },
+  {
+   "report_id": "REP_20a249980516",
+   "report_guid": "620d3f4e-b8e2-419a-a6ee-ff46ad90e562",
+   "split": "heldout",
+   "source_sha256": "0e6d055e1e01656040edd04042a45e0ff9e2d824a801054c1aa1a379b8dd8876",
+   "issuer": "Länsförsäkringar AB (publ)",
+   "year": "2025",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_20a249980516.jsonl",
+   "source_locator": "620d3f4e-b8e2-419a-a6ee-ff46ad90e562/Lansforsakringar 2025.pdf"
+  },
+  {
+   "report_id": "REP_624ad97e1708",
+   "report_guid": "e4f4fbb6-127d-4d72-8c3b-64d31a021992",
+   "split": "heldout",
+   "source_sha256": "b77db795667e4a67e69e55ba47c0c5da9172965d549a36147ce9895139bc89ba",
+   "issuer": "R.Power",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_624ad97e1708.jsonl",
+   "source_locator": "e4f4fbb6-127d-4d72-8c3b-64d31a021992/R.Power 2025.pdf"
+  },
+  {
+   "report_id": "REP_007b926c1b2a",
+   "report_guid": "d20be8b8-5bfb-4f97-afca-ec86abea6afd",
+   "split": "development",
+   "source_sha256": "4b9c031716c2c6149f5a6630bfa5fef433207465bbd65aaa0ae18947b8d26b55",
+   "issuer": "SalMar",
+   "year": "2026",
+   "reporting_type": "Bond",
+   "tags": [
+    "bond"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_007b926c1b2a.jsonl",
+   "source_locator": "d20be8b8-5bfb-4f97-afca-ec86abea6afd/SalMar 2025.pdf"
+  },
+  {
+   "report_id": "REP_65c294eeab06",
+   "report_guid": "442d0420-74f4-4f3e-b0b0-b0b828e8f639",
+   "split": "heldout",
+   "source_sha256": "a6efce92193a4295c23f0597b130cde44425bb6745aae02787b5d303833921f4",
+   "issuer": "Societatea Energetica Electrica",
+   "year": "2026",
+   "reporting_type": "Bond",
+   "tags": [
+    "bond"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_65c294eeab06.jsonl",
+   "source_locator": "442d0420-74f4-4f3e-b0b0-b0b828e8f639/Electrica 2025.pdf"
+  },
+  {
+   "report_id": "REP_ef4692121b30",
+   "report_guid": "65ea84b4-347e-4b09-8701-3c83987ae627",
+   "split": "heldout",
+   "source_sha256": "9a92220b14210b24657780d39f7e4110e41a8675d77f3f1985e99f43f636b678",
+   "issuer": "Spuerkeess",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "missing_identifier",
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_ef4692121b30.jsonl",
+   "source_locator": "65ea84b4-347e-4b09-8701-3c83987ae627/Spuerkeess 2025.pdf"
+  },
+  {
+   "report_id": "REP_ed1af94bd0cb",
+   "report_guid": "efbeca51-3de1-4c48-a8c7-7bdbf284ab7e",
+   "split": "heldout",
+   "source_sha256": "b6ca4a4e95679fe5e856da5fa9d4877450030c91e8eebcd9a93702d86a27d862",
+   "issuer": "UPM-Kymmene Corporation",
+   "year": "2025",
+   "reporting_type": "Bond",
+   "tags": [
+    "bond",
+    "missing_identifier"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_ed1af94bd0cb.jsonl",
+   "source_locator": "efbeca51-3de1-4c48-a8c7-7bdbf284ab7e/UPM 2025.pdf"
+  },
+  {
+   "report_id": "REP_ca25aa8329a8",
+   "report_guid": "fd1ba80d-3c5c-4630-8af2-230d66b4c953",
+   "split": "heldout",
+   "source_sha256": "f48068a87d51f2bf0d973e5a6370eaad8951a4dc3320bae1cd52c1e6477e8161",
+   "issuer": "Vesteda Finance",
+   "year": "2025",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_ca25aa8329a8.jsonl",
+   "source_locator": "fd1ba80d-3c5c-4630-8af2-230d66b4c953/Vesteda 2025.pdf"
+  },
+  {
+   "report_id": "REP_c951842212cd",
+   "report_guid": "a3f4ed54-2d1d-4df9-9218-ec8a96843e7e",
+   "split": "heldout",
+   "source_sha256": "63d65671e010865279a8aaa09f8e83f1e6374d7d612456b2d5bdbf7c2ae19447",
+   "issuer": "Ziklo Bank AB",
+   "year": "2026",
+   "reporting_type": "Portfolio",
+   "tags": [
+    "missing_identifier",
+    "portfolio"
+   ],
+   "reviewers": [
+    "unassigned"
+   ],
+   "references_path": "references/REP_c951842212cd.jsonl",
+   "source_locator": "a3f4ed54-2d1d-4df9-9218-ec8a96843e7e/Ziklo 2026.pdf"
+  }
+ ]
+}

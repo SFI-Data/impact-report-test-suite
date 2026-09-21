@@ -1,0 +1,1013 @@
+{"applicability": "present", "evidence": {"pages": [1]}, "expected": "State of Hesse Green Bond 2025 - Reporting Allocation and Impact Report", "field": "report_name", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1]}, "expected": "2025", "field": "year", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Bond", "field": "reporting_type", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Not reported", "field": "third_party_assurance", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1]}, "expected": "State of Hesse Green Bond Framework", "field": "framework_name", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1]}, "expected": "1814.0000000000", "field": "total_allocation", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "currency", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1]}, "expected": "2025-04-29", "field": "date_of_allocation", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": null, "evidence": null, "expected": null, "field": "total_portfolio_allocation", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": null, "evidence": null, "expected": null, "field": "portfolio_allocation_from_bonds", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_a286e2cb31cc", "table": "report"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "bond:1:DE000A1RQE59", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "bond:1:DE000A1RQE59", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,500", "field": "bond_size", "row_key": "bond:1:DE000A1RQE59", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:DE000A1RQE59", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,500", "field": "allocated_amount", "row_key": "bond:1:DE000A1RQE59", "table": "bonds"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Clean Transportation", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "1,324.22", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Eco-Friendly Public Transport", "field": "category", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "1,306.44", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "235.82", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Further Climate and Environmental Protection Measures", "field": "category", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "173.49", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "145.12", "field": "amount", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Measures Concerning Forests", "field": "category", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "128.58", "field": "amount", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "CO2-Neutral State Administration / Energy Efficiency of Public Buildings", "field": "category", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "103.66", "field": "amount", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Sustainable Water and Wastewater Management", "field": "category", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "54.6", "field": "amount", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Adaptation to climate change", "field": "category", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "36.28", "field": "amount", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Climate Plan", "field": "category", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "30.25", "field": "amount", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green Buildings", "field": "category", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "18.14", "field": "amount", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Organic Farming and Nature Conservation", "field": "category", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "17.27", "field": "amount", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "12-point forest plan (\u201cZukunft Wald\u201d)", "field": "name", "row_key": "PROJ_a878ba5d44b6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 6", "field": "number", "row_key": "PROJ_a878ba5d44b6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_a878ba5d44b6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_a878ba5d44b6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "PROJ_a878ba5d44b6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "84.85", "field": "amount", "row_key": "PROJ_a878ba5d44b6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_a878ba5d44b6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Land Management", "field": "project_type", "row_key": "PROJ_a878ba5d44b6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_a878ba5d44b6", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Broadband expansion", "field": "name", "row_key": "PROJ_7dfe1c9b1862", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 5", "field": "number", "row_key": "PROJ_7dfe1c9b1862", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_7dfe1c9b1862", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_7dfe1c9b1862", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_7dfe1c9b1862", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "104.54", "field": "amount", "row_key": "PROJ_7dfe1c9b1862", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_7dfe1c9b1862", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Equipment", "field": "project_type", "row_key": "PROJ_7dfe1c9b1862", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_7dfe1c9b1862", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Building climate-resilient forests", "field": "name", "row_key": "PROJ_673c24dd9ad9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 29", "field": "number", "row_key": "PROJ_673c24dd9ad9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_673c24dd9ad9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_673c24dd9ad9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "PROJ_673c24dd9ad9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "4.6", "field": "amount", "row_key": "PROJ_673c24dd9ad9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_673c24dd9ad9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Land Management", "field": "project_type", "row_key": "PROJ_673c24dd9ad9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_673c24dd9ad9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Climate Change Directive Investment Measures", "field": "name", "row_key": "PROJ_8b191c260bf8", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 15", "field": "number", "row_key": "PROJ_8b191c260bf8", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_8b191c260bf8", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_8b191c260bf8", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Adaptation to climate change", "field": "category", "row_key": "PROJ_8b191c260bf8", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "15.71", "field": "amount", "row_key": "PROJ_8b191c260bf8", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_8b191c260bf8", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Climate Change Mitigation", "field": "project_type", "row_key": "PROJ_8b191c260bf8", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_8b191c260bf8", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Climate Change Directive Non-Investment Measures", "field": "name", "row_key": "PROJ_e2f7f2339f85", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 19", "field": "number", "row_key": "PROJ_e2f7f2339f85", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_e2f7f2339f85", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_e2f7f2339f85", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Adaptation to climate change", "field": "category", "row_key": "PROJ_e2f7f2339f85", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "10.25", "field": "amount", "row_key": "PROJ_e2f7f2339f85", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_e2f7f2339f85", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Climate Change Mitigation", "field": "project_type", "row_key": "PROJ_e2f7f2339f85", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_e2f7f2339f85", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Climate-friendly transport transition", "field": "name", "row_key": "PROJ_48bd6545d947", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 25", "field": "number", "row_key": "PROJ_48bd6545d947", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_48bd6545d947", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_48bd6545d947", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_48bd6545d947", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "7.33", "field": "amount", "row_key": "PROJ_48bd6545d947", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_48bd6545d947", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Mixed Transportation", "field": "project_type", "row_key": "PROJ_48bd6545d947", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_48bd6545d947", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "CO2-neutral state administration", "field": "name", "row_key": "PROJ_121f9db44a9f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 31", "field": "number", "row_key": "PROJ_121f9db44a9f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_121f9db44a9f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_121f9db44a9f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_121f9db44a9f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2.27", "field": "amount", "row_key": "PROJ_121f9db44a9f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_121f9db44a9f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_121f9db44a9f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_121f9db44a9f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "CO2-neutral state administration, COME Mobility", "field": "name", "row_key": "PROJ_3b1fa316abeb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 18", "field": "number", "row_key": "PROJ_3b1fa316abeb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_3b1fa316abeb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_3b1fa316abeb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_3b1fa316abeb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "11.87", "field": "amount", "row_key": "PROJ_3b1fa316abeb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_3b1fa316abeb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Infrastructure", "field": "project_type", "row_key": "PROJ_3b1fa316abeb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_3b1fa316abeb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "CO2-neutral state administration, COME Solar", "field": "name", "row_key": "PROJ_1ea78b6bc603", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 21", "field": "number", "row_key": "PROJ_1ea78b6bc603", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_1ea78b6bc603", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_1ea78b6bc603", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_1ea78b6bc603", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "9.62", "field": "amount", "row_key": "PROJ_1ea78b6bc603", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_1ea78b6bc603", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_1ea78b6bc603", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_1ea78b6bc603", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "CO2-neutral state administration, COME universities", "field": "name", "row_key": "PROJ_7d0dbb3619f7", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 8", "field": "number", "row_key": "PROJ_7d0dbb3619f7", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_7d0dbb3619f7", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_7d0dbb3619f7", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_7d0dbb3619f7", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "48.2", "field": "amount", "row_key": "PROJ_7d0dbb3619f7", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_7d0dbb3619f7", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_7d0dbb3619f7", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_7d0dbb3619f7", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "CO2-neutral state administration, energy efficiency, building standards for new buildings and renovation measures", "field": "name", "row_key": "PROJ_59a4dba7ac34", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 17", "field": "number", "row_key": "PROJ_59a4dba7ac34", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_59a4dba7ac34", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_59a4dba7ac34", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_59a4dba7ac34", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "12.08", "field": "amount", "row_key": "PROJ_59a4dba7ac34", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_59a4dba7ac34", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Public Buildings", "field": "project_type", "row_key": "PROJ_59a4dba7ac34", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_59a4dba7ac34", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Education, advice and technical information for agriculture and horticulture", "field": "name", "row_key": "PROJ_010aa8418b12", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 20", "field": "number", "row_key": "PROJ_010aa8418b12", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_010aa8418b12", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_010aa8418b12", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "PROJ_010aa8418b12", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "9.85", "field": "amount", "row_key": "PROJ_010aa8418b12", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_010aa8418b12", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Agriculture", "field": "project_type", "row_key": "PROJ_010aa8418b12", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_010aa8418b12", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Expansion of public transport and cycling", "field": "name", "row_key": "PROJ_e1364900f04e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 11", "field": "number", "row_key": "PROJ_e1364900f04e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_e1364900f04e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_e1364900f04e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_e1364900f04e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "23.49", "field": "amount", "row_key": "PROJ_e1364900f04e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_e1364900f04e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Public Transport", "field": "project_type", "row_key": "PROJ_e1364900f04e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_e1364900f04e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Feed to the Hessen-Forst state enterprise", "field": "name", "row_key": "PROJ_7134e077dc6e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 14", "field": "number", "row_key": "PROJ_7134e077dc6e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_7134e077dc6e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_7134e077dc6e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "PROJ_7134e077dc6e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "16.71", "field": "amount", "row_key": "PROJ_7134e077dc6e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_7134e077dc6e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Land Management", "field": "project_type", "row_key": "PROJ_7134e077dc6e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_7134e077dc6e", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Financing of local transport facilities", "field": "name", "row_key": "PROJ_e2a454f6d940", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 3", "field": "number", "row_key": "PROJ_e2a454f6d940", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_e2a454f6d940", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_e2a454f6d940", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_e2a454f6d940", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "162.42", "field": "amount", "row_key": "PROJ_e2a454f6d940", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_e2a454f6d940", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Public Transport", "field": "project_type", "row_key": "PROJ_e2a454f6d940", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_e2a454f6d940", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Funding of measures in accordance with the Mobility Promotion Act / Public Transport", "field": "name", "row_key": "PROJ_84a101f0a89a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 7", "field": "number", "row_key": "PROJ_84a101f0a89a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_84a101f0a89a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_84a101f0a89a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_84a101f0a89a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "71.15", "field": "amount", "row_key": "PROJ_84a101f0a89a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_84a101f0a89a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Public Transport", "field": "project_type", "row_key": "PROJ_84a101f0a89a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_84a101f0a89a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Funding programme \"Energy efficiency in rental housing\"", "field": "name", "row_key": "PROJ_14aeb0171c46", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 23", "field": "number", "row_key": "PROJ_14aeb0171c46", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_14aeb0171c46", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_14aeb0171c46", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_14aeb0171c46", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "8", "field": "amount", "row_key": "PROJ_14aeb0171c46", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_14aeb0171c46", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Residential Buildings", "field": "project_type", "row_key": "PROJ_14aeb0171c46", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_14aeb0171c46", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "HALM grassland extensification", "field": "name", "row_key": "PROJ_bf0662192e17", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 24", "field": "number", "row_key": "PROJ_bf0662192e17", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_bf0662192e17", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_bf0662192e17", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "PROJ_bf0662192e17", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "7.42", "field": "amount", "row_key": "PROJ_bf0662192e17", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_bf0662192e17", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Land Management", "field": "project_type", "row_key": "PROJ_bf0662192e17", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_bf0662192e17", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Improving biotope networks for climate-sensitive species", "field": "name", "row_key": "PROJ_c82322935fa9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 27", "field": "number", "row_key": "PROJ_c82322935fa9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_c82322935fa9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_c82322935fa9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "PROJ_c82322935fa9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "6.73", "field": "amount", "row_key": "PROJ_c82322935fa9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_c82322935fa9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Land Management", "field": "project_type", "row_key": "PROJ_c82322935fa9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_c82322935fa9", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Improving water retention in forests", "field": "name", "row_key": "PROJ_7358204bd7fb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 28", "field": "number", "row_key": "PROJ_7358204bd7fb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_7358204bd7fb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_7358204bd7fb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "PROJ_7358204bd7fb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "4.63", "field": "amount", "row_key": "PROJ_7358204bd7fb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_7358204bd7fb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Land Management", "field": "project_type", "row_key": "PROJ_7358204bd7fb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_7358204bd7fb", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Increasing energy efficiency and the use of renewable energies, energy efficient renovation of municipal buildings", "field": "name", "row_key": "PROJ_094fedb7ce2b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 12", "field": "number", "row_key": "PROJ_094fedb7ce2b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_094fedb7ce2b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_094fedb7ce2b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_094fedb7ce2b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "19.62", "field": "amount", "row_key": "PROJ_094fedb7ce2b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_094fedb7ce2b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_094fedb7ce2b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_094fedb7ce2b", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "LandesTicket Hessen", "field": "name", "row_key": "PROJ_4541d7237dda", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 4", "field": "number", "row_key": "PROJ_4541d7237dda", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_4541d7237dda", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_4541d7237dda", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_4541d7237dda", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "122.39", "field": "amount", "row_key": "PROJ_4541d7237dda", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_4541d7237dda", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Public Transport", "field": "project_type", "row_key": "PROJ_4541d7237dda", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_4541d7237dda", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Municipal flood protection (retention basins)", "field": "name", "row_key": "PROJ_40beaa1842a0", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 16", "field": "number", "row_key": "PROJ_40beaa1842a0", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_40beaa1842a0", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_40beaa1842a0", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Adaptation to climate change", "field": "category", "row_key": "PROJ_40beaa1842a0", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "12.29", "field": "amount", "row_key": "PROJ_40beaa1842a0", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_40beaa1842a0", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Climate Change Mitigation", "field": "project_type", "row_key": "PROJ_40beaa1842a0", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_40beaa1842a0", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Promoting the development of sustainable (and climate-neutral) universities", "field": "name", "row_key": "PROJ_59f99ab13184", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 22", "field": "number", "row_key": "PROJ_59f99ab13184", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_59f99ab13184", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_59f99ab13184", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_59f99ab13184", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "9.08", "field": "amount", "row_key": "PROJ_59f99ab13184", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_59f99ab13184", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Mixed Energy Efficiency", "field": "project_type", "row_key": "PROJ_59f99ab13184", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_59f99ab13184", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Promotion of public transport services", "field": "name", "row_key": "PROJ_818a9778edcd", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 2", "field": "number", "row_key": "PROJ_818a9778edcd", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_818a9778edcd", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_818a9778edcd", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_818a9778edcd", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "440.16", "field": "amount", "row_key": "PROJ_818a9778edcd", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_818a9778edcd", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Public Transport", "field": "project_type", "row_key": "PROJ_818a9778edcd", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_818a9778edcd", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Promotion of public transport services including pupils and excursion tickets", "field": "name", "row_key": "PROJ_f51304de592a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 1", "field": "number", "row_key": "PROJ_f51304de592a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_f51304de592a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_f51304de592a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_f51304de592a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "486.84", "field": "amount", "row_key": "PROJ_f51304de592a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_f51304de592a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Public Transport", "field": "project_type", "row_key": "PROJ_f51304de592a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_f51304de592a", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Renaturation -Implementation of the European Water Policy in the field of water protection for the preservation and improvement of water quality", "field": "name", "row_key": "PROJ_915ce8dd926f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 9", "field": "number", "row_key": "PROJ_915ce8dd926f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_915ce8dd926f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_915ce8dd926f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Sustainable Water and Wastewater Management", "field": "category", "row_key": "PROJ_915ce8dd926f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "39.34", "field": "amount", "row_key": "PROJ_915ce8dd926f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_915ce8dd926f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Waste Management", "field": "project_type", "row_key": "PROJ_915ce8dd926f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_915ce8dd926f", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State Energy Agency", "field": "name", "row_key": "PROJ_1da2505fb936", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 10", "field": "number", "row_key": "PROJ_1da2505fb936", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_1da2505fb936", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_1da2505fb936", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_1da2505fb936", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "34.99", "field": "amount", "row_key": "PROJ_1da2505fb936", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_1da2505fb936", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Mixed Energy Efficiency", "field": "project_type", "row_key": "PROJ_1da2505fb936", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_1da2505fb936", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Strengthening pedestrian and bicycle traffic", "field": "name", "row_key": "PROJ_b73c99ecc7b2", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 26", "field": "number", "row_key": "PROJ_b73c99ecc7b2", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_b73c99ecc7b2", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_b73c99ecc7b2", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_b73c99ecc7b2", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "7.12", "field": "amount", "row_key": "PROJ_b73c99ecc7b2", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_b73c99ecc7b2", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Mixed Transportation", "field": "project_type", "row_key": "PROJ_b73c99ecc7b2", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_b73c99ecc7b2", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Supply to the Kellerwald-Edersee National Park", "field": "name", "row_key": "PROJ_5110b2ff3732", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 13", "field": "number", "row_key": "PROJ_5110b2ff3732", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_5110b2ff3732", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_5110b2ff3732", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "PROJ_5110b2ff3732", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "17.79", "field": "amount", "row_key": "PROJ_5110b2ff3732", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_5110b2ff3732", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Land Management", "field": "project_type", "row_key": "PROJ_5110b2ff3732", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_5110b2ff3732", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Wastewater treatment plant improvement (4th purification stage)", "field": "name", "row_key": "PROJ_e5094e9e435c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Project 30", "field": "number", "row_key": "PROJ_e5094e9e435c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "State of Hesse June 2035 Green Bond", "field": "programme", "row_key": "PROJ_e5094e9e435c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "DE000A1RQE59", "field": "isin", "row_key": "PROJ_e5094e9e435c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Sustainable Water and Wastewater Management", "field": "category", "row_key": "PROJ_e5094e9e435c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2.97", "field": "amount", "row_key": "PROJ_e5094e9e435c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_e5094e9e435c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Water Resilience", "field": "project_type", "row_key": "PROJ_e5094e9e435c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Germany", "field": "country", "row_key": "PROJ_e5094e9e435c", "table": "projects"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of disbursed applications forest owners and timber marketing organizations (hvo) per year in 2023", "field": "name", "row_key": "kpi:PROJ_a878ba5d44b6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "1498.0000000000", "field": "value", "row_key": "kpi:PROJ_a878ba5d44b6:1", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_a878ba5d44b6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "number", "field": "unit", "row_key": "kpi:PROJ_a878ba5d44b6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_a878ba5d44b6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_a878ba5d44b6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_a878ba5d44b6:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of disbursed applications forest owners and timber marketing organizations (hvo) per year in 2024", "field": "name", "row_key": "kpi:PROJ_a878ba5d44b6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "173.0000000000", "field": "value", "row_key": "kpi:PROJ_a878ba5d44b6:2", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_a878ba5d44b6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "number", "field": "unit", "row_key": "kpi:PROJ_a878ba5d44b6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_a878ba5d44b6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_a878ba5d44b6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_a878ba5d44b6:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_a878ba5d44b6:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "15.0000000000", "field": "value", "row_key": "kpi:PROJ_a878ba5d44b6:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_a878ba5d44b6:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_a878ba5d44b6:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_a878ba5d44b6:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_a878ba5d44b6:3", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_a878ba5d44b6:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Percent of households in hesse with fiber optic connection (fttb/h) in 2023", "field": "name", "row_key": "kpi:PROJ_7dfe1c9b1862:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "21.1300000000", "field": "value", "row_key": "kpi:PROJ_7dfe1c9b1862:4", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7dfe1c9b1862:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "%", "field": "unit", "row_key": "kpi:PROJ_7dfe1c9b1862:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7dfe1c9b1862:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7dfe1c9b1862:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_7dfe1c9b1862:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Percent of households in hesse with fiber optic connection (fttb/h) in 2024", "field": "name", "row_key": "kpi:PROJ_7dfe1c9b1862:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "31.9200000000", "field": "value", "row_key": "kpi:PROJ_7dfe1c9b1862:5", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7dfe1c9b1862:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "%", "field": "unit", "row_key": "kpi:PROJ_7dfe1c9b1862:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7dfe1c9b1862:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7dfe1c9b1862:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_7dfe1c9b1862:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_7dfe1c9b1862:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "9.0000000000", "field": "value", "row_key": "kpi:PROJ_7dfe1c9b1862:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7dfe1c9b1862:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_7dfe1c9b1862:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7dfe1c9b1862:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7dfe1c9b1862:6", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_7dfe1c9b1862:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_673c24dd9ad9:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "6.0000000000", "field": "value", "row_key": "kpi:PROJ_673c24dd9ad9:7", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_673c24dd9ad9:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_673c24dd9ad9:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_673c24dd9ad9:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_673c24dd9ad9:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_673c24dd9ad9:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_673c24dd9ad9:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "6.0000000000", "field": "value", "row_key": "kpi:PROJ_673c24dd9ad9:8", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_673c24dd9ad9:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_673c24dd9ad9:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_673c24dd9ad9:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_673c24dd9ad9:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_673c24dd9ad9:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_673c24dd9ad9:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "15.0000000000", "field": "value", "row_key": "kpi:PROJ_673c24dd9ad9:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_673c24dd9ad9:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_673c24dd9ad9:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_673c24dd9ad9:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_673c24dd9ad9:9", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_673c24dd9ad9:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_8b191c260bf8:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "78.0000000000", "field": "value", "row_key": "kpi:PROJ_8b191c260bf8:10", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8b191c260bf8:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_8b191c260bf8:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8b191c260bf8:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8b191c260bf8:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_8b191c260bf8:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_8b191c260bf8:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "67.0000000000", "field": "value", "row_key": "kpi:PROJ_8b191c260bf8:11", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8b191c260bf8:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_8b191c260bf8:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8b191c260bf8:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8b191c260bf8:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_8b191c260bf8:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_8b191c260bf8:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_8b191c260bf8:12", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8b191c260bf8:12", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_8b191c260bf8:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8b191c260bf8:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8b191c260bf8:12", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_8b191c260bf8:12", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_e2f7f2339f85:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "49.0000000000", "field": "value", "row_key": "kpi:PROJ_e2f7f2339f85:13", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e2f7f2339f85:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_e2f7f2339f85:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e2f7f2339f85:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e2f7f2339f85:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_e2f7f2339f85:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_e2f7f2339f85:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "39.0000000000", "field": "value", "row_key": "kpi:PROJ_e2f7f2339f85:14", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e2f7f2339f85:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_e2f7f2339f85:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e2f7f2339f85:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e2f7f2339f85:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_e2f7f2339f85:14", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_e2f7f2339f85:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_e2f7f2339f85:15", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e2f7f2339f85:15", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_e2f7f2339f85:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e2f7f2339f85:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e2f7f2339f85:15", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e2f7f2339f85:15", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_48bd6545d947:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "69.0000000000", "field": "value", "row_key": "kpi:PROJ_48bd6545d947:16", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_48bd6545d947:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_48bd6545d947:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_48bd6545d947:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_48bd6545d947:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_48bd6545d947:16", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_48bd6545d947:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "30.0000000000", "field": "value", "row_key": "kpi:PROJ_48bd6545d947:17", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_48bd6545d947:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_48bd6545d947:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_48bd6545d947:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_48bd6545d947:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_48bd6545d947:17", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_48bd6545d947:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "11.0000000000", "field": "value", "row_key": "kpi:PROJ_48bd6545d947:18", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_48bd6545d947:18", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_48bd6545d947:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_48bd6545d947:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_48bd6545d947:18", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_48bd6545d947:18", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Co2 savings in 2023", "field": "name", "row_key": "kpi:PROJ_121f9db44a9f:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "160000.0000000000", "field": "value", "row_key": "kpi:PROJ_121f9db44a9f:19", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_121f9db44a9f:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "tons per year", "field": "unit", "row_key": "kpi:PROJ_121f9db44a9f:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_121f9db44a9f:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_121f9db44a9f:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_121f9db44a9f:19", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Co2 savings in 2024", "field": "name", "row_key": "kpi:PROJ_121f9db44a9f:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "150000.0000000000", "field": "value", "row_key": "kpi:PROJ_121f9db44a9f:20", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_121f9db44a9f:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "tons per year", "field": "unit", "row_key": "kpi:PROJ_121f9db44a9f:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_121f9db44a9f:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_121f9db44a9f:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_121f9db44a9f:20", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_121f9db44a9f:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "11.0000000000", "field": "value", "row_key": "kpi:PROJ_121f9db44a9f:21", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_121f9db44a9f:21", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_121f9db44a9f:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_121f9db44a9f:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_121f9db44a9f:21", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_121f9db44a9f:21", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of charging points installed in 2023", "field": "name", "row_key": "kpi:PROJ_3b1fa316abeb:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "299.0000000000", "field": "value", "row_key": "kpi:PROJ_3b1fa316abeb:22", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_3b1fa316abeb:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "charging points", "field": "unit", "row_key": "kpi:PROJ_3b1fa316abeb:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_3b1fa316abeb:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_3b1fa316abeb:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_3b1fa316abeb:22", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of charging points installed in 2024", "field": "name", "row_key": "kpi:PROJ_3b1fa316abeb:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "565.0000000000", "field": "value", "row_key": "kpi:PROJ_3b1fa316abeb:23", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_3b1fa316abeb:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "charging points", "field": "unit", "row_key": "kpi:PROJ_3b1fa316abeb:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_3b1fa316abeb:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_3b1fa316abeb:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_3b1fa316abeb:23", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_3b1fa316abeb:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "9.0000000000", "field": "value", "row_key": "kpi:PROJ_3b1fa316abeb:24", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_3b1fa316abeb:24", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_3b1fa316abeb:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_3b1fa316abeb:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_3b1fa316abeb:24", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_3b1fa316abeb:24", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Realized installed capacity in 2023", "field": "name", "row_key": "kpi:PROJ_1ea78b6bc603:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "0.7480000000", "field": "value", "row_key": "kpi:PROJ_1ea78b6bc603:25", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_1ea78b6bc603:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "MW", "field": "unit", "row_key": "kpi:PROJ_1ea78b6bc603:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_1ea78b6bc603:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_1ea78b6bc603:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_1ea78b6bc603:25", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Realized installed capacity in 2024", "field": "name", "row_key": "kpi:PROJ_1ea78b6bc603:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "1.3870000000", "field": "value", "row_key": "kpi:PROJ_1ea78b6bc603:26", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_1ea78b6bc603:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "MW", "field": "unit", "row_key": "kpi:PROJ_1ea78b6bc603:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_1ea78b6bc603:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_1ea78b6bc603:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_1ea78b6bc603:26", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_1ea78b6bc603:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "7.0000000000", "field": "value", "row_key": "kpi:PROJ_1ea78b6bc603:27", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_1ea78b6bc603:27", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_1ea78b6bc603:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_1ea78b6bc603:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_1ea78b6bc603:27", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_1ea78b6bc603:27", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Co2 savings in 2023", "field": "name", "row_key": "kpi:PROJ_7d0dbb3619f7:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "544.0700000000", "field": "value", "row_key": "kpi:PROJ_7d0dbb3619f7:28", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7d0dbb3619f7:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "tons per year", "field": "unit", "row_key": "kpi:PROJ_7d0dbb3619f7:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7d0dbb3619f7:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7d0dbb3619f7:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_7d0dbb3619f7:28", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Co2 savings in 2024", "field": "name", "row_key": "kpi:PROJ_7d0dbb3619f7:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "681.3800000000", "field": "value", "row_key": "kpi:PROJ_7d0dbb3619f7:29", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7d0dbb3619f7:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "tons per year", "field": "unit", "row_key": "kpi:PROJ_7d0dbb3619f7:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7d0dbb3619f7:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7d0dbb3619f7:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_7d0dbb3619f7:29", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_7d0dbb3619f7:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "11.0000000000", "field": "value", "row_key": "kpi:PROJ_7d0dbb3619f7:30", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7d0dbb3619f7:30", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_7d0dbb3619f7:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7d0dbb3619f7:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7d0dbb3619f7:30", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_7d0dbb3619f7:30", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Co2 savings in 2023", "field": "name", "row_key": "kpi:PROJ_59a4dba7ac34:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "675.7100000000", "field": "value", "row_key": "kpi:PROJ_59a4dba7ac34:31", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_59a4dba7ac34:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "tons per year", "field": "unit", "row_key": "kpi:PROJ_59a4dba7ac34:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_59a4dba7ac34:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_59a4dba7ac34:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_59a4dba7ac34:31", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Co2 savings in 2024", "field": "name", "row_key": "kpi:PROJ_59a4dba7ac34:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "576.2200000000", "field": "value", "row_key": "kpi:PROJ_59a4dba7ac34:32", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_59a4dba7ac34:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "tons per year", "field": "unit", "row_key": "kpi:PROJ_59a4dba7ac34:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_59a4dba7ac34:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_59a4dba7ac34:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_59a4dba7ac34:32", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_59a4dba7ac34:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "11.0000000000", "field": "value", "row_key": "kpi:PROJ_59a4dba7ac34:33", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_59a4dba7ac34:33", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_59a4dba7ac34:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_59a4dba7ac34:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_59a4dba7ac34:33", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_59a4dba7ac34:33", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of customer contacts per year in 2023", "field": "name", "row_key": "kpi:PROJ_010aa8418b12:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "74025.0000000000", "field": "value", "row_key": "kpi:PROJ_010aa8418b12:34", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_010aa8418b12:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "customer contacts", "field": "unit", "row_key": "kpi:PROJ_010aa8418b12:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_010aa8418b12:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_010aa8418b12:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_010aa8418b12:34", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of customer contacts per year in 2024", "field": "name", "row_key": "kpi:PROJ_010aa8418b12:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "121022.0000000000", "field": "value", "row_key": "kpi:PROJ_010aa8418b12:35", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_010aa8418b12:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "customer contacts", "field": "unit", "row_key": "kpi:PROJ_010aa8418b12:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_010aa8418b12:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_010aa8418b12:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_010aa8418b12:35", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_010aa8418b12:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_010aa8418b12:36", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_010aa8418b12:36", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_010aa8418b12:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_010aa8418b12:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_010aa8418b12:36", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_010aa8418b12:36", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_e1364900f04e:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "73.0000000000", "field": "value", "row_key": "kpi:PROJ_e1364900f04e:37", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e1364900f04e:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_e1364900f04e:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e1364900f04e:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e1364900f04e:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_e1364900f04e:37", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_e1364900f04e:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "92.0000000000", "field": "value", "row_key": "kpi:PROJ_e1364900f04e:38", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e1364900f04e:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_e1364900f04e:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e1364900f04e:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e1364900f04e:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_e1364900f04e:38", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_e1364900f04e:39", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "11.0000000000", "field": "value", "row_key": "kpi:PROJ_e1364900f04e:39", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e1364900f04e:39", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_e1364900f04e:39", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e1364900f04e:39", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e1364900f04e:39", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e1364900f04e:39", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Amount allocated in eur per ha operational area state forest in 2023", "field": "name", "row_key": "kpi:PROJ_7134e077dc6e:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "15.6400000000", "field": "value", "row_key": "kpi:PROJ_7134e077dc6e:40", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7134e077dc6e:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR per ha", "field": "unit", "row_key": "kpi:PROJ_7134e077dc6e:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7134e077dc6e:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7134e077dc6e:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_7134e077dc6e:40", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Amount allocated in eur per ha operational area state forest in 2024", "field": "name", "row_key": "kpi:PROJ_7134e077dc6e:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "15.9200000000", "field": "value", "row_key": "kpi:PROJ_7134e077dc6e:41", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7134e077dc6e:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR per ha", "field": "unit", "row_key": "kpi:PROJ_7134e077dc6e:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7134e077dc6e:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7134e077dc6e:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_7134e077dc6e:41", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_7134e077dc6e:42", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "15.0000000000", "field": "value", "row_key": "kpi:PROJ_7134e077dc6e:42", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7134e077dc6e:42", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_7134e077dc6e:42", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7134e077dc6e:42", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7134e077dc6e:42", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_7134e077dc6e:42", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year (in 2023)", "field": "name", "row_key": "kpi:PROJ_e2a454f6d940:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "55.0000000000", "field": "value", "row_key": "kpi:PROJ_e2a454f6d940:43", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e2a454f6d940:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "number", "field": "unit", "row_key": "kpi:PROJ_e2a454f6d940:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e2a454f6d940:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e2a454f6d940:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_e2a454f6d940:43", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year (in 2024)", "field": "name", "row_key": "kpi:PROJ_e2a454f6d940:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "77.0000000000", "field": "value", "row_key": "kpi:PROJ_e2a454f6d940:44", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e2a454f6d940:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "number", "field": "unit", "row_key": "kpi:PROJ_e2a454f6d940:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e2a454f6d940:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e2a454f6d940:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_e2a454f6d940:44", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_e2a454f6d940:45", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_e2a454f6d940:45", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e2a454f6d940:45", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_e2a454f6d940:45", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e2a454f6d940:45", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e2a454f6d940:45", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e2a454f6d940:45", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_84a101f0a89a:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "49.0000000000", "field": "value", "row_key": "kpi:PROJ_84a101f0a89a:46", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_84a101f0a89a:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "number", "field": "unit", "row_key": "kpi:PROJ_84a101f0a89a:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_84a101f0a89a:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_84a101f0a89a:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_84a101f0a89a:46", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_84a101f0a89a:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "84.0000000000", "field": "value", "row_key": "kpi:PROJ_84a101f0a89a:47", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_84a101f0a89a:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "number", "field": "unit", "row_key": "kpi:PROJ_84a101f0a89a:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_84a101f0a89a:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_84a101f0a89a:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_84a101f0a89a:47", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_84a101f0a89a:48", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_84a101f0a89a:48", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_84a101f0a89a:48", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_84a101f0a89a:48", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_84a101f0a89a:48", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_84a101f0a89a:48", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_84a101f0a89a:48", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Subsidized housing units per year in 2023", "field": "name", "row_key": "kpi:PROJ_14aeb0171c46:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "160.0000000000", "field": "value", "row_key": "kpi:PROJ_14aeb0171c46:49", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_14aeb0171c46:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "subsidized housing units", "field": "unit", "row_key": "kpi:PROJ_14aeb0171c46:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_14aeb0171c46:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_14aeb0171c46:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_14aeb0171c46:49", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Subsidized housing units per year in 2024", "field": "name", "row_key": "kpi:PROJ_14aeb0171c46:50", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "877.0000000000", "field": "value", "row_key": "kpi:PROJ_14aeb0171c46:50", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_14aeb0171c46:50", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "subsidized housing units", "field": "unit", "row_key": "kpi:PROJ_14aeb0171c46:50", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_14aeb0171c46:50", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_14aeb0171c46:50", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_14aeb0171c46:50", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_14aeb0171c46:51", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "11.0000000000", "field": "value", "row_key": "kpi:PROJ_14aeb0171c46:51", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_14aeb0171c46:51", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_14aeb0171c46:51", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_14aeb0171c46:51", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_14aeb0171c46:51", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_14aeb0171c46:51", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Hectares of extensive grassland management per year (commitment area) in 2023", "field": "name", "row_key": "kpi:PROJ_bf0662192e17:52", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "61867.0000000000", "field": "value", "row_key": "kpi:PROJ_bf0662192e17:52", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_bf0662192e17:52", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "ha", "field": "unit", "row_key": "kpi:PROJ_bf0662192e17:52", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_bf0662192e17:52", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_bf0662192e17:52", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_bf0662192e17:52", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Hectares of extensive grassland management per year (commitment area) in 2024", "field": "name", "row_key": "kpi:PROJ_bf0662192e17:53", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "70323.0000000000", "field": "value", "row_key": "kpi:PROJ_bf0662192e17:53", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_bf0662192e17:53", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "ha", "field": "unit", "row_key": "kpi:PROJ_bf0662192e17:53", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_bf0662192e17:53", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_bf0662192e17:53", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_bf0662192e17:53", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_bf0662192e17:54", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "15.0000000000", "field": "value", "row_key": "kpi:PROJ_bf0662192e17:54", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_bf0662192e17:54", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_bf0662192e17:54", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_bf0662192e17:54", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_bf0662192e17:54", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_bf0662192e17:54", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_c82322935fa9:55", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "53.0000000000", "field": "value", "row_key": "kpi:PROJ_c82322935fa9:55", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c82322935fa9:55", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_c82322935fa9:55", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c82322935fa9:55", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c82322935fa9:55", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_c82322935fa9:55", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_c82322935fa9:56", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "80.0000000000", "field": "value", "row_key": "kpi:PROJ_c82322935fa9:56", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c82322935fa9:56", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_c82322935fa9:56", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c82322935fa9:56", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c82322935fa9:56", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_c82322935fa9:56", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_c82322935fa9:57", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "15.0000000000", "field": "value", "row_key": "kpi:PROJ_c82322935fa9:57", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c82322935fa9:57", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_c82322935fa9:57", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c82322935fa9:57", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c82322935fa9:57", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_c82322935fa9:57", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_7358204bd7fb:58", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "4.0000000000", "field": "value", "row_key": "kpi:PROJ_7358204bd7fb:58", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7358204bd7fb:58", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_7358204bd7fb:58", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7358204bd7fb:58", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7358204bd7fb:58", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_7358204bd7fb:58", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_7358204bd7fb:59", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "4.0000000000", "field": "value", "row_key": "kpi:PROJ_7358204bd7fb:59", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7358204bd7fb:59", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_7358204bd7fb:59", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7358204bd7fb:59", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7358204bd7fb:59", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_7358204bd7fb:59", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_7358204bd7fb:60", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "15.0000000000", "field": "value", "row_key": "kpi:PROJ_7358204bd7fb:60", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_7358204bd7fb:60", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_7358204bd7fb:60", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_7358204bd7fb:60", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_7358204bd7fb:60", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_7358204bd7fb:60", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_094fedb7ce2b:61", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "45.0000000000", "field": "value", "row_key": "kpi:PROJ_094fedb7ce2b:61", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_094fedb7ce2b:61", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_094fedb7ce2b:61", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_094fedb7ce2b:61", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_094fedb7ce2b:61", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_094fedb7ce2b:61", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_094fedb7ce2b:62", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "46.0000000000", "field": "value", "row_key": "kpi:PROJ_094fedb7ce2b:62", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_094fedb7ce2b:62", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_094fedb7ce2b:62", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_094fedb7ce2b:62", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_094fedb7ce2b:62", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_094fedb7ce2b:62", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_094fedb7ce2b:63", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "11.0000000000", "field": "value", "row_key": "kpi:PROJ_094fedb7ce2b:63", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_094fedb7ce2b:63", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_094fedb7ce2b:63", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_094fedb7ce2b:63", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_094fedb7ce2b:63", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_094fedb7ce2b:63", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Co2 savings (in 2024)", "field": "name", "row_key": "kpi:PROJ_4541d7237dda:64", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13756.0000000000", "field": "value", "row_key": "kpi:PROJ_4541d7237dda:64", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4541d7237dda:64", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "tons per year", "field": "unit", "row_key": "kpi:PROJ_4541d7237dda:64", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4541d7237dda:64", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4541d7237dda:64", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_4541d7237dda:64", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of state tickets issued per year (in 2023)", "field": "name", "row_key": "kpi:PROJ_4541d7237dda:65", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "172432.0000000000", "field": "value", "row_key": "kpi:PROJ_4541d7237dda:65", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4541d7237dda:65", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "state tickets", "field": "unit", "row_key": "kpi:PROJ_4541d7237dda:65", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4541d7237dda:65", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4541d7237dda:65", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_4541d7237dda:65", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of state tickets issued per year (in 2024)", "field": "name", "row_key": "kpi:PROJ_4541d7237dda:66", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "175504.0000000000", "field": "value", "row_key": "kpi:PROJ_4541d7237dda:66", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4541d7237dda:66", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "state tickets", "field": "unit", "row_key": "kpi:PROJ_4541d7237dda:66", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4541d7237dda:66", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4541d7237dda:66", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_4541d7237dda:66", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_4541d7237dda:67", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_4541d7237dda:67", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4541d7237dda:67", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_4541d7237dda:67", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4541d7237dda:67", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4541d7237dda:67", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4541d7237dda:67", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_40beaa1842a0:68", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "20.0000000000", "field": "value", "row_key": "kpi:PROJ_40beaa1842a0:68", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_40beaa1842a0:68", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_40beaa1842a0:68", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_40beaa1842a0:68", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_40beaa1842a0:68", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_40beaa1842a0:68", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_40beaa1842a0:69", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "9.0000000000", "field": "value", "row_key": "kpi:PROJ_40beaa1842a0:69", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_40beaa1842a0:69", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_40beaa1842a0:69", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_40beaa1842a0:69", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_40beaa1842a0:69", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_40beaa1842a0:69", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_40beaa1842a0:70", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_40beaa1842a0:70", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_40beaa1842a0:70", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_40beaa1842a0:70", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_40beaa1842a0:70", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_40beaa1842a0:70", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_40beaa1842a0:70", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_59f99ab13184:71", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "31.0000000000", "field": "value", "row_key": "kpi:PROJ_59f99ab13184:71", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_59f99ab13184:71", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_59f99ab13184:71", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_59f99ab13184:71", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_59f99ab13184:71", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_59f99ab13184:71", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_59f99ab13184:72", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "31.0000000000", "field": "value", "row_key": "kpi:PROJ_59f99ab13184:72", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_59f99ab13184:72", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_59f99ab13184:72", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_59f99ab13184:72", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_59f99ab13184:72", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_59f99ab13184:72", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_59f99ab13184:73", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_59f99ab13184:73", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_59f99ab13184:73", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_59f99ab13184:73", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_59f99ab13184:73", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_59f99ab13184:73", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_59f99ab13184:73", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Train km performance in local rail passenger transport (in 2023 -> actual)", "field": "name", "row_key": "kpi:PROJ_818a9778edcd:74", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "58387641.0000000000", "field": "value", "row_key": "kpi:PROJ_818a9778edcd:74", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_818a9778edcd:74", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "km", "field": "unit", "row_key": "kpi:PROJ_818a9778edcd:74", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_818a9778edcd:74", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_818a9778edcd:74", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_818a9778edcd:74", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Train km performance in local rail passenger transport (in 2024 -> actual)", "field": "name", "row_key": "kpi:PROJ_818a9778edcd:75", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "55547959.0000000000", "field": "value", "row_key": "kpi:PROJ_818a9778edcd:75", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_818a9778edcd:75", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "km", "field": "unit", "row_key": "kpi:PROJ_818a9778edcd:75", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_818a9778edcd:75", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_818a9778edcd:75", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_818a9778edcd:75", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_818a9778edcd:76", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_818a9778edcd:76", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_818a9778edcd:76", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_818a9778edcd:76", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_818a9778edcd:76", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_818a9778edcd:76", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_818a9778edcd:76", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Train km performance in local rail passenger transport (in 2023 -> actual)", "field": "name", "row_key": "kpi:PROJ_f51304de592a:77", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "58387641.0000000000", "field": "value", "row_key": "kpi:PROJ_f51304de592a:77", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_f51304de592a:77", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "km", "field": "unit", "row_key": "kpi:PROJ_f51304de592a:77", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_f51304de592a:77", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_f51304de592a:77", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_f51304de592a:77", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Train km performance in local rail passenger transport (in 2024 -> actual)", "field": "name", "row_key": "kpi:PROJ_f51304de592a:78", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "55547959.0000000000", "field": "value", "row_key": "kpi:PROJ_f51304de592a:78", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_f51304de592a:78", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "km", "field": "unit", "row_key": "kpi:PROJ_f51304de592a:78", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_f51304de592a:78", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_f51304de592a:78", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_f51304de592a:78", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_f51304de592a:79", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_f51304de592a:79", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_f51304de592a:79", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_f51304de592a:79", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_f51304de592a:79", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_f51304de592a:79", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_f51304de592a:79", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Length of developed waterways in 2023", "field": "name", "row_key": "kpi:PROJ_915ce8dd926f:80", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "47.5000000000", "field": "value", "row_key": "kpi:PROJ_915ce8dd926f:80", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_915ce8dd926f:80", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "km", "field": "unit", "row_key": "kpi:PROJ_915ce8dd926f:80", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_915ce8dd926f:80", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_915ce8dd926f:80", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_915ce8dd926f:80", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Length of developed waterways in 2024", "field": "name", "row_key": "kpi:PROJ_915ce8dd926f:81", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "74.2600000000", "field": "value", "row_key": "kpi:PROJ_915ce8dd926f:81", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_915ce8dd926f:81", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "km", "field": "unit", "row_key": "kpi:PROJ_915ce8dd926f:81", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_915ce8dd926f:81", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_915ce8dd926f:81", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_915ce8dd926f:81", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_915ce8dd926f:82", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "14.0000000000", "field": "value", "row_key": "kpi:PROJ_915ce8dd926f:82", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_915ce8dd926f:82", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_915ce8dd926f:82", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_915ce8dd926f:82", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_915ce8dd926f:82", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_915ce8dd926f:82", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of consultations per year in 2023", "field": "name", "row_key": "kpi:PROJ_1da2505fb936:83", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "3251.0000000000", "field": "value", "row_key": "kpi:PROJ_1da2505fb936:83", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_1da2505fb936:83", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "consultations", "field": "unit", "row_key": "kpi:PROJ_1da2505fb936:83", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_1da2505fb936:83", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_1da2505fb936:83", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_1da2505fb936:83", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of consultations per year in 2024", "field": "name", "row_key": "kpi:PROJ_1da2505fb936:84", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "3626.0000000000", "field": "value", "row_key": "kpi:PROJ_1da2505fb936:84", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_1da2505fb936:84", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "consultations", "field": "unit", "row_key": "kpi:PROJ_1da2505fb936:84", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_1da2505fb936:84", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_1da2505fb936:84", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_1da2505fb936:84", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_1da2505fb936:85", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "7.0000000000", "field": "value", "row_key": "kpi:PROJ_1da2505fb936:85", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_1da2505fb936:85", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_1da2505fb936:85", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_1da2505fb936:85", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_1da2505fb936:85", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_1da2505fb936:85", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_b73c99ecc7b2:86", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "43.0000000000", "field": "value", "row_key": "kpi:PROJ_b73c99ecc7b2:86", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b73c99ecc7b2:86", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_b73c99ecc7b2:86", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b73c99ecc7b2:86", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b73c99ecc7b2:86", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_b73c99ecc7b2:86", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_b73c99ecc7b2:87", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "28.0000000000", "field": "value", "row_key": "kpi:PROJ_b73c99ecc7b2:87", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b73c99ecc7b2:87", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_b73c99ecc7b2:87", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b73c99ecc7b2:87", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b73c99ecc7b2:87", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_b73c99ecc7b2:87", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_b73c99ecc7b2:88", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "11.0000000000", "field": "value", "row_key": "kpi:PROJ_b73c99ecc7b2:88", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b73c99ecc7b2:88", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_b73c99ecc7b2:88", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b73c99ecc7b2:88", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b73c99ecc7b2:88", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b73c99ecc7b2:88", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Amount allocated in eur per ha national park area in 2023", "field": "name", "row_key": "kpi:PROJ_5110b2ff3732:89", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "1202.0000000000", "field": "value", "row_key": "kpi:PROJ_5110b2ff3732:89", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_5110b2ff3732:89", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR per ha", "field": "unit", "row_key": "kpi:PROJ_5110b2ff3732:89", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_5110b2ff3732:89", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_5110b2ff3732:89", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_5110b2ff3732:89", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Amount allocated in eur per ha national park area in 2024", "field": "name", "row_key": "kpi:PROJ_5110b2ff3732:90", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "1112.0000000000", "field": "value", "row_key": "kpi:PROJ_5110b2ff3732:90", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_5110b2ff3732:90", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "EUR per ha", "field": "unit", "row_key": "kpi:PROJ_5110b2ff3732:90", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_5110b2ff3732:90", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_5110b2ff3732:90", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_5110b2ff3732:90", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_5110b2ff3732:91", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "15.0000000000", "field": "value", "row_key": "kpi:PROJ_5110b2ff3732:91", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_5110b2ff3732:91", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_5110b2ff3732:91", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_5110b2ff3732:91", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_5110b2ff3732:91", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_5110b2ff3732:91", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2023", "field": "name", "row_key": "kpi:PROJ_e5094e9e435c:92", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2.0000000000", "field": "value", "row_key": "kpi:PROJ_e5094e9e435c:92", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e5094e9e435c:92", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_e5094e9e435c:92", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e5094e9e435c:92", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e5094e9e435c:92", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2023.0", "field": "year", "row_key": "kpi:PROJ_e5094e9e435c:92", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Number of measures financed per year in 2024", "field": "name", "row_key": "kpi:PROJ_e5094e9e435c:93", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "5.0000000000", "field": "value", "row_key": "kpi:PROJ_e5094e9e435c:93", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e5094e9e435c:93", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "measures", "field": "unit", "row_key": "kpi:PROJ_e5094e9e435c:93", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e5094e9e435c:93", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e5094e9e435c:93", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "2024.0", "field": "year", "row_key": "kpi:PROJ_e5094e9e435c:93", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Un sdg", "field": "name", "row_key": "kpi:PROJ_e5094e9e435c:94", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "6.0000000000", "field": "value", "row_key": "kpi:PROJ_e5094e9e435c:94", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e5094e9e435c:94", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "unit", "row_key": "kpi:PROJ_e5094e9e435c:94", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e5094e9e435c:94", "table": "kpis"}
+{"applicability": "present", "evidence": {"pages": [9, 10, 11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_e5094e9e435c:94", "table": "kpis"}
+{"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_e5094e9e435c:94", "table": "kpis"}
