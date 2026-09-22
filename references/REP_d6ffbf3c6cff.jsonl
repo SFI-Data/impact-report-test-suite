@@ -1,46 +1,46 @@
-{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "Green Bonds Report", "field": "report_name", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "2025", "field": "year", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 4], "quote": "Green Bonds Report"}, "expected": "Green Bonds Report", "field": "report_name", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 4], "quote": "GREEN BOND REPORT 2025"}, "expected": "2025", "field": "year", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "Bond", "field": "reporting_type", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "Grant Thornton", "field": "third_party_assurance", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "Auga Group Green Bond Framework", "field": "framework_name", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "20.0000000000", "field": "total_allocation", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "EUR", "field": "currency", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 4], "quote": "amount EUR 20 million) was implemented in 2019. The group had the opportunity to implement the next steps of the program by"}, "expected": "20.0000000000", "field": "total_allocation", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 4], "quote": "The Company's Bond plan provided for the possibility of issuing up to EUR 60 million bonds. The first Bond issuance program (issue"}, "expected": "EUR", "field": "currency", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "2019-12-13", "field": "date_of_allocation", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "20.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "20.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 4]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "LT0000404238", "field": "isin", "row_key": "bond:1:LT0000404238", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 4], "quote": "amount EUR 20 million) was implemented in 2019. The group had the opportunity to implement the next steps of the program by"}, "expected": "20.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 4], "quote": "amount EUR 20 million) was implemented in 2019. The group had the opportunity to implement the next steps of the program by"}, "expected": "20.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 4], "quote": "The Company's Bond plan provided for the possibility of issuing up to EUR 60 million bonds. The first Bond issuance program (issue"}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_d6ffbf3c6cff", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "LT0000404238"}, "expected": "LT0000404238", "field": "isin", "row_key": "bond:1:LT0000404238", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Auga Group Green Bond", "field": "programme", "row_key": "bond:1:LT0000404238", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "20", "field": "bond_size", "row_key": "bond:1:LT0000404238", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:LT0000404238", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "20", "field": "allocated_amount", "row_key": "bond:1:LT0000404238", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "EUR 20,000,000"}, "expected": "20", "field": "bond_size", "row_key": "bond:1:LT0000404238", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "EUR 1,000"}, "expected": "EUR", "field": "currency", "row_key": "bond:1:LT0000404238", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "EUR 20,000,000"}, "expected": "20", "field": "allocated_amount", "row_key": "bond:1:LT0000404238", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Auga Group Green Bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "LT0000404238", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "All payments were screened by The selection committee. Proceeds were not used for purposes not related to the development and continuity of the organic farming business (e.g. payments for fossil fuel, etc.).", "field": "category", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "11,934.03353", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "EUR 19,073,819.85"}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Auga Group Green Bond", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "LT0000404238", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Partial repayment of loans / debt to financing banks", "field": "category", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "Partial repayment of loans / debt to financing banks."}, "expected": "Partial repayment of loans / debt to financing banks", "field": "category", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "4.5", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "EUR 19,073,819.85"}, "expected": "EUR", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Auga Group Green Bond", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "LT0000404238", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Repayment of the outstanding part of the acquisition price (including accrued interest) of the land plots provided as collateral", "field": "category", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "1.29128338", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "EUR 19,073,819.85"}, "expected": "EUR", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Auga Group Green Bond", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "LT0000404238", "field": "isin", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Redemption of bonds (including accrued interest, redemption fee), issued by AWG Investment 1, UAB from ORION Private Debt Fund I", "field": "category", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "1.07273973", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Partial repayment of loans / debt to financing banks", "field": "name", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "EUR 19,073,819.85"}, "expected": "EUR", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "Partial repayment of loans / debt to financing banks."}, "expected": "Partial repayment of loans / debt to financing banks", "field": "name", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "1", "field": "number", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Auga Group Green Bond", "field": "programme", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "LT0000404238", "field": "isin", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Partial repayment of loans / debt to financing banks", "field": "category", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "Partial repayment of loans / debt to financing banks."}, "expected": "Partial repayment of loans / debt to financing banks", "field": "category", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "4.5", "field": "amount", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "EUR 19,073,819.85"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Financing Structure", "field": "project_type", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Europe", "field": "country", "row_key": "PROJ_8b4caa6e7f20", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Redemption of bonds (including accrued interest, redemption fee), issued by  AWG Investment 1, UAB from ORION Private Debt Fund I", "field": "name", "row_key": "PROJ_795a8fac76ca", "table": "projects"}
@@ -49,7 +49,7 @@
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "LT0000404238", "field": "isin", "row_key": "PROJ_795a8fac76ca", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Redemption of bonds (including accrued interest, redemption fee), issued by AWG Investment 1, UAB from ORION Private Debt Fund I", "field": "category", "row_key": "PROJ_795a8fac76ca", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "1.07273973", "field": "amount", "row_key": "PROJ_795a8fac76ca", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_795a8fac76ca", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "EUR 19,073,819.85"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_795a8fac76ca", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Financing Structure", "field": "project_type", "row_key": "PROJ_795a8fac76ca", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Europe", "field": "country", "row_key": "PROJ_795a8fac76ca", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Repayment of the outstanding part of the acquisition price (including accrued  interest) of the land plots provided as collateral", "field": "name", "row_key": "PROJ_63f7d3ead517", "table": "projects"}
@@ -58,6 +58,6 @@
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "LT0000404238", "field": "isin", "row_key": "PROJ_63f7d3ead517", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Repayment of the outstanding part of the acquisition price (including accrued interest) of the land plots provided as collateral", "field": "category", "row_key": "PROJ_63f7d3ead517", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "1.29128338", "field": "amount", "row_key": "PROJ_63f7d3ead517", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_63f7d3ead517", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "EUR 19,073,819.85"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_63f7d3ead517", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Financing Structure", "field": "project_type", "row_key": "PROJ_63f7d3ead517", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Europe", "field": "country", "row_key": "PROJ_63f7d3ead517", "table": "projects"}

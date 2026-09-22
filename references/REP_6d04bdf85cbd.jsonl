@@ -1,5 +1,5 @@
 {"applicability": "present", "evidence": {"pages": [1, 2, 11]}, "expected": "Green Bond Allocation and Impact Report 2025", "field": "report_name", "row_key": "REP_6d04bdf85cbd", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 2, 11]}, "expected": "2026", "field": "year", "row_key": "REP_6d04bdf85cbd", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 2, 11], "quote": "April 2026"}, "expected": "2026", "field": "year", "row_key": "REP_6d04bdf85cbd", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 2, 11]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_6d04bdf85cbd", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 2, 11]}, "expected": "KPMG", "field": "third_party_assurance", "row_key": "REP_6d04bdf85cbd", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 2, 11]}, "expected": "Ahold Delhaize 2023 Green Finance Framework", "field": "framework_name", "row_key": "REP_6d04bdf85cbd", "table": "report"}
@@ -10,45 +10,45 @@
 {"applicability": null, "evidence": null, "expected": null, "field": "portfolio_allocation_from_bonds", "row_key": "REP_6d04bdf85cbd", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 2, 11]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_6d04bdf85cbd", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2780025271", "field": "isin", "row_key": "bond:1:XS2780025271", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:1:XS2780025271", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "and March 2024, the company issued two Green Bonds under its 2023 Green Finance Framework"}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:1:XS2780025271", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "500", "field": "bond_size", "row_key": "bond:1:XS2780025271", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS2780025271", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:1:XS2780025271", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2596537972", "field": "isin", "row_key": "bond:2:XS2596537972", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:2:XS2596537972", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "and March 2024, the company issued two Green Bonds under its 2023 Green Finance Framework"}, "expected": "Green Bonds", "field": "programme", "row_key": "bond:2:XS2596537972", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "500", "field": "bond_size", "row_key": "bond:2:XS2596537972", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS2596537972", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:2:XS2596537972", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "Green Bonds", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2, 3], "quote": "and March 2024, the company issued two Green Bonds under its 2023 Green Finance Framework"}, "expected": "Green Bonds", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2, 3], "quote": "outlined in the Framework. Our great local brands continue to invest in energy efficiency, improve their"}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "403", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "Green Bonds", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2, 3], "quote": "and March 2024, the company issued two Green Bonds under its 2023 Green Finance Framework"}, "expected": "Green Bonds", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "Green Buildings", "field": "category", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "357", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "EUR", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "Green Bonds", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2, 3], "quote": "and March 2024, the company issued two Green Bonds under its 2023 Green Finance Framework"}, "expected": "Green Bonds", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "Pollution Prevention and Control", "field": "category", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "254", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "EUR", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "Green Bonds", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2, 3], "quote": "and March 2024, the company issued two Green Bonds under its 2023 Green Finance Framework"}, "expected": "Green Bonds", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "Clean Transportation", "field": "category", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "103", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "EUR", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "Green Bonds", "field": "programme", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2, 3], "quote": "and March 2024, the company issued two Green Bonds under its 2023 Green Finance Framework"}, "expected": "Green Bonds", "field": "programme", "row_key": "alloc:5", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:5", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:5", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2, 3], "quote": "invest in renewable energy initiatives."}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:5", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "23", "field": "amount", "row_key": "alloc:5", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2, 3]}, "expected": "EUR", "field": "currency", "row_key": "alloc:5", "table": "allocations"}
 {"applicability": null, "evidence": null, "expected": null, "field": "name", "row_key": "PROJ_0a5168ed4fb1", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [8]}, "expected": "Project 5", "field": "number", "row_key": "PROJ_0a5168ed4fb1", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [8]}, "expected": "Green Bonds", "field": "programme", "row_key": "PROJ_0a5168ed4fb1", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [8]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_0a5168ed4fb1", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [8]}, "expected": "Renewable Energy", "field": "category", "row_key": "PROJ_0a5168ed4fb1", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [8], "quote": "Renewable energy"}, "expected": "Renewable Energy", "field": "category", "row_key": "PROJ_0a5168ed4fb1", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [8]}, "expected": "9", "field": "amount", "row_key": "PROJ_0a5168ed4fb1", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [8]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_0a5168ed4fb1", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [8]}, "expected": "Renewable energy", "field": "project_type", "row_key": "PROJ_0a5168ed4fb1", "table": "projects"}
@@ -57,7 +57,7 @@
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Project 1", "field": "number", "row_key": "PROJ_28b45df013ed", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green Bonds", "field": "programme", "row_key": "PROJ_28b45df013ed", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_28b45df013ed", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_28b45df013ed", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Green buildings"}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_28b45df013ed", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "29", "field": "amount", "row_key": "PROJ_28b45df013ed", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_28b45df013ed", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Mixed Buildings", "field": "project_type", "row_key": "PROJ_28b45df013ed", "table": "projects"}
@@ -66,7 +66,7 @@
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Project 2", "field": "number", "row_key": "PROJ_dce54b249dd6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Green Bonds", "field": "programme", "row_key": "PROJ_dce54b249dd6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_dce54b249dd6", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_dce54b249dd6", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "Energy efficiency"}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_dce54b249dd6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "70", "field": "amount", "row_key": "PROJ_dce54b249dd6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_dce54b249dd6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Mixed Renewable Energy", "field": "project_type", "row_key": "PROJ_dce54b249dd6", "table": "projects"}
@@ -75,7 +75,7 @@
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Project 3", "field": "number", "row_key": "PROJ_e227df14942d", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Bonds", "field": "programme", "row_key": "PROJ_e227df14942d", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_e227df14942d", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_e227df14942d", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "Clean transportation"}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_e227df14942d", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "37", "field": "amount", "row_key": "PROJ_e227df14942d", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_e227df14942d", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Mixed Transportation", "field": "project_type", "row_key": "PROJ_e227df14942d", "table": "projects"}
@@ -92,21 +92,21 @@
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Additional Buildings With Epc Label A Or Higher", "field": "name", "row_key": "kpi:PROJ_28b45df013ed:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "13.0000000000", "field": "value", "row_key": "kpi:PROJ_28b45df013ed:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_28b45df013ed:1", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "buildings", "field": "unit", "row_key": "kpi:PROJ_28b45df013ed:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4, 5, 6, 7, 8, 9], "quote": "Green buildings"}, "expected": "buildings", "field": "unit", "row_key": "kpi:PROJ_28b45df013ed:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_28b45df013ed:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_28b45df013ed:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_28b45df013ed:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Annual energy generation - electricity", "field": "name", "row_key": "kpi:PROJ_0a5168ed4fb1:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "21.0000000000", "field": "value", "row_key": "kpi:PROJ_0a5168ed4fb1:2", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_0a5168ed4fb1:2", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "GWh", "field": "unit", "row_key": "kpi:PROJ_0a5168ed4fb1:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4, 5, 6, 7, 8, 9], "quote": "year, we see an increase in electricity consumption of 389 GWh. This is driven by including Profi in the"}, "expected": "GWh", "field": "unit", "row_key": "kpi:PROJ_0a5168ed4fb1:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_0a5168ed4fb1:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_0a5168ed4fb1:2", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_0a5168ed4fb1:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Annual energy savings", "field": "name", "row_key": "kpi:PROJ_dce54b249dd6:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "-389.0000000000", "field": "value", "row_key": "kpi:PROJ_dce54b249dd6:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_dce54b249dd6:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "GWh", "field": "unit", "row_key": "kpi:PROJ_dce54b249dd6:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4, 5, 6, 7, 8, 9], "quote": "year, we see an increase in electricity consumption of 389 GWh. This is driven by including Profi in the"}, "expected": "GWh", "field": "unit", "row_key": "kpi:PROJ_dce54b249dd6:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_dce54b249dd6:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_dce54b249dd6:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_dce54b249dd6:3", "table": "kpis"}
@@ -118,7 +118,7 @@
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_26ebc4c66b5e:4", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_26ebc4c66b5e:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Estimated Annual GHG Emissions Avoided/Reduced", "field": "name", "row_key": "kpi:PROJ_e227df14942d:5", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "2920.0000000000", "field": "value", "row_key": "kpi:PROJ_e227df14942d:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4, 5, 6, 7, 8, 9], "quote": "a decrease in GHG emissions of 2 920 tCO2e, or 4 649 tCO2e when we exclude Profi."}, "expected": "2920.0000000000", "field": "value", "row_key": "kpi:PROJ_e227df14942d:5", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_e227df14942d:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "tCO2e/year", "field": "unit", "row_key": "kpi:PROJ_e227df14942d:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_e227df14942d:5", "table": "kpis"}
@@ -127,7 +127,7 @@
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Reduction In Average Refrigerant Charge (Fy25 Vs Fy24)", "field": "name", "row_key": "kpi:PROJ_26ebc4c66b5e:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "110.0000000000", "field": "value", "row_key": "kpi:PROJ_26ebc4c66b5e:6", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_26ebc4c66b5e:6", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "GWP", "field": "unit", "row_key": "kpi:PROJ_26ebc4c66b5e:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4, 5, 6, 7, 8, 9], "quote": "continued the transition to low-GWP and natural refrigerants at our brands. Following last year's"}, "expected": "GWP", "field": "unit", "row_key": "kpi:PROJ_26ebc4c66b5e:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_26ebc4c66b5e:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4, 5, 6, 7, 8, 9]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_26ebc4c66b5e:6", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_26ebc4c66b5e:6", "table": "kpis"}

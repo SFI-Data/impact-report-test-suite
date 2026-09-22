@@ -1,55 +1,55 @@
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Vesteda impact and allocation report Q2 2025", "field": "report_name", "row_key": "REP_ca25aa8329a8", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "2025", "field": "year", "row_key": "REP_ca25aa8329a8", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Vesteda impact and allocation report Q2 2025"}, "expected": "Vesteda impact and allocation report Q2 2025", "field": "report_name", "row_key": "REP_ca25aa8329a8", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Vesteda impact and allocation report Q2 2025"}, "expected": "2025", "field": "year", "row_key": "REP_ca25aa8329a8", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_ca25aa8329a8", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "Nibag", "field": "third_party_assurance", "row_key": "REP_ca25aa8329a8", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Green Finance Framework", "field": "framework_name", "row_key": "REP_ca25aa8329a8", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Background of the Green Finance Framework"}, "expected": "Green Finance Framework", "field": "framework_name", "row_key": "REP_ca25aa8329a8", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "1600.0000000000", "field": "total_allocation", "row_key": "REP_ca25aa8329a8", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "currency", "row_key": "REP_ca25aa8329a8", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "One private placement \u2013 made up of two individual EUR 50 million placements- with original"}, "expected": "EUR", "field": "currency", "row_key": "REP_ca25aa8329a8", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "2025-06-30", "field": "date_of_allocation", "row_key": "REP_ca25aa8329a8", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "5889.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_ca25aa8329a8", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "1600.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_ca25aa8329a8", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_ca25aa8329a8", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "One private placement \u2013 made up of two individual EUR 50 million placements- with original"}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_ca25aa8329a8", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "XS2815987835", "field": "isin", "row_key": "bond:1:XS2815987835", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Green bond", "field": "programme", "row_key": "bond:1:XS2815987835", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "financings, since the issuance of our inaugural green bond. This relates to financings as of our first"}, "expected": "Green bond", "field": "programme", "row_key": "bond:1:XS2815987835", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "100", "field": "bond_size", "row_key": "bond:1:XS2815987835", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS2815987835", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "One private placement \u2013 made up of two individual EUR 50 million placements- with original"}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS2815987835", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "100", "field": "allocated_amount", "row_key": "bond:1:XS2815987835", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "XS2815987834", "field": "isin", "row_key": "bond:2:XS2815987834", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Green bond", "field": "programme", "row_key": "bond:2:XS2815987834", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "500", "field": "bond_size", "row_key": "bond:2:XS2815987834", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS2815987834", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:2:XS2815987834", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "XS2398710546", "field": "isin", "row_key": "bond:3:XS2398710546", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Green bond", "field": "programme", "row_key": "bond:3:XS2398710546", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "500", "field": "bond_size", "row_key": "bond:3:XS2398710546", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "currency", "row_key": "bond:3:XS2398710546", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:3:XS2398710546", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "XS2001183164", "field": "isin", "row_key": "bond:4:XS2001183164", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Green bond", "field": "programme", "row_key": "bond:4:XS2001183164", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "500", "field": "bond_size", "row_key": "bond:4:XS2001183164", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "currency", "row_key": "bond:4:XS2001183164", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:4:XS2001183164", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Third green \u20ac 500 million bond on 30 April 2024 (ISIN: XS2815987834), coupon 4.00%,"}, "expected": "XS2815987834", "field": "isin", "row_key": "bond:2:XS2815987834", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "financings, since the issuance of our inaugural green bond. This relates to financings as of our first"}, "expected": "Green bond", "field": "programme", "row_key": "bond:2:XS2815987834", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Inaugural green \u20ac 500 million bond issued on 16 May 2019 (ISIN:XS2001183164, coupon:"}, "expected": "500", "field": "bond_size", "row_key": "bond:2:XS2815987834", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "One private placement \u2013 made up of two individual EUR 50 million placements- with original"}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS2815987834", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Inaugural green \u20ac 500 million bond issued on 16 May 2019 (ISIN:XS2001183164, coupon:"}, "expected": "500", "field": "allocated_amount", "row_key": "bond:2:XS2815987834", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Second green \u20ac 500 million bond on 7 October 2021 (ISIN: XS2398710546, coupon 0.75%,"}, "expected": "XS2398710546", "field": "isin", "row_key": "bond:3:XS2398710546", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "financings, since the issuance of our inaugural green bond. This relates to financings as of our first"}, "expected": "Green bond", "field": "programme", "row_key": "bond:3:XS2398710546", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Inaugural green \u20ac 500 million bond issued on 16 May 2019 (ISIN:XS2001183164, coupon:"}, "expected": "500", "field": "bond_size", "row_key": "bond:3:XS2398710546", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "One private placement \u2013 made up of two individual EUR 50 million placements- with original"}, "expected": "EUR", "field": "currency", "row_key": "bond:3:XS2398710546", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Inaugural green \u20ac 500 million bond issued on 16 May 2019 (ISIN:XS2001183164, coupon:"}, "expected": "500", "field": "allocated_amount", "row_key": "bond:3:XS2398710546", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Inaugural green \u20ac 500 million bond issued on 16 May 2019 (ISIN:XS2001183164, coupon:"}, "expected": "XS2001183164", "field": "isin", "row_key": "bond:4:XS2001183164", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "financings, since the issuance of our inaugural green bond. This relates to financings as of our first"}, "expected": "Green bond", "field": "programme", "row_key": "bond:4:XS2001183164", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Inaugural green \u20ac 500 million bond issued on 16 May 2019 (ISIN:XS2001183164, coupon:"}, "expected": "500", "field": "bond_size", "row_key": "bond:4:XS2001183164", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "One private placement \u2013 made up of two individual EUR 50 million placements- with original"}, "expected": "EUR", "field": "currency", "row_key": "bond:4:XS2001183164", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Inaugural green \u20ac 500 million bond issued on 16 May 2019 (ISIN:XS2001183164, coupon:"}, "expected": "500", "field": "allocated_amount", "row_key": "bond:4:XS2001183164", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "May 2027 Green Bond"}, "expected": "Green bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green Buildings", "field": "category", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "1,600", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "1,600"}, "expected": "1,600", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "Value in EUR million"}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Energy efficient residential building", "field": "name", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "1", "field": "number", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "provides our impact reporting in line with the ICMA Harmonized Framework for Green Bond Impact"}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,341", "field": "amount", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "Greenhouse gas emission avoidance per EUR 1 million invested:"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Residential Buildings", "field": "project_type", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
 {"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_cc86555ff83c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Refurbished residential buildings", "field": "name", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "2", "field": "number", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "provides our impact reporting in line with the ICMA Harmonized Framework for Green Bond Impact"}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "259", "field": "amount", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "Greenhouse gas emission avoidance per EUR 1 million invested:"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Residential Buildings", "field": "project_type", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
 {"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_6d653fc7b7b6", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "Annual energy savings", "field": "name", "row_key": "kpi:PROJ_cc86555ff83c:1", "table": "kpis"}

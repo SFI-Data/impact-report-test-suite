@@ -1,73 +1,73 @@
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Allocation Report and Impact Report", "field": "report_name", "row_key": "REP_65c294eeab06", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "2026", "field": "year", "row_key": "REP_65c294eeab06", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Allocation Report and Impact Report. Detailed information is available on Electrica\u2019s dedicated webpage: Electrica -"}, "expected": "Allocation Report and Impact Report", "field": "report_name", "row_key": "REP_65c294eeab06", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Date of the Report: 14 July 2026"}, "expected": "2026", "field": "year", "row_key": "REP_65c294eeab06", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "Bond", "field": "reporting_type", "row_key": "REP_65c294eeab06", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "KPMG", "field": "third_party_assurance", "row_key": "REP_65c294eeab06", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Green Finance Framework", "field": "framework_name", "row_key": "REP_65c294eeab06", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "In accordance with the Green Finance Framework and the Bond Prospectus, the Company presents the correlated"}, "expected": "Green Finance Framework", "field": "framework_name", "row_key": "REP_65c294eeab06", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "359.3000000000", "field": "total_allocation", "row_key": "REP_65c294eeab06", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "currency", "row_key": "REP_65c294eeab06", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "status of the allocation of proceeds obtained from the green bond issuance in the amount of EUR 500,000,000, with"}, "expected": "EUR", "field": "currency", "row_key": "REP_65c294eeab06", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "2026-07-14", "field": "date_of_allocation", "row_key": "REP_65c294eeab06", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "359.3000000000", "field": "total_portfolio_allocation", "row_key": "REP_65c294eeab06", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "359.3000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_65c294eeab06", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_65c294eeab06", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "XS3111004241", "field": "isin", "row_key": "bond:1:XS3111004241", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "Green bond", "field": "programme", "row_key": "bond:1:XS3111004241", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "500", "field": "bond_size", "row_key": "bond:1:XS3111004241", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS3111004241", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "status of the allocation of proceeds obtained from the green bond issuance in the amount of EUR 500,000,000, with"}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_65c294eeab06", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "London Stock Exchange (LSE - ELSA and 51FL) and Luxembourg Stock Exchange (LuxSE - XS3111004241)"}, "expected": "XS3111004241", "field": "isin", "row_key": "bond:1:XS3111004241", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "Important event to be reported: Status of the use of proceeds from the green bond issuance (BVB ticker: EL30E"}, "expected": "Green bond", "field": "programme", "row_key": "bond:1:XS3111004241", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "status of the allocation of proceeds obtained from the green bond issuance in the amount of EUR 500,000,000, with"}, "expected": "500", "field": "bond_size", "row_key": "bond:1:XS3111004241", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "status of the allocation of proceeds obtained from the green bond issuance in the amount of EUR 500,000,000, with"}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS3111004241", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "359.3", "field": "allocated_amount", "row_key": "bond:1:XS3111004241", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3111004241", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "Onshore Wind", "field": "category", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "253", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "1 PV \u2013 photovoltaic park; onW \u2013 onshore wind farm; BESS \u2013 battery energy storage system."}, "expected": "Onshore Wind", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR3 253 mn. Phase 1 (~78"}, "expected": "253", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "(EUR mn.)"}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3111004241", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "BESS", "field": "category", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "BESS"}, "expected": "BESS", "field": "category", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "41.8", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "(EUR mn.)"}, "expected": "EUR", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3111004241", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "PV + BESS", "field": "category", "row_key": "alloc:3", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "36.6", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR mn. 36.6 Q2 2027"}, "expected": "36.6", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "(EUR mn.)"}, "expected": "EUR", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3111004241", "field": "isin", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "PV", "field": "category", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "27.9", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "PV Bihor 1 /"}, "expected": "PV", "field": "category", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR mn 27.9"}, "expected": "27.9", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "(EUR mn.)"}, "expected": "EUR", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "BESS  Fantanele /  ELSA", "field": "name", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "1", "field": "number", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3111004241", "field": "isin", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "BESS", "field": "category", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "16.5", "field": "amount", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "BESS"}, "expected": "BESS", "field": "category", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 16.5 mn. Q3-Q4 2026"}, "expected": "16.5", "field": "amount", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "(EUR mn.)"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Mixed Renewable Energy", "field": "project_type", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Romania", "field": "country", "row_key": "PROJ_c064fc95c97c", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "BESS Vulturu / ELSA", "field": "name", "row_key": "PROJ_3a269e697649", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "2", "field": "number", "row_key": "PROJ_3a269e697649", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_3a269e697649", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3111004241", "field": "isin", "row_key": "PROJ_3a269e697649", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "BESS", "field": "category", "row_key": "PROJ_3a269e697649", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "25.3", "field": "amount", "row_key": "PROJ_3a269e697649", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_3a269e697649", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "BESS"}, "expected": "BESS", "field": "category", "row_key": "PROJ_3a269e697649", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR ~25.3"}, "expected": "25.3", "field": "amount", "row_key": "PROJ_3a269e697649", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "(EUR mn.)"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_3a269e697649", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Mixed Renewable Energy", "field": "project_type", "row_key": "PROJ_3a269e697649", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Romania", "field": "country", "row_key": "PROJ_3a269e697649", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "onW Crucea  Est / Crucea  Power Park S.R.L., 100% owned by ELSA", "field": "name", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "3", "field": "number", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3111004241", "field": "isin", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "Onshore Wind", "field": "category", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "253", "field": "amount", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "1 PV \u2013 photovoltaic park; onW \u2013 onshore wind farm; BESS \u2013 battery energy storage system."}, "expected": "Onshore Wind", "field": "category", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR3 253 mn. Phase 1 (~78"}, "expected": "253", "field": "amount", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "(EUR mn.)"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Wind", "field": "project_type", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Romania", "field": "country", "row_key": "PROJ_4eeff99cf506", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Other Standalone Storage Capacities", "field": "name", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "4", "field": "number", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3111004241", "field": "isin", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "BESS", "field": "category", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "BESS"}, "expected": "BESS", "field": "category", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
 {"applicability": null, "evidence": null, "expected": null, "field": "amount", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "(EUR mn.)"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Mixed Renewable Energy", "field": "project_type", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Romania", "field": "country", "row_key": "PROJ_dbb8db6a68ad", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "PV Bihor 1 / Foton Power Energy S.R.L., 100% owned by ELSA", "field": "name", "row_key": "PROJ_510be24f2d44", "table": "projects"}
@@ -75,72 +75,72 @@
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_510be24f2d44", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3111004241", "field": "isin", "row_key": "PROJ_510be24f2d44", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "PV + BESS", "field": "category", "row_key": "PROJ_510be24f2d44", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "36.6", "field": "amount", "row_key": "PROJ_510be24f2d44", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_510be24f2d44", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR mn. 36.6 Q2 2027"}, "expected": "36.6", "field": "amount", "row_key": "PROJ_510be24f2d44", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "(EUR mn.)"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_510be24f2d44", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Mixed Renewable Energy", "field": "project_type", "row_key": "PROJ_510be24f2d44", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Romania", "field": "country", "row_key": "PROJ_510be24f2d44", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "PV Satu Mare 3 / New Trend Energy S.R.L., 100% owned by ELSA", "field": "name", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "6", "field": "number", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3111004241", "field": "isin", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "PV", "field": "category", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "27.9", "field": "amount", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "PV Bihor 1 /"}, "expected": "PV", "field": "category", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR mn 27.9"}, "expected": "27.9", "field": "amount", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "(EUR mn.)"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Solar", "field": "project_type", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Romania", "field": "country", "row_key": "PROJ_cdb9ce58da28", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Additional capacity of renewable energy plant(s) constructed or rehabilitated", "field": "name", "row_key": "kpi:PROJ_c064fc95c97c:1", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "69.9300000000", "field": "value", "row_key": "kpi:PROJ_c064fc95c97c:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "69.93 MWh"}, "expected": "69.9300000000", "field": "value", "row_key": "kpi:PROJ_c064fc95c97c:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_c064fc95c97c:1", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_c064fc95c97c:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "17 MWh"}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_c064fc95c97c:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_c064fc95c97c:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_c064fc95c97c:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_c064fc95c97c:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Additional capacity of renewable energy plant(s) constructed or rehabilitated", "field": "name", "row_key": "kpi:PROJ_3a269e697649:2", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "22.5000000000", "field": "value", "row_key": "kpi:PROJ_3a269e697649:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "22.5 MWh"}, "expected": "22.5000000000", "field": "value", "row_key": "kpi:PROJ_3a269e697649:2", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_3a269e697649:2", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_3a269e697649:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "17 MWh"}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_3a269e697649:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_3a269e697649:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_3a269e697649:2", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_3a269e697649:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Capacity bess", "field": "name", "row_key": "kpi:PROJ_4eeff99cf506:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "60.0000000000", "field": "value", "row_key": "kpi:PROJ_4eeff99cf506:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "60 MWh"}, "expected": "60.0000000000", "field": "value", "row_key": "kpi:PROJ_4eeff99cf506:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4eeff99cf506:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_4eeff99cf506:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "17 MWh"}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_4eeff99cf506:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4eeff99cf506:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4eeff99cf506:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4eeff99cf506:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Capacity onw", "field": "name", "row_key": "kpi:PROJ_4eeff99cf506:4", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "138.0000000000", "field": "value", "row_key": "kpi:PROJ_4eeff99cf506:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "138 MW"}, "expected": "138.0000000000", "field": "value", "row_key": "kpi:PROJ_4eeff99cf506:4", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_4eeff99cf506:4", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "MW", "field": "unit", "row_key": "kpi:PROJ_4eeff99cf506:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "138 MW"}, "expected": "MW", "field": "unit", "row_key": "kpi:PROJ_4eeff99cf506:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_4eeff99cf506:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_4eeff99cf506:4", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_4eeff99cf506:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Additional capacity of renewable energy plant(s) constructed or rehabilitated", "field": "name", "row_key": "kpi:PROJ_dbb8db6a68ad:5", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "780.0000000000", "field": "value", "row_key": "kpi:PROJ_dbb8db6a68ad:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "780 MWh"}, "expected": "780.0000000000", "field": "value", "row_key": "kpi:PROJ_dbb8db6a68ad:5", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_dbb8db6a68ad:5", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_dbb8db6a68ad:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "17 MWh"}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_dbb8db6a68ad:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_dbb8db6a68ad:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_dbb8db6a68ad:5", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_dbb8db6a68ad:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Capacity bess", "field": "name", "row_key": "kpi:PROJ_510be24f2d44:6", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "17.0000000000", "field": "value", "row_key": "kpi:PROJ_510be24f2d44:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "17 MWh"}, "expected": "17.0000000000", "field": "value", "row_key": "kpi:PROJ_510be24f2d44:6", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_510be24f2d44:6", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_510be24f2d44:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "17 MWh"}, "expected": "MWh", "field": "unit", "row_key": "kpi:PROJ_510be24f2d44:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_510be24f2d44:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_510be24f2d44:6", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_510be24f2d44:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Capacity pv", "field": "name", "row_key": "kpi:PROJ_510be24f2d44:7", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "77.5000000000", "field": "value", "row_key": "kpi:PROJ_510be24f2d44:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "77.5 MWp"}, "expected": "77.5000000000", "field": "value", "row_key": "kpi:PROJ_510be24f2d44:7", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_510be24f2d44:7", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "MWP", "field": "unit", "row_key": "kpi:PROJ_510be24f2d44:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "77.5 MWp"}, "expected": "MWP", "field": "unit", "row_key": "kpi:PROJ_510be24f2d44:7", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_510be24f2d44:7", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_510be24f2d44:7", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_510be24f2d44:7", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Additional capacity of renewable energy plant(s) constructed or rehabilitated", "field": "name", "row_key": "kpi:PROJ_cdb9ce58da28:8", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "62.5000000000", "field": "value", "row_key": "kpi:PROJ_cdb9ce58da28:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "62.5 MWp"}, "expected": "62.5000000000", "field": "value", "row_key": "kpi:PROJ_cdb9ce58da28:8", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_cdb9ce58da28:8", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "MWP", "field": "unit", "row_key": "kpi:PROJ_cdb9ce58da28:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "77.5 MWp"}, "expected": "MWP", "field": "unit", "row_key": "kpi:PROJ_cdb9ce58da28:8", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_cdb9ce58da28:8", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_cdb9ce58da28:8", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_cdb9ce58da28:8", "table": "kpis"}

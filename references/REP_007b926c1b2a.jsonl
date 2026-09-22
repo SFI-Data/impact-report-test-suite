@@ -1,8 +1,8 @@
 {"applicability": "present", "evidence": {"pages": [1, 2, 5]}, "expected": "Green Bond Report - March 2026", "field": "report_name", "row_key": "REP_007b926c1b2a", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 2, 5]}, "expected": "2026", "field": "year", "row_key": "REP_007b926c1b2a", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 2, 5], "quote": "March 2026"}, "expected": "2026", "field": "year", "row_key": "REP_007b926c1b2a", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 2, 5]}, "expected": "Bond", "field": "reporting_type", "row_key": "REP_007b926c1b2a", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 2, 5]}, "expected": "EY", "field": "third_party_assurance", "row_key": "REP_007b926c1b2a", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 2, 5]}, "expected": "SalMar ASA Green Bond Framework", "field": "framework_name", "row_key": "REP_007b926c1b2a", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 2, 5], "quote": "EY\u2019s responsibilities"}, "expected": "EY", "field": "third_party_assurance", "row_key": "REP_007b926c1b2a", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 2, 5], "quote": "relevant criteria from the SalMar ASA Green Bond Framework"}, "expected": "SalMar ASA Green Bond Framework", "field": "framework_name", "row_key": "REP_007b926c1b2a", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 2, 5]}, "expected": "6350.0000000000", "field": "total_allocation", "row_key": "REP_007b926c1b2a", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 2, 5]}, "expected": "NOK", "field": "currency", "row_key": "REP_007b926c1b2a", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 2, 5]}, "expected": "2025-12-31", "field": "date_of_allocation", "row_key": "REP_007b926c1b2a", "table": "report"}
@@ -11,47 +11,47 @@
 {"applicability": "present", "evidence": {"pages": [1, 2, 5]}, "expected": "NOK", "field": "portfolio_currency", "row_key": "REP_007b926c1b2a", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "NO0013636498", "field": "isin", "row_key": "bond:1:NO0013636498", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Senior Unsecured Green Bonds (2025)", "field": "programme", "row_key": "bond:1:NO0013636498", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:1:NO0013636498", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "MNOK 1,000 - SalMar ASA senior unsecured green bonds 2025/2032"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:1:NO0013636498", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "bond:1:NO0013636498", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:1:NO0013636498", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "MNOK 1,000 - SalMar ASA senior unsecured green bonds 2025/2032"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:1:NO0013636498", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "NO0013636480", "field": "isin", "row_key": "bond:2:NO0013636480", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Senior Unsecured Green Bonds (2025)", "field": "programme", "row_key": "bond:2:NO0013636480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:2:NO0013636480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "MNOK 1,000 - SalMar ASA senior unsecured green bonds 2025/2032"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:2:NO0013636480", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "bond:2:NO0013636480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:2:NO0013636480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "MNOK 1,000 - SalMar ASA senior unsecured green bonds 2025/2032"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:2:NO0013636480", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "NO0013467324", "field": "isin", "row_key": "bond:3:NO0013467324", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Senior Unsecured Green Bonds (2025)", "field": "programme", "row_key": "bond:3:NO0013467324", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,100", "field": "bond_size", "row_key": "bond:3:NO0013467324", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "MNOK 1,100 - SalMar ASA senior unsecured green bonds 2025/2032"}, "expected": "1,100", "field": "bond_size", "row_key": "bond:3:NO0013467324", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "bond:3:NO0013467324", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,100", "field": "allocated_amount", "row_key": "bond:3:NO0013467324", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "MNOK 1,100 - SalMar ASA senior unsecured green bonds 2025/2032"}, "expected": "1,100", "field": "allocated_amount", "row_key": "bond:3:NO0013467324", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "NO0013467316", "field": "isin", "row_key": "bond:4:NO0013467316", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "Senior Unsecured Green Bonds (2025)", "field": "programme", "row_key": "bond:4:NO0013467316", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,250", "field": "bond_size", "row_key": "bond:4:NO0013467316", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "MNOK 3,250 - SalMar ASA senior unsecured green bonds 2025/2030"}, "expected": "3,250", "field": "bond_size", "row_key": "bond:4:NO0013467316", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "bond:4:NO0013467316", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,250", "field": "allocated_amount", "row_key": "bond:4:NO0013467316", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "MNOK 3,250 - SalMar ASA senior unsecured green bonds 2025/2030"}, "expected": "3,250", "field": "allocated_amount", "row_key": "bond:4:NO0013467316", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "Senior Unsecured Green Bonds (2025)", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "Sustainable Food Production", "field": "category", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "6,350", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "All projects of the allocation fall under the green project category \u201cSustainable food production\u201d"}, "expected": "Sustainable Food Production", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "MNOK 6,350"}, "expected": "6,350", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "NOK", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Sustainable fish farms & Environmental management and fish welfare - 2024 Impact Assessment", "field": "name", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Project 1", "field": "number", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Senior Unsecured Green Bonds", "field": "programme", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Sustainable Food Production", "field": "category", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "and fish welfare\u201d presented under the green project category \u201cSustainable food production\u201d in the"}, "expected": "Sustainable Food Production", "field": "category", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "6,350", "field": "amount", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "NOK", "field": "currency", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Food Systems", "field": "project_type", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Norway", "field": "country", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "GBF 2024 is presented below with year-over-year comparisons for SalMar\u2019s activities in Norway."}, "expected": "Norway", "field": "country", "row_key": "PROJ_48fe5cd052c4", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Sustainable fish farms & Environmental management and fish welfare - 2025 Impact Assessment", "field": "name", "row_key": "PROJ_379043f102cd", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Project 2", "field": "number", "row_key": "PROJ_379043f102cd", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Senior Unsecured Green Bonds", "field": "programme", "row_key": "PROJ_379043f102cd", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_379043f102cd", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Sustainable Food Production", "field": "category", "row_key": "PROJ_379043f102cd", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "and fish welfare\u201d presented under the green project category \u201cSustainable food production\u201d in the"}, "expected": "Sustainable Food Production", "field": "category", "row_key": "PROJ_379043f102cd", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "6,350", "field": "amount", "row_key": "PROJ_379043f102cd", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "NOK", "field": "currency", "row_key": "PROJ_379043f102cd", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Food Systems", "field": "project_type", "row_key": "PROJ_379043f102cd", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Norway", "field": "country", "row_key": "PROJ_379043f102cd", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "GBF 2024 is presented below with year-over-year comparisons for SalMar\u2019s activities in Norway."}, "expected": "Norway", "field": "country", "row_key": "PROJ_379043f102cd", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "12 Month rolling survival rate", "field": "name", "row_key": "kpi:PROJ_48fe5cd052c4:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "0.9300000000", "field": "value", "row_key": "kpi:PROJ_48fe5cd052c4:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_48fe5cd052c4:1", "table": "kpis"}
@@ -59,24 +59,24 @@
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_48fe5cd052c4:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_48fe5cd052c4:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_48fe5cd052c4:1", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Antibiotic Use", "field": "name", "row_key": "kpi:PROJ_48fe5cd052c4:2", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "0.0004000000", "field": "value", "row_key": "kpi:PROJ_48fe5cd052c4:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Antibiotic use (gram active ingredient per tonnes of"}, "expected": "Antibiotic Use", "field": "name", "row_key": "kpi:PROJ_48fe5cd052c4:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "0.0004"}, "expected": "0.0004000000", "field": "value", "row_key": "kpi:PROJ_48fe5cd052c4:2", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_48fe5cd052c4:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "gram active ingredient per tonnes of biomass produced", "field": "unit", "row_key": "kpi:PROJ_48fe5cd052c4:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_48fe5cd052c4:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_48fe5cd052c4:2", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_48fe5cd052c4:2", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Number Of Asc Or Debio Certified Sites", "field": "name", "row_key": "kpi:PROJ_48fe5cd052c4:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "84.0000000000", "field": "value", "row_key": "kpi:PROJ_48fe5cd052c4:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Number of ASC or Debio certified sites"}, "expected": "Number Of Asc Or Debio Certified Sites", "field": "name", "row_key": "kpi:PROJ_48fe5cd052c4:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "84"}, "expected": "84.0000000000", "field": "value", "row_key": "kpi:PROJ_48fe5cd052c4:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_48fe5cd052c4:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "sites", "field": "unit", "row_key": "kpi:PROJ_48fe5cd052c4:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Number of ASC or Debio certified sites"}, "expected": "sites", "field": "unit", "row_key": "kpi:PROJ_48fe5cd052c4:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_48fe5cd052c4:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_48fe5cd052c4:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_48fe5cd052c4:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Number Of Escaped Fish", "field": "name", "row_key": "kpi:PROJ_48fe5cd052c4:4", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "3557.0000000000", "field": "value", "row_key": "kpi:PROJ_48fe5cd052c4:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Number of escaped fish"}, "expected": "Number Of Escaped Fish", "field": "name", "row_key": "kpi:PROJ_48fe5cd052c4:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "3,557"}, "expected": "3557.0000000000", "field": "value", "row_key": "kpi:PROJ_48fe5cd052c4:4", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_48fe5cd052c4:4", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "fish", "field": "unit", "row_key": "kpi:PROJ_48fe5cd052c4:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "All impact indicators under the category \u201cSustainable fish farms & Environmental management"}, "expected": "fish", "field": "unit", "row_key": "kpi:PROJ_48fe5cd052c4:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_48fe5cd052c4:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_48fe5cd052c4:4", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_48fe5cd052c4:4", "table": "kpis"}
@@ -101,24 +101,24 @@
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_379043f102cd:7", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_379043f102cd:7", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_379043f102cd:7", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Antibiotic Use", "field": "name", "row_key": "kpi:PROJ_379043f102cd:8", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Antibiotic use (gram active ingredient per tonnes of"}, "expected": "Antibiotic Use", "field": "name", "row_key": "kpi:PROJ_379043f102cd:8", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "0.0000000000", "field": "value", "row_key": "kpi:PROJ_379043f102cd:8", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_379043f102cd:8", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "gram active ingredient per tonnes of biomass produced", "field": "unit", "row_key": "kpi:PROJ_379043f102cd:8", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_379043f102cd:8", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_379043f102cd:8", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_379043f102cd:8", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Number Of Asc Or Debio Certified Sites", "field": "name", "row_key": "kpi:PROJ_379043f102cd:9", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "86.0000000000", "field": "value", "row_key": "kpi:PROJ_379043f102cd:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Number of ASC or Debio certified sites"}, "expected": "Number Of Asc Or Debio Certified Sites", "field": "name", "row_key": "kpi:PROJ_379043f102cd:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "86"}, "expected": "86.0000000000", "field": "value", "row_key": "kpi:PROJ_379043f102cd:9", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_379043f102cd:9", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "sites", "field": "unit", "row_key": "kpi:PROJ_379043f102cd:9", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Number of ASC or Debio certified sites"}, "expected": "sites", "field": "unit", "row_key": "kpi:PROJ_379043f102cd:9", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_379043f102cd:9", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_379043f102cd:9", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_379043f102cd:9", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "Number Of Escaped Fish", "field": "name", "row_key": "kpi:PROJ_379043f102cd:10", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "22.0000000000", "field": "value", "row_key": "kpi:PROJ_379043f102cd:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Number of escaped fish"}, "expected": "Number Of Escaped Fish", "field": "name", "row_key": "kpi:PROJ_379043f102cd:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "22"}, "expected": "22.0000000000", "field": "value", "row_key": "kpi:PROJ_379043f102cd:10", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_379043f102cd:10", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "fish", "field": "unit", "row_key": "kpi:PROJ_379043f102cd:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "All impact indicators under the category \u201cSustainable fish farms & Environmental management"}, "expected": "fish", "field": "unit", "row_key": "kpi:PROJ_379043f102cd:10", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_379043f102cd:10", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_379043f102cd:10", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_379043f102cd:10", "table": "kpis"}

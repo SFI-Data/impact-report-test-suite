@@ -41,7 +41,17 @@ manage.py agentic_extraction_corpus --corpus <this checkout> check
 Rerunning `bootstrap` never overwrites a row a reviewer has edited. `check` says what still
 blocks the corpus from gating a release.
 
-### What a reviewer fills in
+### Labelling level: `analyst_forms`
+
+Decision of 2026-09-22: the page numbers on these 30 reports are all the human labelling the
+team can offer. The manifest says so (`"labelling": "analyst_forms"`) and the platform scores
+accordingly: the analyst's value with its page is the reference; a quote is present only where
+the value is printed verbatim on a cited page and is marked `"located_by": "machine"`; a blank
+nobody classified is excluded from every score and reported as a count. `scanned` and
+`multi_period` were inferred from the PDFs and the KPI years, not asserted. Disagreements on the
+held-out twenty are adjudicated per row *after* the run and written as `adjudication`.
+
+### What a reviewer fills in (if labelling ever resumes)
 
 - **`quote`** on every `present` row whose field is critical (ISIN, amounts, currency, KPI value/unit):
   the sentence or cell text in the PDF the value came from.

@@ -1,5 +1,5 @@
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "Green Bond Allocation Report June 2026", "field": "report_name", "row_key": "REP_ea44be441f42", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1]}, "expected": "2026", "field": "year", "row_key": "REP_ea44be441f42", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1], "quote": "June 2026"}, "expected": "2026", "field": "year", "row_key": "REP_ea44be441f42", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_ea44be441f42", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "Not reported", "field": "third_party_assurance", "row_key": "REP_ea44be441f42", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "DNB Green Finance Framework 2023", "field": "framework_name", "row_key": "REP_ea44be441f42", "table": "report"}
@@ -9,387 +9,387 @@
 {"applicability": null, "evidence": null, "expected": null, "field": "total_portfolio_allocation", "row_key": "REP_ea44be441f42", "table": "report"}
 {"applicability": null, "evidence": null, "expected": null, "field": "portfolio_allocation_from_bonds", "row_key": "REP_ea44be441f42", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1]}, "expected": "NOK", "field": "portfolio_currency", "row_key": "REP_ea44be441f42", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3407456980", "field": "isin", "row_key": "bond:1:XS3407456980", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3407456980 (Senior Preferred)"}, "expected": "XS3407456980", "field": "isin", "row_key": "bond:1:XS3407456980", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:1:XS3407456980", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:1:XS3407456980", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS3407456980", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:1:XS3407456980", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3407456980", "field": "isin", "row_key": "bond:2:XS3407456980", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:2:XS3407456980", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:2:XS3407456980", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS3407456980", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:2:XS3407456980", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3363343495", "field": "isin", "row_key": "bond:3:XS3363343495", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:3:XS3363343495", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,100", "field": "bond_size", "row_key": "bond:3:XS3363343495", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:3:XS3363343495", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,100", "field": "allocated_amount", "row_key": "bond:3:XS3363343495", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3363343495", "field": "isin", "row_key": "bond:4:XS3363343495", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:1:XS3407456980", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS3407456980", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:1:XS3407456980", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3407456980 (Senior Preferred)"}, "expected": "XS3407456980", "field": "isin", "row_key": "bond:2:XS3407456980", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:2:XS3407456980", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:2:XS3407456980", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS3407456980", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:2:XS3407456980", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3363343495 (Senior Preferred)"}, "expected": "XS3363343495", "field": "isin", "row_key": "bond:3:XS3363343495", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:3:XS3363343495", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 1,100"}, "expected": "1,100", "field": "bond_size", "row_key": "bond:3:XS3363343495", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:3:XS3363343495", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 1,100"}, "expected": "1,100", "field": "allocated_amount", "row_key": "bond:3:XS3363343495", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3363343495 (Senior Preferred)"}, "expected": "XS3363343495", "field": "isin", "row_key": "bond:4:XS3363343495", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:4:XS3363343495", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,100", "field": "bond_size", "row_key": "bond:4:XS3363343495", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:4:XS3363343495", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,100", "field": "allocated_amount", "row_key": "bond:4:XS3363343495", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3400932599", "field": "isin", "row_key": "bond:5:XS3400932599", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:5:XS3400932599", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "600", "field": "bond_size", "row_key": "bond:5:XS3400932599", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "GBP", "field": "currency", "row_key": "bond:5:XS3400932599", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "600", "field": "allocated_amount", "row_key": "bond:5:XS3400932599", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3400932599", "field": "isin", "row_key": "bond:6:XS3400932599", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 1,100"}, "expected": "1,100", "field": "bond_size", "row_key": "bond:4:XS3363343495", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:4:XS3363343495", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 1,100"}, "expected": "1,100", "field": "allocated_amount", "row_key": "bond:4:XS3363343495", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3400932599 (Senior Non-Preferred)"}, "expected": "XS3400932599", "field": "isin", "row_key": "bond:5:XS3400932599", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:5:XS3400932599", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "GBP 600"}, "expected": "600", "field": "bond_size", "row_key": "bond:5:XS3400932599", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "GBP 600"}, "expected": "GBP", "field": "currency", "row_key": "bond:5:XS3400932599", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "GBP 600"}, "expected": "600", "field": "allocated_amount", "row_key": "bond:5:XS3400932599", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3400932599 (Senior Non-Preferred)"}, "expected": "XS3400932599", "field": "isin", "row_key": "bond:6:XS3400932599", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:6:XS3400932599", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "600", "field": "bond_size", "row_key": "bond:6:XS3400932599", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "GBP", "field": "currency", "row_key": "bond:6:XS3400932599", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "600", "field": "allocated_amount", "row_key": "bond:6:XS3400932599", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NO0013754390", "field": "isin", "row_key": "bond:7:NO0013754390", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "GBP 600"}, "expected": "600", "field": "bond_size", "row_key": "bond:6:XS3400932599", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "GBP 600"}, "expected": "GBP", "field": "currency", "row_key": "bond:6:XS3400932599", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "GBP 600"}, "expected": "600", "field": "allocated_amount", "row_key": "bond:6:XS3400932599", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "NO0013754390 (Senior Preferred)"}, "expected": "NO0013754390", "field": "isin", "row_key": "bond:7:NO0013754390", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:7:NO0013754390", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:7:NO0013754390", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "bond:7:NO0013754390", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:7:NO0013754390", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NO0013754390", "field": "isin", "row_key": "bond:8:NO0013754390", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:8:NO0013754390", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:8:NO0013754390", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "bond:8:NO0013754390", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:8:NO0013754390", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3388353024", "field": "isin", "row_key": "bond:9:XS3388353024", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:9:XS3388353024", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:9:XS3388353024", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:9:XS3388353024", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:9:XS3388353024", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3388353024", "field": "isin", "row_key": "bond:10:XS3388353024", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:7:NO0013754390", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "2 Of which ~NOK 21.5 bn operational facilities and NOK ~13.7 bn facilities under construction"}, "expected": "NOK", "field": "currency", "row_key": "bond:7:NO0013754390", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:7:NO0013754390", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "NO0013754390 (Senior Preferred)"}, "expected": "NO0013754390", "field": "isin", "row_key": "bond:8:NO0013754390", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:8:NO0013754390", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:8:NO0013754390", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "2 Of which ~NOK 21.5 bn operational facilities and NOK ~13.7 bn facilities under construction"}, "expected": "NOK", "field": "currency", "row_key": "bond:8:NO0013754390", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:8:NO0013754390", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3388353024 (Senior Non-Preferred)"}, "expected": "XS3388353024", "field": "isin", "row_key": "bond:9:XS3388353024", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:9:XS3388353024", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:9:XS3388353024", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:9:XS3388353024", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:9:XS3388353024", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3388353024 (Senior Non-Preferred)"}, "expected": "XS3388353024", "field": "isin", "row_key": "bond:10:XS3388353024", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:10:XS3388353024", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:10:XS3388353024", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:10:XS3388353024", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:10:XS3388353024", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3363342505", "field": "isin", "row_key": "bond:11:XS3363342505", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:11:XS3363342505", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,500", "field": "bond_size", "row_key": "bond:11:XS3363342505", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:11:XS3363342505", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,500", "field": "allocated_amount", "row_key": "bond:11:XS3363342505", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3363342505", "field": "isin", "row_key": "bond:12:XS3363342505", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:10:XS3388353024", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:10:XS3388353024", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:10:XS3388353024", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3363342505 (Senior Preferred)"}, "expected": "XS3363342505", "field": "isin", "row_key": "bond:11:XS3363342505", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:11:XS3363342505", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,500"}, "expected": "3,500", "field": "bond_size", "row_key": "bond:11:XS3363342505", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:11:XS3363342505", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,500"}, "expected": "3,500", "field": "allocated_amount", "row_key": "bond:11:XS3363342505", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3363342505 (Senior Preferred)"}, "expected": "XS3363342505", "field": "isin", "row_key": "bond:12:XS3363342505", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:12:XS3363342505", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,500", "field": "bond_size", "row_key": "bond:12:XS3363342505", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:12:XS3363342505", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,500", "field": "allocated_amount", "row_key": "bond:12:XS3363342505", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NO0013725747", "field": "isin", "row_key": "bond:13:NO0013725747", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,500"}, "expected": "3,500", "field": "bond_size", "row_key": "bond:12:XS3363342505", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:12:XS3363342505", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,500"}, "expected": "3,500", "field": "allocated_amount", "row_key": "bond:12:XS3363342505", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "NO0013725747 (Covered)"}, "expected": "NO0013725747", "field": "isin", "row_key": "bond:13:NO0013725747", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:13:NO0013725747", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,000", "field": "bond_size", "row_key": "bond:13:NO0013725747", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "bond:13:NO0013725747", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,000", "field": "allocated_amount", "row_key": "bond:13:NO0013725747", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NO0013725747", "field": "isin", "row_key": "bond:14:NO0013725747", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:14:NO0013725747", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,000", "field": "bond_size", "row_key": "bond:14:NO0013725747", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "bond:14:NO0013725747", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,000", "field": "allocated_amount", "row_key": "bond:14:NO0013725747", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3277095009", "field": "isin", "row_key": "bond:15:XS3277095009", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:15:XS3277095009", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:15:XS3277095009", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:15:XS3277095009", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:15:XS3277095009", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3277095009", "field": "isin", "row_key": "bond:16:XS3277095009", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "NOK 6,000"}, "expected": "6,000", "field": "bond_size", "row_key": "bond:13:NO0013725747", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "2 Of which ~NOK 21.5 bn operational facilities and NOK ~13.7 bn facilities under construction"}, "expected": "NOK", "field": "currency", "row_key": "bond:13:NO0013725747", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "NOK 6,000"}, "expected": "6,000", "field": "allocated_amount", "row_key": "bond:13:NO0013725747", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "NO0013725747 (Covered)"}, "expected": "NO0013725747", "field": "isin", "row_key": "bond:14:NO0013725747", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Boligkreditt"}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:14:NO0013725747", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "NOK 6,000"}, "expected": "6,000", "field": "bond_size", "row_key": "bond:14:NO0013725747", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "2 Of which ~NOK 21.5 bn operational facilities and NOK ~13.7 bn facilities under construction"}, "expected": "NOK", "field": "currency", "row_key": "bond:14:NO0013725747", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "NOK 6,000"}, "expected": "6,000", "field": "allocated_amount", "row_key": "bond:14:NO0013725747", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3277095009 (Senior Preferred)"}, "expected": "XS3277095009", "field": "isin", "row_key": "bond:15:XS3277095009", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:15:XS3277095009", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:15:XS3277095009", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:15:XS3277095009", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:15:XS3277095009", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3277095009 (Senior Preferred)"}, "expected": "XS3277095009", "field": "isin", "row_key": "bond:16:XS3277095009", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:16:XS3277095009", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:16:XS3277095009", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:16:XS3277095009", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:16:XS3277095009", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3247571634", "field": "isin", "row_key": "bond:17:XS3247571634", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:16:XS3277095009", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:16:XS3277095009", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:16:XS3277095009", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3247571634 (Senior Non-Preferred)"}, "expected": "XS3247571634", "field": "isin", "row_key": "bond:17:XS3247571634", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:17:XS3247571634", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "20", "field": "bond_size", "row_key": "bond:17:XS3247571634", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "USD", "field": "currency", "row_key": "bond:17:XS3247571634", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "20", "field": "allocated_amount", "row_key": "bond:17:XS3247571634", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3247571634", "field": "isin", "row_key": "bond:18:XS3247571634", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:18:XS3247571634", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "20", "field": "bond_size", "row_key": "bond:18:XS3247571634", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "USD", "field": "currency", "row_key": "bond:18:XS3247571634", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "20", "field": "allocated_amount", "row_key": "bond:18:XS3247571634", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3168169913", "field": "isin", "row_key": "bond:19:XS3168169913", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:19:XS3168169913", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "40", "field": "bond_size", "row_key": "bond:19:XS3168169913", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "USD", "field": "currency", "row_key": "bond:19:XS3168169913", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "40", "field": "allocated_amount", "row_key": "bond:19:XS3168169913", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3168169913", "field": "isin", "row_key": "bond:20:XS3168169913", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 20"}, "expected": "20", "field": "bond_size", "row_key": "bond:17:XS3247571634", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "USD", "field": "currency", "row_key": "bond:17:XS3247571634", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 20"}, "expected": "20", "field": "allocated_amount", "row_key": "bond:17:XS3247571634", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3247571634 (Senior Non-Preferred)"}, "expected": "XS3247571634", "field": "isin", "row_key": "bond:18:XS3247571634", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:18:XS3247571634", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 20"}, "expected": "20", "field": "bond_size", "row_key": "bond:18:XS3247571634", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "USD", "field": "currency", "row_key": "bond:18:XS3247571634", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 20"}, "expected": "20", "field": "allocated_amount", "row_key": "bond:18:XS3247571634", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3168169913 (Senior Non-Preferred)"}, "expected": "XS3168169913", "field": "isin", "row_key": "bond:19:XS3168169913", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:19:XS3168169913", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "40", "field": "bond_size", "row_key": "bond:19:XS3168169913", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "USD", "field": "currency", "row_key": "bond:19:XS3168169913", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "40", "field": "allocated_amount", "row_key": "bond:19:XS3168169913", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3168169913 (Senior Non-Preferred)"}, "expected": "XS3168169913", "field": "isin", "row_key": "bond:20:XS3168169913", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:20:XS3168169913", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "40", "field": "bond_size", "row_key": "bond:20:XS3168169913", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "USD", "field": "currency", "row_key": "bond:20:XS3168169913", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "40", "field": "allocated_amount", "row_key": "bond:20:XS3168169913", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3167367427", "field": "isin", "row_key": "bond:21:XS3167367427", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:21:XS3167367427", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2,200", "field": "bond_size", "row_key": "bond:21:XS3167367427", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:21:XS3167367427", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2,200", "field": "allocated_amount", "row_key": "bond:21:XS3167367427", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3167365728", "field": "isin", "row_key": "bond:22:XS3167365728", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:22:XS3167365728", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,300", "field": "bond_size", "row_key": "bond:22:XS3167365728", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:22:XS3167365728", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,300", "field": "allocated_amount", "row_key": "bond:22:XS3167365728", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3167367427", "field": "isin", "row_key": "bond:23:XS3167367427", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "40", "field": "bond_size", "row_key": "bond:20:XS3168169913", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "USD", "field": "currency", "row_key": "bond:20:XS3168169913", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "40", "field": "allocated_amount", "row_key": "bond:20:XS3168169913", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3167367427 (Covered)"}, "expected": "XS3167367427", "field": "isin", "row_key": "bond:21:XS3167367427", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Boligkreditt"}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:21:XS3167367427", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 2,200"}, "expected": "2,200", "field": "bond_size", "row_key": "bond:21:XS3167367427", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:21:XS3167367427", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 2,200"}, "expected": "2,200", "field": "allocated_amount", "row_key": "bond:21:XS3167367427", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3167365728 (Covered)"}, "expected": "XS3167365728", "field": "isin", "row_key": "bond:22:XS3167365728", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Boligkreditt"}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:22:XS3167365728", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 6,300"}, "expected": "6,300", "field": "bond_size", "row_key": "bond:22:XS3167365728", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:22:XS3167365728", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 6,300"}, "expected": "6,300", "field": "allocated_amount", "row_key": "bond:22:XS3167365728", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3167367427 (Covered)"}, "expected": "XS3167367427", "field": "isin", "row_key": "bond:23:XS3167367427", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:23:XS3167367427", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2,200", "field": "bond_size", "row_key": "bond:23:XS3167367427", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:23:XS3167367427", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2,200", "field": "allocated_amount", "row_key": "bond:23:XS3167367427", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3167365728", "field": "isin", "row_key": "bond:24:XS3167365728", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 2,200"}, "expected": "2,200", "field": "bond_size", "row_key": "bond:23:XS3167367427", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:23:XS3167367427", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 2,200"}, "expected": "2,200", "field": "allocated_amount", "row_key": "bond:23:XS3167367427", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3167365728 (Covered)"}, "expected": "XS3167365728", "field": "isin", "row_key": "bond:24:XS3167365728", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:24:XS3167365728", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,300", "field": "bond_size", "row_key": "bond:24:XS3167365728", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:24:XS3167365728", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,300", "field": "allocated_amount", "row_key": "bond:24:XS3167365728", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3141251267", "field": "isin", "row_key": "bond:25:XS3141251267", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:25:XS3141251267", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "40", "field": "bond_size", "row_key": "bond:25:XS3141251267", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "USD", "field": "currency", "row_key": "bond:25:XS3141251267", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "40", "field": "allocated_amount", "row_key": "bond:25:XS3141251267", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3141251267", "field": "isin", "row_key": "bond:26:XS3141251267", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 6,300"}, "expected": "6,300", "field": "bond_size", "row_key": "bond:24:XS3167365728", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:24:XS3167365728", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 6,300"}, "expected": "6,300", "field": "allocated_amount", "row_key": "bond:24:XS3167365728", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3141251267 (Senior Non-Preferred)"}, "expected": "XS3141251267", "field": "isin", "row_key": "bond:25:XS3141251267", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:25:XS3141251267", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "40", "field": "bond_size", "row_key": "bond:25:XS3141251267", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "USD", "field": "currency", "row_key": "bond:25:XS3141251267", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "40", "field": "allocated_amount", "row_key": "bond:25:XS3141251267", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3141251267 (Senior Non-Preferred)"}, "expected": "XS3141251267", "field": "isin", "row_key": "bond:26:XS3141251267", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:26:XS3141251267", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "40", "field": "bond_size", "row_key": "bond:26:XS3141251267", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "USD", "field": "currency", "row_key": "bond:26:XS3141251267", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "40", "field": "allocated_amount", "row_key": "bond:26:XS3141251267", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3074473474", "field": "isin", "row_key": "bond:27:XS3074473474", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "40", "field": "bond_size", "row_key": "bond:26:XS3141251267", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "USD", "field": "currency", "row_key": "bond:26:XS3141251267", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "USD 40"}, "expected": "40", "field": "allocated_amount", "row_key": "bond:26:XS3141251267", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3074473474 (Senior Non-Preferred)"}, "expected": "XS3074473474", "field": "isin", "row_key": "bond:27:XS3074473474", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:27:XS3074473474", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:27:XS3074473474", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:27:XS3074473474", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:27:XS3074473474", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3074473474", "field": "isin", "row_key": "bond:28:XS3074473474", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:28:XS3074473474", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:28:XS3074473474", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:28:XS3074473474", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:28:XS3074473474", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3038553353", "field": "isin", "row_key": "bond:29:XS3038553353", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:29:XS3038553353", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "400", "field": "bond_size", "row_key": "bond:29:XS3038553353", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:29:XS3038553353", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "400", "field": "allocated_amount", "row_key": "bond:29:XS3038553353", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS3038553353", "field": "isin", "row_key": "bond:30:XS3038553353", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:27:XS3074473474", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:27:XS3074473474", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:27:XS3074473474", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3074473474 (Senior Non-Preferred)"}, "expected": "XS3074473474", "field": "isin", "row_key": "bond:28:XS3074473474", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:28:XS3074473474", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:28:XS3074473474", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:28:XS3074473474", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:28:XS3074473474", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3038553353 (Tier 2)"}, "expected": "XS3038553353", "field": "isin", "row_key": "bond:29:XS3038553353", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:29:XS3038553353", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 400"}, "expected": "400", "field": "bond_size", "row_key": "bond:29:XS3038553353", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:29:XS3038553353", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 400"}, "expected": "400", "field": "allocated_amount", "row_key": "bond:29:XS3038553353", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS3038553353 (Tier 2)"}, "expected": "XS3038553353", "field": "isin", "row_key": "bond:30:XS3038553353", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:30:XS3038553353", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "400", "field": "bond_size", "row_key": "bond:30:XS3038553353", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:30:XS3038553353", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "400", "field": "allocated_amount", "row_key": "bond:30:XS3038553353", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2980937820", "field": "isin", "row_key": "bond:31:XS2980937820", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 400"}, "expected": "400", "field": "bond_size", "row_key": "bond:30:XS3038553353", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:30:XS3038553353", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 400"}, "expected": "400", "field": "allocated_amount", "row_key": "bond:30:XS3038553353", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2980937820 (Senior Preferred)"}, "expected": "XS2980937820", "field": "isin", "row_key": "bond:31:XS2980937820", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:31:XS2980937820", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2,100", "field": "bond_size", "row_key": "bond:31:XS2980937820", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:31:XS2980937820", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2,100", "field": "allocated_amount", "row_key": "bond:31:XS2980937820", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2980937820", "field": "isin", "row_key": "bond:32:XS2980937820", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:32:XS2980937820", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2,100", "field": "bond_size", "row_key": "bond:32:XS2980937820", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:32:XS2980937820", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "2,100", "field": "allocated_amount", "row_key": "bond:32:XS2980937820", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2977974927", "field": "isin", "row_key": "bond:33:XS2977974927", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 2,100"}, "expected": "2,100", "field": "bond_size", "row_key": "bond:31:XS2980937820", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:31:XS2980937820", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 2,100"}, "expected": "2,100", "field": "allocated_amount", "row_key": "bond:31:XS2980937820", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2980937820 (Senior Preferred)"}, "expected": "XS2980937820", "field": "isin", "row_key": "bond:32:XS2980937820", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:32:XS2980937820", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 2,100"}, "expected": "2,100", "field": "bond_size", "row_key": "bond:32:XS2980937820", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:32:XS2980937820", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 2,100"}, "expected": "2,100", "field": "allocated_amount", "row_key": "bond:32:XS2980937820", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2977974927 (Senior Preferred)"}, "expected": "XS2977974927", "field": "isin", "row_key": "bond:33:XS2977974927", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:33:XS2977974927", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:33:XS2977974927", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:33:XS2977974927", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:33:XS2977974927", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2977974927", "field": "isin", "row_key": "bond:34:XS2977974927", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:34:XS2977974927", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:34:XS2977974927", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:34:XS2977974927", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:34:XS2977974927", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2950722616", "field": "isin", "row_key": "bond:35:XS2950722616", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:35:XS2950722616", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:35:XS2950722616", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:35:XS2950722616", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:35:XS2950722616", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2950722616", "field": "isin", "row_key": "bond:36:XS2950722616", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:33:XS2977974927", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:33:XS2977974927", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:33:XS2977974927", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2977974927 (Senior Preferred)"}, "expected": "XS2977974927", "field": "isin", "row_key": "bond:34:XS2977974927", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:34:XS2977974927", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:34:XS2977974927", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:34:XS2977974927", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:34:XS2977974927", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2950722616 (Senior Non-Preferred)"}, "expected": "XS2950722616", "field": "isin", "row_key": "bond:35:XS2950722616", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:35:XS2950722616", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:35:XS2950722616", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:35:XS2950722616", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:35:XS2950722616", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2950722616 (Senior Non-Preferred)"}, "expected": "XS2950722616", "field": "isin", "row_key": "bond:36:XS2950722616", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:36:XS2950722616", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:36:XS2950722616", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:36:XS2950722616", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:36:XS2950722616", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CH1371736781", "field": "isin", "row_key": "bond:37:CH1371736781", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:37:CH1371736781", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "100", "field": "bond_size", "row_key": "bond:37:CH1371736781", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CHF", "field": "currency", "row_key": "bond:37:CH1371736781", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "100", "field": "allocated_amount", "row_key": "bond:37:CH1371736781", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CH1371736781", "field": "isin", "row_key": "bond:38:CH1371736781", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:36:XS2950722616", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:36:XS2950722616", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:36:XS2950722616", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CH1371736781 (Senior Preferred)"}, "expected": "CH1371736781", "field": "isin", "row_key": "bond:37:CH1371736781", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:37:CH1371736781", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 100"}, "expected": "100", "field": "bond_size", "row_key": "bond:37:CH1371736781", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 140"}, "expected": "CHF", "field": "currency", "row_key": "bond:37:CH1371736781", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 100"}, "expected": "100", "field": "allocated_amount", "row_key": "bond:37:CH1371736781", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CH1371736781 (Senior Preferred)"}, "expected": "CH1371736781", "field": "isin", "row_key": "bond:38:CH1371736781", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:38:CH1371736781", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "100", "field": "bond_size", "row_key": "bond:38:CH1371736781", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CHF", "field": "currency", "row_key": "bond:38:CH1371736781", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "100", "field": "allocated_amount", "row_key": "bond:38:CH1371736781", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2894089759", "field": "isin", "row_key": "bond:39:XS2894089759", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 100"}, "expected": "100", "field": "bond_size", "row_key": "bond:38:CH1371736781", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 140"}, "expected": "CHF", "field": "currency", "row_key": "bond:38:CH1371736781", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 100"}, "expected": "100", "field": "allocated_amount", "row_key": "bond:38:CH1371736781", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2894089759 (Covered)"}, "expected": "XS2894089759", "field": "isin", "row_key": "bond:39:XS2894089759", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:39:XS2894089759", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "5,000", "field": "bond_size", "row_key": "bond:39:XS2894089759", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:39:XS2894089759", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "5,000", "field": "allocated_amount", "row_key": "bond:39:XS2894089759", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2894089759", "field": "isin", "row_key": "bond:40:XS2894089759", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:40:XS2894089759", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "5,000", "field": "bond_size", "row_key": "bond:40:XS2894089759", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:40:XS2894089759", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "5,000", "field": "allocated_amount", "row_key": "bond:40:XS2894089759", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2894145254", "field": "isin", "row_key": "bond:41:XS2894145254", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 5,000"}, "expected": "5,000", "field": "bond_size", "row_key": "bond:39:XS2894089759", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:39:XS2894089759", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 5,000"}, "expected": "5,000", "field": "allocated_amount", "row_key": "bond:39:XS2894089759", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2894089759 (Covered)"}, "expected": "XS2894089759", "field": "isin", "row_key": "bond:40:XS2894089759", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Boligkreditt"}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:40:XS2894089759", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 5,000"}, "expected": "5,000", "field": "bond_size", "row_key": "bond:40:XS2894089759", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:40:XS2894089759", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 5,000"}, "expected": "5,000", "field": "allocated_amount", "row_key": "bond:40:XS2894089759", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2894145254 (Covered)"}, "expected": "XS2894145254", "field": "isin", "row_key": "bond:41:XS2894145254", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:41:XS2894145254", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,400", "field": "bond_size", "row_key": "bond:41:XS2894145254", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:41:XS2894145254", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,400", "field": "allocated_amount", "row_key": "bond:41:XS2894145254", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2894145254", "field": "isin", "row_key": "bond:42:XS2894145254", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:42:XS2894145254", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,400", "field": "bond_size", "row_key": "bond:42:XS2894145254", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:42:XS2894145254", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "6,400", "field": "allocated_amount", "row_key": "bond:42:XS2894145254", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CH1348614038", "field": "isin", "row_key": "bond:43:CH1348614038", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 6,400"}, "expected": "6,400", "field": "bond_size", "row_key": "bond:41:XS2894145254", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:41:XS2894145254", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 6,400"}, "expected": "6,400", "field": "allocated_amount", "row_key": "bond:41:XS2894145254", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2894145254 (Covered)"}, "expected": "XS2894145254", "field": "isin", "row_key": "bond:42:XS2894145254", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Boligkreditt"}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:42:XS2894145254", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 6,400"}, "expected": "6,400", "field": "bond_size", "row_key": "bond:42:XS2894145254", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:42:XS2894145254", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 6,400"}, "expected": "6,400", "field": "allocated_amount", "row_key": "bond:42:XS2894145254", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CH1348614038 (Senior Preferred)"}, "expected": "CH1348614038", "field": "isin", "row_key": "bond:43:CH1348614038", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:43:CH1348614038", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "220", "field": "bond_size", "row_key": "bond:43:CH1348614038", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CHF", "field": "currency", "row_key": "bond:43:CH1348614038", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "220", "field": "allocated_amount", "row_key": "bond:43:CH1348614038", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CH1348614038", "field": "isin", "row_key": "bond:44:CH1348614038", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:44:CH1348614038", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "220", "field": "bond_size", "row_key": "bond:44:CH1348614038", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CHF", "field": "currency", "row_key": "bond:44:CH1348614038", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "220", "field": "allocated_amount", "row_key": "bond:44:CH1348614038", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2748851735", "field": "isin", "row_key": "bond:45:XS2748851735", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 220"}, "expected": "220", "field": "bond_size", "row_key": "bond:43:CH1348614038", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 140"}, "expected": "CHF", "field": "currency", "row_key": "bond:43:CH1348614038", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 220"}, "expected": "220", "field": "allocated_amount", "row_key": "bond:43:CH1348614038", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CH1348614038 (Senior Preferred)"}, "expected": "CH1348614038", "field": "isin", "row_key": "bond:44:CH1348614038", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:44:CH1348614038", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 220"}, "expected": "220", "field": "bond_size", "row_key": "bond:44:CH1348614038", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 140"}, "expected": "CHF", "field": "currency", "row_key": "bond:44:CH1348614038", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 220"}, "expected": "220", "field": "allocated_amount", "row_key": "bond:44:CH1348614038", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2748851735 (Covered)"}, "expected": "XS2748851735", "field": "isin", "row_key": "bond:45:XS2748851735", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:45:XS2748851735", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "5,750", "field": "bond_size", "row_key": "bond:45:XS2748851735", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:45:XS2748851735", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "5,750", "field": "allocated_amount", "row_key": "bond:45:XS2748851735", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2748851735", "field": "isin", "row_key": "bond:46:XS2748851735", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:46:XS2748851735", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "5,750", "field": "bond_size", "row_key": "bond:46:XS2748851735", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:46:XS2748851735", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "5,750", "field": "allocated_amount", "row_key": "bond:46:XS2748851735", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2748852113", "field": "isin", "row_key": "bond:47:XS2748852113", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:47:XS2748852113", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,250", "field": "bond_size", "row_key": "bond:47:XS2748852113", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:47:XS2748852113", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,250", "field": "allocated_amount", "row_key": "bond:47:XS2748852113", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2748852469", "field": "isin", "row_key": "bond:48:XS2748852469", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 5,750"}, "expected": "5,750", "field": "bond_size", "row_key": "bond:45:XS2748851735", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:45:XS2748851735", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 5,750"}, "expected": "5,750", "field": "allocated_amount", "row_key": "bond:45:XS2748851735", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2748851735 (Covered)"}, "expected": "XS2748851735", "field": "isin", "row_key": "bond:46:XS2748851735", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Boligkreditt"}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:46:XS2748851735", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 5,750"}, "expected": "5,750", "field": "bond_size", "row_key": "bond:46:XS2748851735", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:46:XS2748851735", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 5,750"}, "expected": "5,750", "field": "allocated_amount", "row_key": "bond:46:XS2748851735", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2748852113 (Covered)"}, "expected": "XS2748852113", "field": "isin", "row_key": "bond:47:XS2748852113", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Boligkreditt"}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:47:XS2748852113", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "3,250", "field": "bond_size", "row_key": "bond:47:XS2748852113", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:47:XS2748852113", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "3,250", "field": "allocated_amount", "row_key": "bond:47:XS2748852113", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2748852469 (Covered)"}, "expected": "XS2748852469", "field": "isin", "row_key": "bond:48:XS2748852469", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:48:XS2748852469", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,900", "field": "bond_size", "row_key": "bond:48:XS2748852469", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:48:XS2748852469", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,900", "field": "allocated_amount", "row_key": "bond:48:XS2748852469", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2748852469", "field": "isin", "row_key": "bond:49:XS2748852469", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:49:XS2748852469", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,900", "field": "bond_size", "row_key": "bond:49:XS2748852469", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:49:XS2748852469", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,900", "field": "allocated_amount", "row_key": "bond:49:XS2748852469", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2748852113", "field": "isin", "row_key": "bond:50:XS2748852113", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,900"}, "expected": "3,900", "field": "bond_size", "row_key": "bond:48:XS2748852469", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:48:XS2748852469", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,900"}, "expected": "3,900", "field": "allocated_amount", "row_key": "bond:48:XS2748852469", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2748852469 (Covered)"}, "expected": "XS2748852469", "field": "isin", "row_key": "bond:49:XS2748852469", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Boligkreditt"}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:49:XS2748852469", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,900"}, "expected": "3,900", "field": "bond_size", "row_key": "bond:49:XS2748852469", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:49:XS2748852469", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,900"}, "expected": "3,900", "field": "allocated_amount", "row_key": "bond:49:XS2748852469", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2748852113 (Covered)"}, "expected": "XS2748852113", "field": "isin", "row_key": "bond:50:XS2748852113", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:50:XS2748852113", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,250", "field": "bond_size", "row_key": "bond:50:XS2748852113", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:50:XS2748852113", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "3,250", "field": "allocated_amount", "row_key": "bond:50:XS2748852113", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2698148702", "field": "isin", "row_key": "bond:51:XS2698148702", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "3,250", "field": "bond_size", "row_key": "bond:50:XS2748852113", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:50:XS2748852113", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "3,250", "field": "allocated_amount", "row_key": "bond:50:XS2748852113", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2698148702 (Senior Non-Preferred)"}, "expected": "XS2698148702", "field": "isin", "row_key": "bond:51:XS2698148702", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:51:XS2698148702", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:51:XS2698148702", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:51:XS2698148702", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:51:XS2698148702", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2698148702", "field": "isin", "row_key": "bond:52:XS2698148702", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:52:XS2698148702", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "bond_size", "row_key": "bond:52:XS2698148702", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:52:XS2698148702", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "750", "field": "allocated_amount", "row_key": "bond:52:XS2698148702", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2652069480", "field": "isin", "row_key": "bond:53:XS2652069480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:53:XS2652069480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:53:XS2652069480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:53:XS2652069480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:53:XS2652069480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2652069480", "field": "isin", "row_key": "bond:54:XS2652069480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:51:XS2698148702", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:51:XS2698148702", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:51:XS2698148702", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2698148702 (Senior Non-Preferred)"}, "expected": "XS2698148702", "field": "isin", "row_key": "bond:52:XS2698148702", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:52:XS2698148702", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "bond_size", "row_key": "bond:52:XS2698148702", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:52:XS2698148702", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 750"}, "expected": "750", "field": "allocated_amount", "row_key": "bond:52:XS2698148702", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2652069480 (Senior Non-Preferred)"}, "expected": "XS2652069480", "field": "isin", "row_key": "bond:53:XS2652069480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:53:XS2652069480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:53:XS2652069480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:53:XS2652069480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:53:XS2652069480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2652069480 (Senior Non-Preferred)"}, "expected": "XS2652069480", "field": "isin", "row_key": "bond:54:XS2652069480", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:54:XS2652069480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:54:XS2652069480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:54:XS2652069480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:54:XS2652069480", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CH1273429691", "field": "isin", "row_key": "bond:55:CH1273429691", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:55:CH1273429691", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "140", "field": "bond_size", "row_key": "bond:55:CH1273429691", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CHF", "field": "currency", "row_key": "bond:55:CH1273429691", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "140", "field": "allocated_amount", "row_key": "bond:55:CH1273429691", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CH1273429691", "field": "isin", "row_key": "bond:56:CH1273429691", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:54:XS2652069480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:54:XS2652069480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:54:XS2652069480", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CH1273429691 (Senior Non-Preferred)"}, "expected": "CH1273429691", "field": "isin", "row_key": "bond:55:CH1273429691", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:55:CH1273429691", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 140"}, "expected": "140", "field": "bond_size", "row_key": "bond:55:CH1273429691", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 140"}, "expected": "CHF", "field": "currency", "row_key": "bond:55:CH1273429691", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 140"}, "expected": "140", "field": "allocated_amount", "row_key": "bond:55:CH1273429691", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CH1273429691 (Senior Non-Preferred)"}, "expected": "CH1273429691", "field": "isin", "row_key": "bond:56:CH1273429691", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:56:CH1273429691", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "140", "field": "bond_size", "row_key": "bond:56:CH1273429691", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "CHF", "field": "currency", "row_key": "bond:56:CH1273429691", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "140", "field": "allocated_amount", "row_key": "bond:56:CH1273429691", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2597696124", "field": "isin", "row_key": "bond:57:XS2597696124", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 140"}, "expected": "140", "field": "bond_size", "row_key": "bond:56:CH1273429691", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 140"}, "expected": "CHF", "field": "currency", "row_key": "bond:56:CH1273429691", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "CHF 140"}, "expected": "140", "field": "allocated_amount", "row_key": "bond:56:CH1273429691", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2597696124 (Senior Preferred)"}, "expected": "XS2597696124", "field": "isin", "row_key": "bond:57:XS2597696124", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:57:XS2597696124", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:57:XS2597696124", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:57:XS2597696124", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:57:XS2597696124", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2597696124", "field": "isin", "row_key": "bond:58:XS2597696124", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:58:XS2597696124", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:58:XS2597696124", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:58:XS2597696124", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:58:XS2597696124", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2534985523", "field": "isin", "row_key": "bond:59:XS2534985523", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:59:XS2534985523", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,250", "field": "bond_size", "row_key": "bond:59:XS2534985523", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:59:XS2534985523", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,250", "field": "allocated_amount", "row_key": "bond:59:XS2534985523", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2534985523", "field": "isin", "row_key": "bond:60:XS2534985523", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:57:XS2597696124", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:57:XS2597696124", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:57:XS2597696124", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2597696124 (Senior Preferred)"}, "expected": "XS2597696124", "field": "isin", "row_key": "bond:58:XS2597696124", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:58:XS2597696124", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:58:XS2597696124", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:58:XS2597696124", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:58:XS2597696124", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2534985523 (Senior Preferred)"}, "expected": "XS2534985523", "field": "isin", "row_key": "bond:59:XS2534985523", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:59:XS2534985523", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,250"}, "expected": "1,250", "field": "bond_size", "row_key": "bond:59:XS2534985523", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:59:XS2534985523", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,250"}, "expected": "1,250", "field": "allocated_amount", "row_key": "bond:59:XS2534985523", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2534985523 (Senior Preferred)"}, "expected": "XS2534985523", "field": "isin", "row_key": "bond:60:XS2534985523", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:60:XS2534985523", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,250", "field": "bond_size", "row_key": "bond:60:XS2534985523", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:60:XS2534985523", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,250", "field": "allocated_amount", "row_key": "bond:60:XS2534985523", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2434831660", "field": "isin", "row_key": "bond:61:XS2434831660", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:61:XS2434831660", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,200", "field": "bond_size", "row_key": "bond:61:XS2434831660", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:61:XS2434831660", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,200", "field": "allocated_amount", "row_key": "bond:61:XS2434831660", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2434831660", "field": "isin", "row_key": "bond:62:XS2434831660", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,250"}, "expected": "1,250", "field": "bond_size", "row_key": "bond:60:XS2534985523", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:60:XS2534985523", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,250"}, "expected": "1,250", "field": "allocated_amount", "row_key": "bond:60:XS2534985523", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2434831660 (Senior Preferred)"}, "expected": "XS2434831660", "field": "isin", "row_key": "bond:61:XS2434831660", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:61:XS2434831660", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 1,200"}, "expected": "1,200", "field": "bond_size", "row_key": "bond:61:XS2434831660", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:61:XS2434831660", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 1,200"}, "expected": "1,200", "field": "allocated_amount", "row_key": "bond:61:XS2434831660", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2434831660 (Senior Preferred)"}, "expected": "XS2434831660", "field": "isin", "row_key": "bond:62:XS2434831660", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:62:XS2434831660", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,200", "field": "bond_size", "row_key": "bond:62:XS2434831660", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "SEK", "field": "currency", "row_key": "bond:62:XS2434831660", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,200", "field": "allocated_amount", "row_key": "bond:62:XS2434831660", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2432567555", "field": "isin", "row_key": "bond:63:XS2432567555", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:63:XS2432567555", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:63:XS2432567555", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:63:XS2432567555", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:63:XS2432567555", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2432567555", "field": "isin", "row_key": "bond:64:XS2432567555", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 1,200"}, "expected": "1,200", "field": "bond_size", "row_key": "bond:62:XS2434831660", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 3,250"}, "expected": "SEK", "field": "currency", "row_key": "bond:62:XS2434831660", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "SEK 1,200"}, "expected": "1,200", "field": "allocated_amount", "row_key": "bond:62:XS2434831660", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2432567555 (Senior Preferred)"}, "expected": "XS2432567555", "field": "isin", "row_key": "bond:63:XS2432567555", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "bond:63:XS2432567555", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:63:XS2432567555", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:63:XS2432567555", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:63:XS2432567555", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2432567555 (Senior Preferred)"}, "expected": "XS2432567555", "field": "isin", "row_key": "bond:64:XS2432567555", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:64:XS2432567555", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:64:XS2432567555", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:64:XS2432567555", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:64:XS2432567555", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2289593670", "field": "isin", "row_key": "bond:65:XS2289593670", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:64:XS2432567555", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:64:XS2432567555", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:64:XS2432567555", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2289593670 (Covered)"}, "expected": "XS2289593670", "field": "isin", "row_key": "bond:65:XS2289593670", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "bond:65:XS2289593670", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,500", "field": "bond_size", "row_key": "bond:65:XS2289593670", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:65:XS2289593670", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,500", "field": "allocated_amount", "row_key": "bond:65:XS2289593670", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "XS2289593670", "field": "isin", "row_key": "bond:66:XS2289593670", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:66:XS2289593670", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,500", "field": "bond_size", "row_key": "bond:66:XS2289593670", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "EUR", "field": "currency", "row_key": "bond:66:XS2289593670", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "1,500", "field": "allocated_amount", "row_key": "bond:66:XS2289593670", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "1,500", "field": "bond_size", "row_key": "bond:65:XS2289593670", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:65:XS2289593670", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "1,500", "field": "allocated_amount", "row_key": "bond:65:XS2289593670", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "XS2289593670 (Covered)"}, "expected": "XS2289593670", "field": "isin", "row_key": "bond:66:XS2289593670", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Boligkreditt"}, "expected": "DNB Boligkreditt", "field": "programme", "row_key": "bond:66:XS2289593670", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "1,500", "field": "bond_size", "row_key": "bond:66:XS2289593670", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "EUR", "field": "currency", "row_key": "bond:66:XS2289593670", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "EUR 1,500"}, "expected": "1,500", "field": "allocated_amount", "row_key": "bond:66:XS2289593670", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "All", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green Buildings", "field": "category", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "106,302", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "The geographic location of the assets, at country level: Green Buildings (Norway), Renewable Energy (EEA + UK and RoW)1, Clean"}, "expected": "Green Buildings", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "106,302"}, "expected": "106,302", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "2 Of which ~NOK 21.5 bn operational facilities and NOK ~13.7 bn facilities under construction"}, "expected": "NOK", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "Clean Transportation", "field": "category", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "59,359", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Clean Transportation"}, "expected": "Clean Transportation", "field": "category", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "59,359"}, "expected": "59,359", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "2 Of which ~NOK 21.5 bn operational facilities and NOK ~13.7 bn facilities under construction"}, "expected": "NOK", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:3", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "35,154", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "The geographic location of the assets, at country level: Green Buildings (Norway), Renewable Energy (EEA + UK and RoW)1, Clean"}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "35,154"}, "expected": "35,154", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "2 Of which ~NOK 21.5 bn operational facilities and NOK ~13.7 bn facilities under construction"}, "expected": "NOK", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "Green Buildings DNB Bank ASA"}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [2]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "Green Buildings", "field": "category", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "23,344", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [2]}, "expected": "NOK", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "The geographic location of the assets, at country level: Green Buildings (Norway), Renewable Energy (EEA + UK and RoW)1, Clean"}, "expected": "Green Buildings", "field": "category", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "23,344"}, "expected": "23,344", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [2], "quote": "2 Of which ~NOK 21.5 bn operational facilities and NOK ~13.7 bn facilities under construction"}, "expected": "NOK", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Project 1", "field": "name", "row_key": "PROJ_1860605854c2", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Project 1", "field": "number", "row_key": "PROJ_1860605854c2", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "All", "field": "programme", "row_key": "PROJ_1860605854c2", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "to all Use of Proceeds categories (minus any green residential buildings already allocated to green covered bonds). DNB ensures on a best effort basis that Green Covered"}, "expected": "All", "field": "programme", "row_key": "PROJ_1860605854c2", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_1860605854c2", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_1860605854c2", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "129,646", "field": "amount", "row_key": "PROJ_1860605854c2", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "NOK", "field": "currency", "row_key": "PROJ_1860605854c2", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "Green Buildings: Loans, credits and investments to finance and refinance new or existing residential buildings that 1) comply with"}, "expected": "Green Buildings", "field": "category", "row_key": "PROJ_1860605854c2", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "129,646"}, "expected": "129,646", "field": "amount", "row_key": "PROJ_1860605854c2", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "(NOK m)"}, "expected": "NOK", "field": "currency", "row_key": "PROJ_1860605854c2", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Residential Buildings", "field": "project_type", "row_key": "PROJ_1860605854c2", "table": "projects"}
 {"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_1860605854c2", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Project 2", "field": "name", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Project 2", "field": "number", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Renewable Energy", "field": "category", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "35,154", "field": "amount", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "NOK", "field": "currency", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "Renewable Energy: Loans, credits and investments to finance and refinance the operation, construction, installation, maintenance or"}, "expected": "Renewable Energy", "field": "category", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "35,154"}, "expected": "35,154", "field": "amount", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "(NOK m)"}, "expected": "NOK", "field": "currency", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Renewable Infrastructure", "field": "project_type", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
 {"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_b9ac3bb6df4e", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Project 3", "field": "name", "row_key": "PROJ_446a71978a95", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Project 3", "field": "number", "row_key": "PROJ_446a71978a95", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "DNB Bank ASA", "field": "programme", "row_key": "PROJ_446a71978a95", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Portfolio", "field": "isin", "row_key": "PROJ_446a71978a95", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_446a71978a95", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "59,359", "field": "amount", "row_key": "PROJ_446a71978a95", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "NOK", "field": "currency", "row_key": "PROJ_446a71978a95", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "Clean Transportation: Loans, credits and investments to finance and refinance the development, manufacture, retrofit and purchase of"}, "expected": "Clean Transportation", "field": "category", "row_key": "PROJ_446a71978a95", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "59,359"}, "expected": "59,359", "field": "amount", "row_key": "PROJ_446a71978a95", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "(NOK m)"}, "expected": "NOK", "field": "currency", "row_key": "PROJ_446a71978a95", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Road Transport", "field": "project_type", "row_key": "PROJ_446a71978a95", "table": "projects"}
 {"applicability": null, "evidence": null, "expected": null, "field": "country", "row_key": "PROJ_446a71978a95", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual energy savings", "field": "name", "row_key": "kpi:PROJ_1860605854c2:1", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "717.0000000000", "field": "value", "row_key": "kpi:PROJ_1860605854c2:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "717"}, "expected": "717.0000000000", "field": "value", "row_key": "kpi:PROJ_1860605854c2:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_1860605854c2:1", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "GWh/year", "field": "unit", "row_key": "kpi:PROJ_1860605854c2:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "GWh/year)"}, "expected": "GWh/year", "field": "unit", "row_key": "kpi:PROJ_1860605854c2:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_1860605854c2:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_1860605854c2:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_1860605854c2:1", "table": "kpis"}
@@ -403,7 +403,7 @@
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Additional capacity of renewable energy plant(s) constructed or rehabilitated", "field": "name", "row_key": "kpi:PROJ_b9ac3bb6df4e:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "2344.0000000000", "field": "value", "row_key": "kpi:PROJ_b9ac3bb6df4e:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b9ac3bb6df4e:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "MWe", "field": "unit", "row_key": "kpi:PROJ_b9ac3bb6df4e:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "MWe)"}, "expected": "MWe", "field": "unit", "row_key": "kpi:PROJ_b9ac3bb6df4e:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b9ac3bb6df4e:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b9ac3bb6df4e:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b9ac3bb6df4e:3", "table": "kpis"}
@@ -422,14 +422,14 @@
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_446a71978a95:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "2026.0", "field": "year", "row_key": "kpi:PROJ_446a71978a95:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Direct emissions avoided vs baseline in tons of co2/year (scope 1)", "field": "name", "row_key": "kpi:PROJ_446a71978a95:6", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "107090.0000000000", "field": "value", "row_key": "kpi:PROJ_446a71978a95:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "107,090"}, "expected": "107090.0000000000", "field": "value", "row_key": "kpi:PROJ_446a71978a95:6", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_446a71978a95:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "tons of CO2/year", "field": "unit", "row_key": "kpi:PROJ_446a71978a95:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_446a71978a95:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_446a71978a95:6", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_446a71978a95:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Indirect emissions avoided vs baseline in tons of co2/year (scope 2)", "field": "name", "row_key": "kpi:PROJ_446a71978a95:7", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [6]}, "expected": "-3290.0000000000", "field": "value", "row_key": "kpi:PROJ_446a71978a95:7", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [6], "quote": "-3,290"}, "expected": "-3290.0000000000", "field": "value", "row_key": "kpi:PROJ_446a71978a95:7", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_446a71978a95:7", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "tons of CO2/year", "field": "unit", "row_key": "kpi:PROJ_446a71978a95:7", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [6]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_446a71978a95:7", "table": "kpis"}

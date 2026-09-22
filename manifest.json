@@ -1,5 +1,6 @@
 {
  "version": 1,
+ "labelling": "analyst_forms",
  "reports": [
   {
    "report_id": "REP_0f813c9bb198",
@@ -10,7 +11,8 @@
    "year": "2026",
    "reporting_type": "Portfolio",
    "tags": [
-    "portfolio"
+    "portfolio",
+    "scanned"
    ],
    "reviewers": [
     "unassigned"
@@ -188,6 +190,7 @@
    "reporting_type": "Portfolio",
    "tags": [
     "portfolio",
+    "scanned",
     "table_heavy"
    ],
    "reviewers": [
@@ -294,6 +297,7 @@
    "reporting_type": "Bond",
    "tags": [
     "bond",
+    "multi_period",
     "table_heavy"
    ],
    "reviewers": [
@@ -483,7 +487,8 @@
    "reporting_type": "Bond",
    "tags": [
     "bond",
-    "missing_identifier"
+    "missing_identifier",
+    "multi_period"
    ],
    "reviewers": [
     "unassigned"

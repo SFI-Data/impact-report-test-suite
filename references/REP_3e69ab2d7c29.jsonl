@@ -1,101 +1,101 @@
 {"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "Green Finance  Report", "field": "report_name", "row_key": "REP_3e69ab2d7c29", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "2025", "field": "year", "row_key": "REP_3e69ab2d7c29", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 15], "quote": "2025"}, "expected": "2025", "field": "year", "row_key": "REP_3e69ab2d7c29", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_3e69ab2d7c29", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "PWC", "field": "third_party_assurance", "row_key": "REP_3e69ab2d7c29", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "Green Finance Framework", "field": "framework_name", "row_key": "REP_3e69ab2d7c29", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "2300.0000000000", "field": "total_allocation", "row_key": "REP_3e69ab2d7c29", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "NOK", "field": "currency", "row_key": "REP_3e69ab2d7c29", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 15], "quote": "Advokatfirmaet PricewaterhouseCoopers AS, Org.no.: 988 371 084 MVA, Medlemmer av Advokatforeningen. advokatfirmaet@pwc.com"}, "expected": "PWC", "field": "third_party_assurance", "row_key": "REP_3e69ab2d7c29", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 15], "quote": "Green Finance Framework, all within the Energy Effici\u00ad"}, "expected": "Green Finance Framework", "field": "framework_name", "row_key": "REP_3e69ab2d7c29", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 15], "quote": "2 300"}, "expected": "2300.0000000000", "field": "total_allocation", "row_key": "REP_3e69ab2d7c29", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 15], "quote": "NOK 5,147 million in green eligible assets under the 2025"}, "expected": "NOK", "field": "currency", "row_key": "REP_3e69ab2d7c29", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "2025-12-31", "field": "date_of_allocation", "row_key": "REP_3e69ab2d7c29", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "5147.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_3e69ab2d7c29", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "2300.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_3e69ab2d7c29", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 3, 15]}, "expected": "NOK", "field": "portfolio_currency", "row_key": "REP_3e69ab2d7c29", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 15], "quote": "NOK 5,147 million in green eligible assets under the 2025"}, "expected": "5147.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_3e69ab2d7c29", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 15], "quote": "2 300"}, "expected": "2300.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_3e69ab2d7c29", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 3, 15], "quote": "NOK 5,147 million in green eligible assets under the 2025"}, "expected": "NOK", "field": "portfolio_currency", "row_key": "REP_3e69ab2d7c29", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [10]}, "expected": "NO0013581967", "field": "isin", "row_key": "bond:1:NO0013581967", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "Green bond", "field": "programme", "row_key": "bond:1:NO0013581967", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "1,250", "field": "bond_size", "row_key": "bond:1:NO0013581967", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "NOK", "field": "currency", "row_key": "bond:1:NO0013581967", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "Green Bond 2025-2035 (EIEN46 ESG)"}, "expected": "Green bond", "field": "programme", "row_key": "bond:1:NO0013581967", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "1 250"}, "expected": "1,250", "field": "bond_size", "row_key": "bond:1:NO0013581967", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "unting to a total of NOK 11,560 million outstanding. Of"}, "expected": "NOK", "field": "currency", "row_key": "bond:1:NO0013581967", "table": "bonds"}
 {"applicability": null, "evidence": null, "expected": null, "field": "allocated_amount", "row_key": "bond:1:NO0013581967", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [10]}, "expected": "NO0013581975", "field": "isin", "row_key": "bond:2:NO0013581975", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "Green bond", "field": "programme", "row_key": "bond:2:NO0013581975", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "500", "field": "bond_size", "row_key": "bond:2:NO0013581975", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "NOK", "field": "currency", "row_key": "bond:2:NO0013581975", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "Green Bond 2025-2035 (EIEN46 ESG)"}, "expected": "Green bond", "field": "programme", "row_key": "bond:2:NO0013581975", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "500"}, "expected": "500", "field": "bond_size", "row_key": "bond:2:NO0013581975", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "unting to a total of NOK 11,560 million outstanding. Of"}, "expected": "NOK", "field": "currency", "row_key": "bond:2:NO0013581975", "table": "bonds"}
 {"applicability": null, "evidence": null, "expected": null, "field": "allocated_amount", "row_key": "bond:2:NO0013581975", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [10]}, "expected": "NO0013334227", "field": "isin", "row_key": "bond:3:NO0013334227", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "Green bond", "field": "programme", "row_key": "bond:3:NO0013334227", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "400", "field": "bond_size", "row_key": "bond:3:NO0013334227", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "NOK", "field": "currency", "row_key": "bond:3:NO0013334227", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "Green Bond 2025-2035 (EIEN46 ESG)"}, "expected": "Green bond", "field": "programme", "row_key": "bond:3:NO0013334227", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "400"}, "expected": "400", "field": "bond_size", "row_key": "bond:3:NO0013334227", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "unting to a total of NOK 11,560 million outstanding. Of"}, "expected": "NOK", "field": "currency", "row_key": "bond:3:NO0013334227", "table": "bonds"}
 {"applicability": null, "evidence": null, "expected": null, "field": "allocated_amount", "row_key": "bond:3:NO0013334227", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [10]}, "expected": "NO0013334219", "field": "isin", "row_key": "bond:4:NO0013334219", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "Green bond", "field": "programme", "row_key": "bond:4:NO0013334219", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "150", "field": "bond_size", "row_key": "bond:4:NO0013334219", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [10]}, "expected": "NOK", "field": "currency", "row_key": "bond:4:NO0013334219", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "Green Bond 2025-2035 (EIEN46 ESG)"}, "expected": "Green bond", "field": "programme", "row_key": "bond:4:NO0013334219", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "150"}, "expected": "150", "field": "bond_size", "row_key": "bond:4:NO0013334219", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [10], "quote": "unting to a total of NOK 11,560 million outstanding. Of"}, "expected": "NOK", "field": "currency", "row_key": "bond:4:NO0013334219", "table": "bonds"}
 {"applicability": null, "evidence": null, "expected": null, "field": "allocated_amount", "row_key": "bond:4:NO0013334219", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "Energy efficiency 2024", "field": "category", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "2,970", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "NOK", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "NOK 5,147 million in green eligible assets under the 2025"}, "expected": "NOK", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "Energy efficiency 2024", "field": "category", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "2,177", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "NOK", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "NOK 5,147 million in green eligible assets under the 2025"}, "expected": "NOK", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Project 1", "field": "name", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "1", "field": "number", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "ICMA Green Bond"}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Energy efficiency 2024", "field": "category", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2,177", "field": "amount", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "NOK", "field": "currency", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "2 177"}, "expected": "2,177", "field": "amount", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "Eidsiva had a surplus of eligible projects amounting to NOK 2,847 million that could have been financed with green"}, "expected": "NOK", "field": "currency", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Mixed Energy Efficiency", "field": "project_type", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Norway", "field": "country", "row_key": "PROJ_98d4374e7fe7", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Project 2", "field": "name", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "2", "field": "number", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "ICMA Green Bond"}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Energy efficiency 2024", "field": "category", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "2,970", "field": "amount", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "NOK", "field": "currency", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "2 970"}, "expected": "2,970", "field": "amount", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "Eidsiva had a surplus of eligible projects amounting to NOK 2,847 million that could have been financed with green"}, "expected": "NOK", "field": "currency", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Mixed Energy Efficiency", "field": "project_type", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Norway", "field": "country", "row_key": "PROJ_173c2a95d17f", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Energy supplied to customers and/or transported to neighbouring network systems", "field": "name", "row_key": "kpi:PROJ_98d4374e7fe7:1", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "24.2000000000", "field": "value", "row_key": "kpi:PROJ_98d4374e7fe7:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "Energy supplied to customers and/or transported to neighbouring network systems (TWh/yr)"}, "expected": "Energy supplied to customers and/or transported to neighbouring network systems", "field": "name", "row_key": "kpi:PROJ_98d4374e7fe7:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "24,2"}, "expected": "24.2000000000", "field": "value", "row_key": "kpi:PROJ_98d4374e7fe7:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_98d4374e7fe7:1", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "TWh/yr", "field": "unit", "row_key": "kpi:PROJ_98d4374e7fe7:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "Energy supplied to customers and/or transported to neighbouring network systems (TWh/yr)"}, "expected": "TWh/yr", "field": "unit", "row_key": "kpi:PROJ_98d4374e7fe7:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_98d4374e7fe7:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_98d4374e7fe7:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_98d4374e7fe7:1", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Number of customers", "field": "name", "row_key": "kpi:PROJ_98d4374e7fe7:2", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "993.0000000000", "field": "value", "row_key": "kpi:PROJ_98d4374e7fe7:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "Number of customers (thousands)"}, "expected": "Number of customers", "field": "name", "row_key": "kpi:PROJ_98d4374e7fe7:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "993"}, "expected": "993.0000000000", "field": "value", "row_key": "kpi:PROJ_98d4374e7fe7:2", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_98d4374e7fe7:2", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "thousands", "field": "unit", "row_key": "kpi:PROJ_98d4374e7fe7:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "Number of customers (thousands)"}, "expected": "thousands", "field": "unit", "row_key": "kpi:PROJ_98d4374e7fe7:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_98d4374e7fe7:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_98d4374e7fe7:2", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_98d4374e7fe7:2", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Saidi (system average interruption duration index)", "field": "name", "row_key": "kpi:PROJ_98d4374e7fe7:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "70.0000000000", "field": "value", "row_key": "kpi:PROJ_98d4374e7fe7:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "SAIDI (System Average Interruption Duration Index) (minutes)"}, "expected": "Saidi (system average interruption duration index)", "field": "name", "row_key": "kpi:PROJ_98d4374e7fe7:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "70"}, "expected": "70.0000000000", "field": "value", "row_key": "kpi:PROJ_98d4374e7fe7:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_98d4374e7fe7:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "minutes", "field": "unit", "row_key": "kpi:PROJ_98d4374e7fe7:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "SAIDI (System Average Interruption Duration Index) (minutes)"}, "expected": "minutes", "field": "unit", "row_key": "kpi:PROJ_98d4374e7fe7:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_98d4374e7fe7:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_98d4374e7fe7:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_98d4374e7fe7:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Energy supplied to customers and/or transported to neighbouring network systems", "field": "name", "row_key": "kpi:PROJ_173c2a95d17f:4", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "23.8000000000", "field": "value", "row_key": "kpi:PROJ_173c2a95d17f:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "Energy supplied to customers and/or transported to neighbouring network systems (TWh/yr)"}, "expected": "Energy supplied to customers and/or transported to neighbouring network systems", "field": "name", "row_key": "kpi:PROJ_173c2a95d17f:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "23,8"}, "expected": "23.8000000000", "field": "value", "row_key": "kpi:PROJ_173c2a95d17f:4", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_173c2a95d17f:4", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "TWh/yr", "field": "unit", "row_key": "kpi:PROJ_173c2a95d17f:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "Energy supplied to customers and/or transported to neighbouring network systems (TWh/yr)"}, "expected": "TWh/yr", "field": "unit", "row_key": "kpi:PROJ_173c2a95d17f:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_173c2a95d17f:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_173c2a95d17f:4", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_173c2a95d17f:4", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Number of customers", "field": "name", "row_key": "kpi:PROJ_173c2a95d17f:5", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "1005.0000000000", "field": "value", "row_key": "kpi:PROJ_173c2a95d17f:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "Number of customers (thousands)"}, "expected": "Number of customers", "field": "name", "row_key": "kpi:PROJ_173c2a95d17f:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "1 005"}, "expected": "1005.0000000000", "field": "value", "row_key": "kpi:PROJ_173c2a95d17f:5", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_173c2a95d17f:5", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "thousands", "field": "unit", "row_key": "kpi:PROJ_173c2a95d17f:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "Number of customers (thousands)"}, "expected": "thousands", "field": "unit", "row_key": "kpi:PROJ_173c2a95d17f:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_173c2a95d17f:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_173c2a95d17f:5", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_173c2a95d17f:5", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "Saidi (system average interruption duration index)", "field": "name", "row_key": "kpi:PROJ_173c2a95d17f:6", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "78.0000000000", "field": "value", "row_key": "kpi:PROJ_173c2a95d17f:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "SAIDI (System Average Interruption Duration Index) (minutes)"}, "expected": "Saidi (system average interruption duration index)", "field": "name", "row_key": "kpi:PROJ_173c2a95d17f:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "78"}, "expected": "78.0000000000", "field": "value", "row_key": "kpi:PROJ_173c2a95d17f:6", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_173c2a95d17f:6", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [11]}, "expected": "minutes", "field": "unit", "row_key": "kpi:PROJ_173c2a95d17f:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [11], "quote": "SAIDI (System Average Interruption Duration Index) (minutes)"}, "expected": "minutes", "field": "unit", "row_key": "kpi:PROJ_173c2a95d17f:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_173c2a95d17f:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [11]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_173c2a95d17f:6", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_173c2a95d17f:6", "table": "kpis"}

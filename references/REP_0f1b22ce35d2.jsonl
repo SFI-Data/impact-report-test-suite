@@ -1,5 +1,5 @@
 {"applicability": "present", "evidence": {"pages": [1, 4]}, "expected": "Latvenergo Group Consolidated and Latvenergo AS Annual Report 2025", "field": "report_name", "row_key": "REP_0f1b22ce35d2", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 4]}, "expected": "2025", "field": "year", "row_key": "REP_0f1b22ce35d2", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 4], "quote": "2025, the share of electricity generated from renewable"}, "expected": "2025", "field": "year", "row_key": "REP_0f1b22ce35d2", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 4]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_0f1b22ce35d2", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 4]}, "expected": "EY", "field": "third_party_assurance", "row_key": "REP_0f1b22ce35d2", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 4]}, "expected": "Latvenergo Green Bond Framework", "field": "framework_name", "row_key": "REP_0f1b22ce35d2", "table": "report"}
@@ -9,45 +9,45 @@
 {"applicability": "present", "evidence": {"pages": [1, 4]}, "expected": "550.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_0f1b22ce35d2", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 4]}, "expected": "550.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_0f1b22ce35d2", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 4]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_0f1b22ce35d2", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "XS3227294132", "field": "isin", "row_key": "bond:1:XS3227294132", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "XS3227294132"}, "expected": "XS3227294132", "field": "isin", "row_key": "bond:1:XS3227294132", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Latvenergo European Green Bonds", "field": "programme", "row_key": "bond:1:XS3227294132", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "400", "field": "bond_size", "row_key": "bond:1:XS3227294132", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS3227294132", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "EUR 400 million"}, "expected": "400", "field": "bond_size", "row_key": "bond:1:XS3227294132", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "EUR 400 million"}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS3227294132", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "350.0000000043", "field": "allocated_amount", "row_key": "bond:1:XS3227294132", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "LV0000802684", "field": "isin", "row_key": "bond:2:LV0000802684", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "LV0000802684"}, "expected": "LV0000802684", "field": "isin", "row_key": "bond:2:LV0000802684", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "bond:2:LV0000802684", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "50", "field": "bond_size", "row_key": "bond:2:LV0000802684", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "EUR", "field": "currency", "row_key": "bond:2:LV0000802684", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "50", "field": "allocated_amount", "row_key": "bond:2:LV0000802684", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "LV0000870129", "field": "isin", "row_key": "bond:3:LV0000870129", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "EUR 50 million"}, "expected": "50", "field": "bond_size", "row_key": "bond:2:LV0000802684", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "EUR 50 million"}, "expected": "EUR", "field": "currency", "row_key": "bond:2:LV0000802684", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "EUR 50 million"}, "expected": "50", "field": "allocated_amount", "row_key": "bond:2:LV0000802684", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "LV0000870129"}, "expected": "LV0000870129", "field": "isin", "row_key": "bond:3:LV0000870129", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "bond:3:LV0000870129", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "100", "field": "bond_size", "row_key": "bond:3:LV0000870129", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "EUR", "field": "currency", "row_key": "bond:3:LV0000870129", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "100", "field": "allocated_amount", "row_key": "bond:3:LV0000870129", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "LV0000802460", "field": "isin", "row_key": "bond:4:LV0000802460", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "EUR 100 million"}, "expected": "100", "field": "bond_size", "row_key": "bond:3:LV0000870129", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "EUR 50 million"}, "expected": "EUR", "field": "currency", "row_key": "bond:3:LV0000870129", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "EUR 100 million"}, "expected": "100", "field": "allocated_amount", "row_key": "bond:3:LV0000870129", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "LV0000802460"}, "expected": "LV0000802460", "field": "isin", "row_key": "bond:4:LV0000802460", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [3]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "bond:4:LV0000802460", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "50", "field": "bond_size", "row_key": "bond:4:LV0000802460", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "EUR", "field": "currency", "row_key": "bond:4:LV0000802460", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [3]}, "expected": "50", "field": "allocated_amount", "row_key": "bond:4:LV0000802460", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "EUR 50 million"}, "expected": "50", "field": "bond_size", "row_key": "bond:4:LV0000802460", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "EUR 50 million"}, "expected": "EUR", "field": "currency", "row_key": "bond:4:LV0000802460", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3], "quote": "EUR 50 million"}, "expected": "50", "field": "allocated_amount", "row_key": "bond:4:LV0000802460", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Latvenergo European Green Bonds", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "XS3227294132", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "XS3227294132"}, "expected": "XS3227294132", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Electricity generation from wind power", "field": "category", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "301", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "EUR 400 million"}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "LV0000870129", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "LV0000870129"}, "expected": "LV0000870129", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "50", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "50.00"}, "expected": "50", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "alloc:3", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "LV0000870129", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "LV0000870129"}, "expected": "LV0000870129", "field": "isin", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:3", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "49.99", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "49.99"}, "expected": "49.99", "field": "amount", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "alloc:3", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "LV0000802684", "field": "isin", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "LV0000802684"}, "expected": "LV0000802684", "field": "isin", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:4", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "26.8", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "26.8"}, "expected": "26.8", "field": "amount", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "alloc:4", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "alloc:5", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "LV0000802460", "field": "isin", "row_key": "alloc:5", "table": "allocations"}
@@ -57,55 +57,55 @@
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "alloc:6", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "LV0000802460", "field": "isin", "row_key": "alloc:6", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:6", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "24.95", "field": "amount", "row_key": "alloc:6", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "24.95"}, "expected": "24.95", "field": "amount", "row_key": "alloc:6", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "alloc:6", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "alloc:7", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "LV0000802684", "field": "isin", "row_key": "alloc:7", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "LV0000802684"}, "expected": "LV0000802684", "field": "isin", "row_key": "alloc:7", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:7", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "23.18", "field": "amount", "row_key": "alloc:7", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "alloc:7", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Latvenergo European Green Bonds", "field": "programme", "row_key": "alloc:8", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "XS3227294132", "field": "isin", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "XS3227294132"}, "expected": "XS3227294132", "field": "isin", "row_key": "alloc:8", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Electricity generation using solar photovoltaic technology", "field": "category", "row_key": "alloc:8", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "21", "field": "amount", "row_key": "alloc:8", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:8", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "EUR 400 million"}, "expected": "EUR", "field": "currency", "row_key": "alloc:8", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Latvenergo European Green Bonds", "field": "programme", "row_key": "alloc:9", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "XS3227294132", "field": "isin", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "XS3227294132"}, "expected": "XS3227294132", "field": "isin", "row_key": "alloc:9", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Electricity Generation from Hydropower", "field": "category", "row_key": "alloc:9", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "21", "field": "amount", "row_key": "alloc:9", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:9", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "EUR 400 million"}, "expected": "EUR", "field": "currency", "row_key": "alloc:9", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Latvenergo European Green Bonds", "field": "programme", "row_key": "alloc:10", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "XS3227294132", "field": "isin", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "XS3227294132"}, "expected": "XS3227294132", "field": "isin", "row_key": "alloc:10", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Storage of electricity", "field": "category", "row_key": "alloc:10", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "7", "field": "amount", "row_key": "alloc:10", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:10", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "EUR 400 million"}, "expected": "EUR", "field": "currency", "row_key": "alloc:10", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Latvenergo European Green Bonds", "field": "programme", "row_key": "alloc:11", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "XS3227294132", "field": "isin", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "XS3227294132"}, "expected": "XS3227294132", "field": "isin", "row_key": "alloc:11", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "Infrastructure enabling low-carbon road transport and public transport", "field": "category", "row_key": "alloc:11", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [5]}, "expected": "1.4", "field": "amount", "row_key": "alloc:11", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [5]}, "expected": "EUR", "field": "currency", "row_key": "alloc:11", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [5], "quote": "EUR 400 million"}, "expected": "EUR", "field": "currency", "row_key": "alloc:11", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "alloc:12", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "LV0000802460", "field": "isin", "row_key": "alloc:12", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "alloc:12", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "0.05", "field": "amount", "row_key": "alloc:12", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "0.05"}, "expected": "0.05", "field": "amount", "row_key": "alloc:12", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "alloc:12", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "alloc:13", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "LV0000802684", "field": "isin", "row_key": "alloc:13", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "LV0000802684"}, "expected": "LV0000802684", "field": "isin", "row_key": "alloc:13", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "alloc:13", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "0.02", "field": "amount", "row_key": "alloc:13", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "0.02"}, "expected": "0.02", "field": "amount", "row_key": "alloc:13", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "alloc:13", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "alloc:14", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "LV0000870129", "field": "isin", "row_key": "alloc:14", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "LV0000870129"}, "expected": "LV0000870129", "field": "isin", "row_key": "alloc:14", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "alloc:14", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "0.01", "field": "amount", "row_key": "alloc:14", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "0.01"}, "expected": "0.01", "field": "amount", "row_key": "alloc:14", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "EUR", "field": "currency", "row_key": "alloc:14", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Building and reconstruction of electricity lines and transformer points", "field": "name", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "1", "field": "number", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "78.32", "field": "amount", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3, 4, 5], "quote": "78.32"}, "expected": "78.32", "field": "amount", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3, 4, 5], "quote": "EUR 50 million"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Renewable Infrastructure", "field": "project_type", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "The Republic of Latvia", "field": "country", "row_key": "PROJ_b81266ee40a0", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Protection of biodiversity", "field": "name", "row_key": "PROJ_d19f39139acf", "table": "projects"}
@@ -113,8 +113,8 @@
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "PROJ_d19f39139acf", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_d19f39139acf", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Environmentally Sustainable Management of Living Natural Resources and Land Use", "field": "category", "row_key": "PROJ_d19f39139acf", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "0.08", "field": "amount", "row_key": "PROJ_d19f39139acf", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_d19f39139acf", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3, 4, 5], "quote": "0.08"}, "expected": "0.08", "field": "amount", "row_key": "PROJ_d19f39139acf", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3, 4, 5], "quote": "EUR 50 million"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_d19f39139acf", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Biodiversity Conservation", "field": "project_type", "row_key": "PROJ_d19f39139acf", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "The Republic of Latvia", "field": "country", "row_key": "PROJ_d19f39139acf", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Reconstruction of hydropower units and technological equipment at the Daugava and Aiviekste HPPs", "field": "name", "row_key": "PROJ_f191a55084be", "table": "projects"}
@@ -122,58 +122,58 @@
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "PROJ_f191a55084be", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_f191a55084be", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Renewable Energy", "field": "category", "row_key": "PROJ_f191a55084be", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "101.74", "field": "amount", "row_key": "PROJ_f191a55084be", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_f191a55084be", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3, 4, 5], "quote": "101.74"}, "expected": "101.74", "field": "amount", "row_key": "PROJ_f191a55084be", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3, 4, 5], "quote": "EUR 50 million"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_f191a55084be", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Mixed Renewable Energy", "field": "project_type", "row_key": "PROJ_f191a55084be", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "The Republic of Latvia", "field": "country", "row_key": "PROJ_f191a55084be", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Smart meters", "field": "name", "row_key": "PROJ_8749a6660f84", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3, 4, 5], "quote": "Smart meters"}, "expected": "Smart meters", "field": "name", "row_key": "PROJ_8749a6660f84", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "4", "field": "number", "row_key": "PROJ_8749a6660f84", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Latvenergo Local Green Bonds", "field": "programme", "row_key": "PROJ_8749a6660f84", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_8749a6660f84", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Energy Efficiency", "field": "category", "row_key": "PROJ_8749a6660f84", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "19.86", "field": "amount", "row_key": "PROJ_8749a6660f84", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_8749a6660f84", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3, 4, 5], "quote": "19.86"}, "expected": "19.86", "field": "amount", "row_key": "PROJ_8749a6660f84", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [3, 4, 5], "quote": "EUR 50 million"}, "expected": "EUR", "field": "currency", "row_key": "PROJ_8749a6660f84", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "Equipment", "field": "project_type", "row_key": "PROJ_8749a6660f84", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [3, 4, 5]}, "expected": "The Republic of Latvia", "field": "country", "row_key": "PROJ_8749a6660f84", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Saidi reduction", "field": "name", "row_key": "kpi:PROJ_b81266ee40a0:1", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "71.0000000000", "field": "value", "row_key": "kpi:PROJ_b81266ee40a0:1", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "(SAIFI by 59% and SAIDI by 71%). The reduction of CO2"}, "expected": "71.0000000000", "field": "value", "row_key": "kpi:PROJ_b81266ee40a0:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b81266ee40a0:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "%", "field": "unit", "row_key": "kpi:PROJ_b81266ee40a0:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b81266ee40a0:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b81266ee40a0:1", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b81266ee40a0:1", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Saifi reduction", "field": "name", "row_key": "kpi:PROJ_b81266ee40a0:2", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "59.0000000000", "field": "value", "row_key": "kpi:PROJ_b81266ee40a0:2", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "(SAIFI by 59% and SAIDI by 71%). The reduction of CO2"}, "expected": "59.0000000000", "field": "value", "row_key": "kpi:PROJ_b81266ee40a0:2", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_b81266ee40a0:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "%", "field": "unit", "row_key": "kpi:PROJ_b81266ee40a0:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_b81266ee40a0:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_b81266ee40a0:2", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_b81266ee40a0:2", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Number of fish spawning nests placed in the daugava river", "field": "name", "row_key": "kpi:PROJ_d19f39139acf:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "400.0000000000", "field": "value", "row_key": "kpi:PROJ_d19f39139acf:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Every year, more than 400 fish spawning nests are"}, "expected": "400.0000000000", "field": "value", "row_key": "kpi:PROJ_d19f39139acf:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_d19f39139acf:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "fish spawning nests", "field": "unit", "row_key": "kpi:PROJ_d19f39139acf:3", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "Every year, more than 400 fish spawning nests are"}, "expected": "fish spawning nests", "field": "unit", "row_key": "kpi:PROJ_d19f39139acf:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_d19f39139acf:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_d19f39139acf:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_d19f39139acf:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual energy generated", "field": "name", "row_key": "kpi:PROJ_f191a55084be:4", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "66.0000000000", "field": "value", "row_key": "kpi:PROJ_f191a55084be:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "energy sources by the Group was 66%. In 2021, full"}, "expected": "66.0000000000", "field": "value", "row_key": "kpi:PROJ_f191a55084be:4", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_f191a55084be:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "%", "field": "unit", "row_key": "kpi:PROJ_f191a55084be:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_f191a55084be:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_f191a55084be:4", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_f191a55084be:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual ghg emissions avoided/reduced", "field": "name", "row_key": "kpi:PROJ_f191a55084be:5", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "15600.0000000000", "field": "value", "row_key": "kpi:PROJ_f191a55084be:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "of CO2 emissions of up to 15,600 tonnes per year. In"}, "expected": "15600.0000000000", "field": "value", "row_key": "kpi:PROJ_f191a55084be:5", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_f191a55084be:5", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "tonnes", "field": "unit", "row_key": "kpi:PROJ_f191a55084be:5", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "of CO2 emissions of up to 15,600 tonnes per year. In"}, "expected": "tonnes", "field": "unit", "row_key": "kpi:PROJ_f191a55084be:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_f191a55084be:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_f191a55084be:5", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_f191a55084be:5", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Number of installed smart meters", "field": "name", "row_key": "kpi:PROJ_8749a6660f84:6", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "1.1000000000", "field": "value", "row_key": "kpi:PROJ_8749a6660f84:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "2015, more than 1.1 million smart meters have been"}, "expected": "1.1000000000", "field": "value", "row_key": "kpi:PROJ_8749a6660f84:6", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_8749a6660f84:6", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [4]}, "expected": "million smart meters", "field": "unit", "row_key": "kpi:PROJ_8749a6660f84:6", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [4], "quote": "2015, more than 1.1 million smart meters have been"}, "expected": "million smart meters", "field": "unit", "row_key": "kpi:PROJ_8749a6660f84:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_8749a6660f84:6", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [4]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_8749a6660f84:6", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_8749a6660f84:6", "table": "kpis"}

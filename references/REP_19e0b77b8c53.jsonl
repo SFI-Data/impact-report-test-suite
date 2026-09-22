@@ -1,34 +1,34 @@
 {"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "Green bond and allocation report", "field": "report_name", "row_key": "REP_19e0b77b8c53", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "2026", "field": "year", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 5], "quote": "July 2026"}, "expected": "2026", "field": "year", "row_key": "REP_19e0b77b8c53", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_19e0b77b8c53", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "Not reported", "field": "third_party_assurance", "row_key": "REP_19e0b77b8c53", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "Green Financing Framework", "field": "framework_name", "row_key": "REP_19e0b77b8c53", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 5], "quote": "been issued under the 2025 Ayvens Green Financing Framework as of 31 December 2025."}, "expected": "Green Financing Framework", "field": "framework_name", "row_key": "REP_19e0b77b8c53", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "15764.7000000000", "field": "total_allocation", "row_key": "REP_19e0b77b8c53", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "EUR", "field": "currency", "row_key": "REP_19e0b77b8c53", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "2025-12-31", "field": "date_of_allocation", "row_key": "REP_19e0b77b8c53", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "2500.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_19e0b77b8c53", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "2500.0000000000", "field": "portfolio_allocation_from_bonds", "row_key": "REP_19e0b77b8c53", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 5]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_19e0b77b8c53", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "XS2498554992", "field": "isin", "row_key": "bond:1:XS2498554992", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Bond", "field": "programme", "row_key": "bond:1:XS2498554992", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "500", "field": "bond_size", "row_key": "bond:1:XS2498554992", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS2498554992", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:1:XS2498554992", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "XS2384269101", "field": "isin", "row_key": "bond:2:XS2384269101", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Bond", "field": "programme", "row_key": "bond:2:XS2384269101", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:2:XS2384269101", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS2384269101", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:2:XS2384269101", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "XS2305244241", "field": "isin", "row_key": "bond:3:XS2305244241", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Bond", "field": "programme", "row_key": "bond:3:XS2305244241", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,000", "field": "bond_size", "row_key": "bond:3:XS2305244241", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "bond:3:XS2305244241", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:3:XS2305244241", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Green Bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "XS2498554992"}, "expected": "XS2498554992", "field": "isin", "row_key": "bond:1:XS2498554992", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "7 Issuer under LeasePlan Green Bond Framework dated March 2020. As part of the Group restructuration following the acquisition of LeasePlan, control and ownership of LeasePlan\u2019s operational entities were"}, "expected": "Green Bond", "field": "programme", "row_key": "bond:1:XS2498554992", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "500"}, "expected": "500", "field": "bond_size", "row_key": "bond:1:XS2498554992", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "\u27a2 Total amount of Eligible Assets: EUR 15,764.7m"}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS2498554992", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "500"}, "expected": "500", "field": "allocated_amount", "row_key": "bond:1:XS2498554992", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "XS2384269101"}, "expected": "XS2384269101", "field": "isin", "row_key": "bond:2:XS2384269101", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "7 Issuer under LeasePlan Green Bond Framework dated March 2020. As part of the Group restructuration following the acquisition of LeasePlan, control and ownership of LeasePlan\u2019s operational entities were"}, "expected": "Green Bond", "field": "programme", "row_key": "bond:2:XS2384269101", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:2:XS2384269101", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "\u27a2 Total amount of Eligible Assets: EUR 15,764.7m"}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS2384269101", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:2:XS2384269101", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "XS2305244241"}, "expected": "XS2305244241", "field": "isin", "row_key": "bond:3:XS2305244241", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "7 Issuer under LeasePlan Green Bond Framework dated March 2020. As part of the Group restructuration following the acquisition of LeasePlan, control and ownership of LeasePlan\u2019s operational entities were"}, "expected": "Green Bond", "field": "programme", "row_key": "bond:3:XS2305244241", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "1,000"}, "expected": "1,000", "field": "bond_size", "row_key": "bond:3:XS2305244241", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "\u27a2 Total amount of Eligible Assets: EUR 15,764.7m"}, "expected": "EUR", "field": "currency", "row_key": "bond:3:XS2305244241", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "1,000"}, "expected": "1,000", "field": "allocated_amount", "row_key": "bond:3:XS2305244241", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "7 Issuer under LeasePlan Green Bond Framework dated March 2020. As part of the Group restructuration following the acquisition of LeasePlan, control and ownership of LeasePlan\u2019s operational entities were"}, "expected": "Green Bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [7]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "Clean Transportation", "field": "category", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "15,764.7", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [7]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "Clean Transportation"}, "expected": "Clean Transportation", "field": "category", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "15,764.7"}, "expected": "15,764.7", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [7], "quote": "\u27a2 Total amount of Eligible Assets: EUR 15,764.7m"}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [9]}, "expected": "Ayvens Plugin electric vehicles", "field": "name", "row_key": "PROJ_99096119266a", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [9]}, "expected": "1", "field": "number", "row_key": "PROJ_99096119266a", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [9]}, "expected": "Green Bond", "field": "programme", "row_key": "PROJ_99096119266a", "table": "projects"}
@@ -59,7 +59,7 @@
 {"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:3", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:3", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:3", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Carbon intensity", "field": "name", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [9, 10], "quote": "a) Weighted average fleet carbon intensity of Ayvens ICE fleet excluding Plug-in Hybrid Electric Vehicles (in carbon"}, "expected": "Carbon intensity", "field": "name", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "140.5000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "CO2/km", "field": "unit", "row_key": "kpi:PROJ_99096119266a:4", "table": "kpis"}
@@ -109,7 +109,7 @@
 {"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_99096119266a:10", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_99096119266a:10", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Use of sold products) \u2014 ice", "field": "name", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "25.0000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [9, 10], "quote": "emissions per kilometre travelled) in the 25 markets covered by this reporting"}, "expected": "25.0000000000", "field": "value", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "t CO\u2082e/vehicle", "field": "unit", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [9, 10]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_99096119266a:11", "table": "kpis"}

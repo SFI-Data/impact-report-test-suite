@@ -1,34 +1,34 @@
-{"applicability": "present", "evidence": {"pages": [1, 9, 10, 16]}, "expected": "Green Finance Allocation and Impact Report", "field": "report_name", "row_key": "REP_1cd34491de65", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 9, 10, 16]}, "expected": "2026", "field": "year", "row_key": "REP_1cd34491de65", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 9, 10, 16], "quote": "Green Finance Allocation and Impact Report"}, "expected": "Green Finance Allocation and Impact Report", "field": "report_name", "row_key": "REP_1cd34491de65", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 9, 10, 16], "quote": "June 2026"}, "expected": "2026", "field": "year", "row_key": "REP_1cd34491de65", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 9, 10, 16]}, "expected": "Portfolio", "field": "reporting_type", "row_key": "REP_1cd34491de65", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 9, 10, 16]}, "expected": "Deloitte", "field": "third_party_assurance", "row_key": "REP_1cd34491de65", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 9, 10, 16]}, "expected": "Green Finance Framework", "field": "framework_name", "row_key": "REP_1cd34491de65", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 9, 10, 16]}, "expected": "2989.0000000000", "field": "total_allocation", "row_key": "REP_1cd34491de65", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 9, 10, 16]}, "expected": "EUR", "field": "currency", "row_key": "REP_1cd34491de65", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 9, 10, 16], "quote": "Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (DTTL), its global network of member firms, and their related entities (collectively, the"}, "expected": "Deloitte", "field": "third_party_assurance", "row_key": "REP_1cd34491de65", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 9, 10, 16], "quote": "2 Green Finance Framework"}, "expected": "Green Finance Framework", "field": "framework_name", "row_key": "REP_1cd34491de65", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 9, 10, 16], "quote": "proceeds were fully allocated against the portfolio of Eligible Green Projects of EUR 2,989 million. We"}, "expected": "2989.0000000000", "field": "total_allocation", "row_key": "REP_1cd34491de65", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 9, 10, 16], "quote": "On 27th November 2025 EP Infrastructure, a.s, issued unsecured EUR 600 million green bond under"}, "expected": "EUR", "field": "currency", "row_key": "REP_1cd34491de65", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [1, 9, 10, 16]}, "expected": "2026-12-31", "field": "date_of_allocation", "row_key": "REP_1cd34491de65", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 9, 10, 16]}, "expected": "2989.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_1cd34491de65", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 9, 10, 16], "quote": "proceeds were fully allocated against the portfolio of Eligible Green Projects of EUR 2,989 million. We"}, "expected": "2989.0000000000", "field": "total_portfolio_allocation", "row_key": "REP_1cd34491de65", "table": "report"}
 {"applicability": null, "evidence": null, "expected": null, "field": "portfolio_allocation_from_bonds", "row_key": "REP_1cd34491de65", "table": "report"}
-{"applicability": "present", "evidence": {"pages": [1, 9, 10, 16]}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_1cd34491de65", "table": "report"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [1, 9, 10, 16], "quote": "On 27th November 2025 EP Infrastructure, a.s, issued unsecured EUR 600 million green bond under"}, "expected": "EUR", "field": "portfolio_currency", "row_key": "REP_1cd34491de65", "table": "report"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "XS3281145691", "field": "isin", "row_key": "bond:1:XS3281145691", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "Green bond", "field": "programme", "row_key": "bond:1:XS3281145691", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "500", "field": "bond_size", "row_key": "bond:1:XS3281145691", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [12]}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS3281145691", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [12], "quote": "It is important to note that this portfolio is partly consumed by green instruments issued at the level of EPIF\u2019s parent company Energetick\u00fd a pr\u016fmyslov\u00fd holding (EPH), which comprised EUR 1,000 million as of 31 December"}, "expected": "EUR", "field": "currency", "row_key": "bond:1:XS3281145691", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "500", "field": "allocated_amount", "row_key": "bond:1:XS3281145691", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "XS3239976163", "field": "isin", "row_key": "bond:2:XS3239976163", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "Green bond", "field": "programme", "row_key": "bond:2:XS3239976163", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "600", "field": "bond_size", "row_key": "bond:2:XS3239976163", "table": "bonds"}
-{"applicability": "present", "evidence": {"pages": [12]}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS3239976163", "table": "bonds"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [12], "quote": "It is important to note that this portfolio is partly consumed by green instruments issued at the level of EPIF\u2019s parent company Energetick\u00fd a pr\u016fmyslov\u00fd holding (EPH), which comprised EUR 1,000 million as of 31 December"}, "expected": "EUR", "field": "currency", "row_key": "bond:2:XS3239976163", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "600", "field": "allocated_amount", "row_key": "bond:2:XS3239976163", "table": "bonds"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "Renewable Energy", "field": "category", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "2,875", "field": "amount", "row_key": "alloc:1", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [12]}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [12], "quote": "It is important to note that this portfolio is partly consumed by green instruments issued at the level of EPIF\u2019s parent company Energetick\u00fd a pr\u016fmyslov\u00fd holding (EPH), which comprised EUR 1,000 million as of 31 December"}, "expected": "EUR", "field": "currency", "row_key": "alloc:1", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "Green bond", "field": "programme", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "Energy Efficiency", "field": "category", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [12]}, "expected": "113", "field": "amount", "row_key": "alloc:2", "table": "allocations"}
-{"applicability": "present", "evidence": {"pages": [12]}, "expected": "EUR", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [12], "quote": "It is important to note that this portfolio is partly consumed by green instruments issued at the level of EPIF\u2019s parent company Energetick\u00fd a pr\u016fmyslov\u00fd holding (EPH), which comprised EUR 1,000 million as of 31 December"}, "expected": "EUR", "field": "currency", "row_key": "alloc:2", "table": "allocations"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "District heating networks", "field": "name", "row_key": "PROJ_0264c32177f2", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "1", "field": "number", "row_key": "PROJ_0264c32177f2", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_0264c32177f2", "table": "projects"}
@@ -47,7 +47,7 @@
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "EUR", "field": "currency", "row_key": "PROJ_f4adba8bd479", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "Renewable Infrastructure", "field": "project_type", "row_key": "PROJ_f4adba8bd479", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "Slovakia", "field": "country", "row_key": "PROJ_f4adba8bd479", "table": "projects"}
-{"applicability": "present", "evidence": {"pages": [14]}, "expected": "Gas distribution infrastructure", "field": "name", "row_key": "PROJ_59c619880be0", "table": "projects"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [14], "quote": "1) Length of the gas distribution infrastructure is presented as of 31 July 2025 based on the fiscal year of EPIF\u2019s subsidiary SPP-distrib\u00facia, the operator of these assets. The replaced pipes are then presented for 12 months"}, "expected": "Gas distribution infrastructure", "field": "name", "row_key": "PROJ_59c619880be0", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "3", "field": "number", "row_key": "PROJ_59c619880be0", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "Green bond", "field": "programme", "row_key": "PROJ_59c619880be0", "table": "projects"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "PORTFOLIO", "field": "isin", "row_key": "PROJ_59c619880be0", "table": "projects"}
@@ -137,7 +137,7 @@
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_9eaba29f38ea:9", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_9eaba29f38ea:9", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_9eaba29f38ea:9", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [14]}, "expected": "Gas distribution", "field": "name", "row_key": "kpi:PROJ_9eaba29f38ea:10", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [14], "quote": "1) Length of the gas distribution infrastructure is presented as of 31 July 2025 based on the fiscal year of EPIF\u2019s subsidiary SPP-distrib\u00facia, the operator of these assets. The replaced pipes are then presented for 12 months"}, "expected": "Gas distribution", "field": "name", "row_key": "kpi:PROJ_9eaba29f38ea:10", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "124685.0000000000", "field": "value", "row_key": "kpi:PROJ_9eaba29f38ea:10", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_9eaba29f38ea:10", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "tonnes of CO2-eq.", "field": "unit", "row_key": "kpi:PROJ_9eaba29f38ea:10", "table": "kpis"}
@@ -158,7 +158,7 @@
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "Absolute", "field": "measurement_type", "row_key": "kpi:PROJ_46a1cc3e1ed7:12", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "Annual", "field": "time_type", "row_key": "kpi:PROJ_46a1cc3e1ed7:12", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "year", "row_key": "kpi:PROJ_46a1cc3e1ed7:12", "table": "kpis"}
-{"applicability": "present", "evidence": {"pages": [14]}, "expected": "Gas distribution", "field": "name", "row_key": "kpi:PROJ_46a1cc3e1ed7:13", "table": "kpis"}
+{"applicability": "present", "evidence": {"located_by": "machine", "pages": [14], "quote": "1) Length of the gas distribution infrastructure is presented as of 31 July 2025 based on the fiscal year of EPIF\u2019s subsidiary SPP-distrib\u00facia, the operator of these assets. The replaced pipes are then presented for 12 months"}, "expected": "Gas distribution", "field": "name", "row_key": "kpi:PROJ_46a1cc3e1ed7:13", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "580.0000000000", "field": "value", "row_key": "kpi:PROJ_46a1cc3e1ed7:13", "table": "kpis"}
 {"applicability": null, "evidence": null, "expected": null, "field": "value_text", "row_key": "kpi:PROJ_46a1cc3e1ed7:13", "table": "kpis"}
 {"applicability": "present", "evidence": {"pages": [14]}, "expected": "tonnes of CO2-eq.", "field": "unit", "row_key": "kpi:PROJ_46a1cc3e1ed7:13", "table": "kpis"}
